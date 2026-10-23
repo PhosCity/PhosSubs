@@ -32,19 +32,19 @@ since [SeaDex](https://seadex.moe/) suggested this is the best release.
 - Go to the folder where you will find `mux.py` file. In order to mux episode 1,
     run the command
 
-    ```python
+    ```sh
     python mux.py 1
     ```
 
     In order to mux episode 1, 3 and 6, run the command
 
-    ```python
+    ```sh
     python mux.py 1 3 6
     ```
 
     In order to mux all episodes between two episodes (1 and 201 for example), run
 
-    ```python
+    ```sh
     python mux.py -b 1 201
     ```
 
