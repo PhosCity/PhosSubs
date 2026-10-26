@@ -5,6 +5,7 @@ from pathlib import Path
 from muxtools import Chapters, Premux, Setup, SubFile, mux
 
 terminal_width = shutil.get_terminal_size().columns
+current_dir = Path(__file__).parent
 
 
 class RangeDict:
@@ -53,15 +54,12 @@ class RangeDict:
 # │ Opening Paths                                                               │
 # ╰─────────────────────────────────────────────────────────────────────────────╯
 opening = RangeDict()
-# opening[1:30] = "A"
-# opening[30:31] = "B"
+opening[1:24] = current_dir / "Openings" / "01 Pray" / "Pray.ass"
 
 # ╭─────────────────────────────────────────────────────────────────────────────╮
 # │ Ending Paths                                                                │
 # ╰─────────────────────────────────────────────────────────────────────────────╯
 ending = RangeDict()
-# ending[1:30] = "A"
-# ending[30:31] = "B"
 
 # ╭─────────────────────────────────────────────────────────────────────────────╮
 # │ Merged Episodes                                                             │
@@ -102,7 +100,6 @@ def mux_file(ep):
     episode = f"{ep:03d}"  # Format to have padded zeros
 
     # Folders
-    current_dir = Path(__file__).parent
     episode_folder = current_dir / episode
     video_folder = current_dir / "video"
     font_folder = current_dir / "fonts"
@@ -146,7 +143,7 @@ def mux_file(ep):
             opening[ep],
             sync="OP",
             sync2="sync",
-            # use_actor_field=True,
+            use_actor_field=True,
             no_error=True,
         )
     if ep in ending:
@@ -155,9 +152,15 @@ def mux_file(ep):
             ending[ep],
             sync="ED",
             sync2="sync",
-            # use_actor_field=True,
+            use_actor_field=True,
             no_error=True,
         )
+
+    # ╭──────────────────────────────────────────────────────────────────────────────╮
+    # │ Clean Subtitles                                                              │
+    # ╰──────────────────────────────────────────────────────────────────────────────╯
+    print_header("Cleaning Subtitles...")
+    subtitle_file.clean_styles().clean_garbage().clean_extradata().clean_comments()
 
     # ╭──────────────────────────────────────────────────────────────────────────────╮
     # │ Font Collection                                                              │
