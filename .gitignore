@@ -4,6 +4,9 @@
 !.git*
 !.github/**
 
+# Miscellaneous
+!misc/prepare-commit-msg
+
 # Project Gintama
 
 ## Gintama Season 1
@@ -18,3 +21,6 @@
 !Gintama/01 Gintama/fonts/*OTF
 !Gintama/01 Gintama/fonts/*ttf
 !Gintama/01 Gintama/fonts/*TTF
+### Openings
+!Gintama/01 Gintama/Openings/**/*.ass
+!Gintama/01 Gintama/Openings/**/*.py
