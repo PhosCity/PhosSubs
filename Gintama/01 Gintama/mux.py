@@ -60,6 +60,7 @@ opening[1:24] = current_dir / "Openings" / "01 Pray" / "Pray.ass"
 # │ Ending Paths                                                                │
 # ╰─────────────────────────────────────────────────────────────────────────────╯
 ending = RangeDict()
+ending[1:13] = current_dir / "Endings" / "01 Fuusen Gamu" / "Fuusen Gamu.ass"
 
 # ╭─────────────────────────────────────────────────────────────────────────────╮
 # │ Merged Episodes                                                             │
@@ -77,8 +78,7 @@ all_title = {
 
 
 def print_header(header: str, dash_type="-") -> None:
-    if dash_type == "=":
-        print("\n\n")
+    print("\n")
     dashes = dash_type * terminal_width
     padding = int((len(dashes) + len(header)) / 2)
     print(dashes)
@@ -98,6 +98,7 @@ def format_episode(ep) -> str:
 
 def mux_file(ep):
     episode = f"{ep:03d}"  # Format to have padded zeros
+    timesource = "24000/1001"
 
     # Folders
     episode_folder = current_dir / episode
@@ -132,7 +133,9 @@ def mux_file(ep):
     )
 
     print_header("Generating Chapters...")
-    chapters = Chapters.from_sub(subtitle_file, use_actor_field=True)
+    chapters = Chapters.from_sub(
+        subtitle_file, timesource=timesource, use_actor_field=True
+    )
 
     # ╭──────────────────────────────────────────────────────────────────────────────╮
     # │ Karaoke Subtitles                                                            │
@@ -145,6 +148,7 @@ def mux_file(ep):
             sync2="sync",
             use_actor_field=True,
             no_error=True,
+            timesource=timesource,
         )
     if ep in ending:
         print_header("Merging Ending...")
@@ -154,6 +158,7 @@ def mux_file(ep):
             sync2="sync",
             use_actor_field=True,
             no_error=True,
+            timesource=timesource,
         )
 
     # ╭──────────────────────────────────────────────────────────────────────────────╮
@@ -170,6 +175,7 @@ def mux_file(ep):
         use_system_fonts=False,
         search_current_dir=False,
         additional_fonts=font_folder,
+        error_missing=True,
     )
 
     # ╭──────────────────────────────────────────────────────────────────────────────╮
