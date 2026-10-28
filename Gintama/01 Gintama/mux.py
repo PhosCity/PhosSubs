@@ -122,6 +122,7 @@ def mux_file(ep):
         mkv_title_naming=title,
         work_dir=str(Path("build") / "muxtools"),
         clean_work_dirs=True,
+        error_on_danger=True,
     )
 
     video = Premux(
@@ -175,7 +176,6 @@ def mux_file(ep):
         use_system_fonts=False,
         search_current_dir=False,
         additional_fonts=font_folder,
-        error_missing=True,
     )
 
     # ╭──────────────────────────────────────────────────────────────────────────────╮
