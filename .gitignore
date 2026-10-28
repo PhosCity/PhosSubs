@@ -24,3 +24,8 @@
 ### Openings
 !Gintama/01 Gintama/Openings/**/*.ass
 !Gintama/01 Gintama/Openings/**/*.py
+### Endings
+!Gintama/01 Gintama/Endings/**/*.ass
+!Gintama/01 Gintama/Endings/**/*.py
+### Miscellaneous
+!Gintama/01 Gintama/misc/phos.GintamaNotes.moon
