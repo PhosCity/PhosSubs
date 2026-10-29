@@ -17,9 +17,9 @@ Video File: ../video/003.mkv
 Keyframes File: ../video/003_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.319444
-Video Zoom Percent: 1.875000
-Active Line: 411
-Video Position: 2402
+Video Zoom Percent: 1.500000
+Active Line: 408
+Video Position: 35780
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,7 +31,6 @@ Style: Narrator,Montara-Italic,38,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,
 Style: Title,HOT-KyoMadokaKanalarge Std R Strp,40,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0.5,0,1,2.5,0,2,15,15,360,0
 Style: Captions,Montara-Gothic,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0.5,0,1,3,0,2,15,15,30,0
 Style: Warning,Montara-Gothic,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0.5,0,1,2,2,2,10,10,10,0
-Style: On Screen,Arial,24,&H0072F9FB,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,15,15,15,0
 Style: Preview Bottom,BurbankSmall-Black,32,&H00FFFFFF,&H000000FF,&H003B20EB,&H00000000,-1,0,0,0,104,100,1,0,1,3,0,2,15,15,7,0
 Style: Preview Top,BurbankSmall-Black,32,&H00FFFFFF,&H000000FF,&H003B20EB,&H00000000,-1,0,0,0,104,100,1,0,1,3,0,8,15,15,10,0
 Style: Preview,DFHSMincho StdN W7 Strp,50,&H00FFFFFF,&H000000FF,&H00131313,&H00000000,0,0,0,0,100,100,0.5,0,1,1.2,0,9,15,90,0,0
@@ -51,405 +50,404 @@ Comment: 0,0:24:50.01,0:24:50.05,Main,chptr,0,0,0,,{Outro}
 Comment: 0,0:00:27.67,0:00:27.72,Main,OP,0,0,0,,
 Comment: 0,0:22:55.02,0:22:55.06,Main,ED,0,0,0,,
 Comment: 0,0:24:40.00,0:24:40.04,Main,,0,0,0,,{=772}========================CHAPTERS AND OPENINGS===================== END
-Comment: 0,0:00:01.46,0:00:03.27,Main,,0,0,0,,{=753}===============================DIALOGUE============================
-Dialogue: 0,0:00:01.46,0:00:03.27,Narrator,SHINPACHI (mono),0,0,0,,And so outside of certain areas,
-Dialogue: 0,0:00:03.27,0:00:05.81,Narrator,SHINPACHI (mono),0,0,0,,{\q2}we kicked off the Gin Tama anime series with a one \Nhour special full of non-stop laughs and excitement.
-Dialogue: 0,0:00:05.81,0:00:10.02,Narrator,SHINPACHI (mono),0,0,0,,This time, we'll be taking a trip back \Nto when Gin and I first met.
-Dialogue: 0,0:01:54.41,0:01:58.59,Main,SHINPACHI'S FATHER,0,0,0,,A samurai's sword is not something \Nthat is kept in a sheath.
-Dialogue: 0,0:01:59.08,0:02:01.70,Main,SHINPACHI'S FATHER,0,0,0,,It's something that you hold in your soul.
-Dialogue: 0,0:02:02.60,0:02:05.91,Main,SHINPACHI'S FATHER,0,0,0,,These days, samurai aren't needed.
-Dialogue: 0,0:02:06.47,0:02:11.77,Main,SHINPACHI'S FATHER,0,0,0,,But no matter how much times change, \Nthere are things that people mustn't forget.
-Dialogue: 0,0:02:12.56,0:02:15.32,Main,SHINPACHI'S FATHER,0,0,0,,Even if there comes a time \Nwhen you must give up your sword,
-Dialogue: 0,0:02:15.32,0:02:18.82,Main,SHINPACHI'S FATHER,0,0,0,,you must never lose \Nthe unwavering sword kept in your soul.
-Dialogue: 0,0:02:20.52,0:02:21.78,Main,SHINPACHI,0,0,0,,Father!
-Dialogue: 0,0:02:23.81,0:02:26.10,Main,SHINPACHI'S FATHER,0,0,0,,The cloudless Edo sky...
-Dialogue: 0,0:02:26.66,0:02:28.94,Main,SHINPACHI'S FATHER,0,0,0,,I wish I could've seen it one last time.
-Dialogue: 0,0:02:30.47,0:02:31.60,Narrator,SHINPACHI (mono),0,0,0,,The land of the samurai.
-Dialogue: 0,0:02:32.21,0:02:35.66,Narrator,SHINPACHI (mono),0,0,0,,There was a time, long ago, \Nwhen our country was called by that name.
-Dialogue: 0,0:02:36.46,0:02:40.64,Narrator,SHINPACHI (mono),0,0,0,,Those dream-filled blue skies \Nupon which the samurai once gazed,
-Dialogue: 0,0:02:40.64,0:02:42.18,Narrator,SHINPACHI (mono),0,0,0,,are now filled with ships from strange worlds.
-Dialogue: 0,0:02:42.69,0:02:46.35,Narrator,SHINPACHI (mono),0,0,0,,The towns where the samurai \Nonce proudly walked
-Dialogue: 0,0:02:46.67,0:02:48.95,Narrator,SHINPACHI (mono),0,0,0,,are now filled with swaggering, arrogant aliens.
-Dialogue: 0,0:02:49.47,0:02:51.85,Narrator,SHINPACHI (mono),0,0,0,,This is our world today. This is...
-Dialogue: 0,0:02:52.59,0:02:53.71,Narrator,SHINPACHI (mono),0,0,0,,...our city.
-Dialogue: 0,0:02:54.86,0:02:58.78,Main,MANAGER,0,0,0,,No, you idiot! That's not the one! \NIt's right there, there!
-Dialogue: 0,0:02:58.78,0:03:02.25,Main,MANAGER,0,0,0,,Nowadays even a chimpanzee could do this!
-Dialogue: 0,0:03:02.25,0:03:05.01,Main,MANAGER,0,0,0,,You're human. You've been \Nworking here for more than a year.
-Dialogue: 0,0:03:05.01,0:03:06.47,Main,MANAGER,0,0,0,,Why can't you do this?!
-Dialogue: 0,0:03:06.47,0:03:10.44,Main,SHINPACHI,0,0,0,,I...I'm sorry. Swordsmanship is \Nthe only thing I've ever done...
-Dialogue: 0,0:03:10.44,0:03:12.75,Main,MANAGER,0,0,0,,Loser! You're still clinging to your sword?!
-Dialogue: 0,0:03:14.14,0:03:17.71,Main,MANAGER,0,0,0,,Samurai and swords are all ancient history now!
-Dialogue: 0,0:03:17.71,0:03:21.52,Main,MANAGER,0,0,0,,How long are you going to act \Nas if you're a samurai?! Huh?
-Dialogue: 0,0:03:21.52,0:03:22.52,Main,AMANTO A,0,0,0,,Oh, come on now...
-Dialogue: 0,0:03:22.52,0:03:24.84,Main,AMANTO A,0,0,0,,Just leave it at that, boss.
-Dialogue: 0,0:03:24.84,0:03:27.64,Main,AMANTO A,0,0,0,,Hey, kid, don't you bother with the register.
-Dialogue: 0,0:03:27.64,0:03:28.35,Main,AMANTO A,0,0,0,,Just get me some milk.
-Dialogue: 0,0:03:28.35,0:03:30.09,Main,SHINPACHI,0,0,0,,Oh... All right. Right away.
-Dialogue: 0,0:03:30.67,0:03:33.86,Main,MANAGER,0,0,0,,Sir, you mustn't go so easy on him.
-Dialogue: 0,0:03:33.86,0:03:36.53,Main,AMANTO A,0,0,0,,Nah, just that lately whenever I see a samurai,
-Dialogue: 0,0:03:36.53,0:03:38.18,Main,AMANTO A,0,0,0,,I feel kind of sorry for them.
-Dialogue: 0,0:03:39.85,0:03:45.71,Main,AMANTO A,0,0,0,,When we first came here, the samurai \Nwere always spoiling for a fight.
-Dialogue: 0,0:03:45.71,0:03:48.67,Main,AMANTO A,0,0,0,,But, now, it's as if we've lost \Nan irritable friend. It's lonely.
-Dialogue: 0,0:03:50.62,0:03:53.42,Main,AMANTO A,0,0,0,,So I end up wanting to mess with them.
-Dialogue: 0,0:03:55.68,0:03:59.21,Thoughts,SHINPACHI (mono),0,0,0,,Twenty years ago, aliens called \Nthe Amanto suddenly came to Edo.
-Dialogue: 0,0:03:59.82,0:04:02.97,Thoughts,SHINPACHI (mono),0,0,0,,The rise of the Amanto led \Nto the decline of the samurai.
-Dialogue: 0,0:04:01.23,0:04:02.97,Secondary,MANAGER,0,0,0,,What are you doing, Shinpachi?!
-Dialogue: 0,0:04:03.83,0:04:05.43,Thoughts,SHINPACHI (mono),0,0,0,,We were stripped away of our swords and status
-Dialogue: 0,0:04:05.43,0:04:07.97,Thoughts,SHINPACHI (mono),0,0,0,,and we abandoned our honor and everything else.
-Dialogue: 0,0:04:08.39,0:04:10.68,Thoughts,SHINPACHI (mono),0,0,0,,No, it wasn't only the samurai.
-Dialogue: 0,0:04:10.68,0:04:13.48,Thoughts,SHINPACHI (mono),0,0,0,,It was everyone in this country...
-Dialogue: 0,0:04:13.83,0:04:14.56,Main,GINTOKI,0,0,0,,Hey.
-Dialogue: 0,0:04:18.55,0:04:19.75,Thoughts,SHINPACHI (mono),0,0,0,,A samurai?!
-Dialogue: 0,0:04:25.07,0:04:26.76,Main,AMANTO A,0,0,0,,Who the hell are you?!
-Dialogue: 0,0:04:27.20,0:04:30.55,Main,AMANTO A,0,0,0,,Strapping on a wooden sword in the age of the Sword Ban!
-Dialogue: 0,0:04:30.55,0:04:35.26,Main,GINTOKI,0,0,0,,Blah blah blah. Are you in heat or something?
-Dialogue: 0,0:04:35.89,0:04:40.12,Main,GINTOKI,0,0,0,,Look at what happened to my chocolate parfait because of your fussing.
-Dialogue: 0,0:04:40.63,0:04:43.38,Main,GINTOKI,0,0,0,,All of it spilled out!
-Dialogue: 0,0:04:44.43,0:04:46.48,Main,AMANTO B,0,0,0,,Wh-What the hell are you doing?
-Dialogue: 0,0:04:46.48,0:04:48.51,Main,AMANTO C,0,0,0,,Who do you think we are?
-Dialogue: 0,0:04:48.51,0:04:52.55,Main,GINTOKI,0,0,0,,My doctor told me my blood sugar level was too high...
-Dialogue: 0,0:04:52.55,0:04:56.71,Main,GINTOKI,0,0,0,,So I just have one parfait a week!
-Dialogue: 0,0:05:01.36,0:05:05.44,Thoughts,SHINPACHI (mono),0,0,0,,He was too fierce to be called a samurai,
-Dialogue: 0,0:05:05.44,0:05:07.91,Thoughts,SHINPACHI (mono),0,0,0,,but too focused...
-Dialogue: 0,0:05:08.66,0:05:10.61,Thoughts,SHINPACHI (mono),0,0,0,,...to be called a thug.
-Dialogue: 0,0:05:10.61,0:05:13.75,Main,GINTOKI,0,0,0,,Tell your manager that it tasted great.
-Dialogue: 0,0:05:25.72,0:05:28.23,Main,YASHICHI,0,0,0,,All right, all right, out of the way.
-Dialogue: 0,0:05:28.23,0:05:29.59,Main,YASHICHI,0,0,0,,Oh! There he is!
-Dialogue: 0,0:05:29.99,0:05:32.71,Main,YASHICHI,0,0,0,,So you're the one who's waving around a wooden sword and causing a riot!
-Dialogue: 0,0:05:33.18,0:05:35.30,Main,YASHICHI,0,0,0,,All right, don't move.
-Dialogue: 0,0:05:33.62,0:05:35.64,Main,SHINPACHI,0,0,0,,Hold on... Wait. You're mistaken!
-Dialogue: 0,0:05:36.03,0:05:38.20,Main,OOKA,0,0,0,,Hey, Yashichi! Check inside!
-Dialogue: 0,0:05:38.60,0:05:40.05,Main,YASHICHI,0,0,0,,Yes, sir!
-Dialogue: 0,0:05:40.05,0:05:43.06,Main,YASHICHI,0,0,0,,Uh-oh... It's the ambassador from Chatoran.
-Dialogue: 0,0:05:43.06,0:05:45.61,Main,YASHICHI,0,0,0,,This is an international incident...
-Dialogue: 0,0:05:45.61,0:05:46.90,Main,YASHICHI,0,0,0,,Do you realize what you've done?
-Dialogue: 0,0:05:47.52,0:05:49.75,Main,SHINPACHI,0,0,0,,I told you, it wasn't me!
-Dialogue: 0,0:05:49.75,0:05:51.62,Main,SHINPACHI,0,0,0,,The man who did it already ran off!
-Dialogue: 0,0:05:51.62,0:05:54.09,Main,OOKA,0,0,0,,Yeah, yeah, that's what they always say.
-Dialogue: 0,0:05:54.09,0:05:56.98,Main,OOKA,0,0,0,,Next time make your excuses after you hide your weapon.
-Dialogue: 0,0:05:57.45,0:05:59.79,Main,OOKA,0,0,0,,I'm going to file a report. Come with us to the station.
-Dialogue: 0,0:06:01.14,0:06:02.36,Main,SHINPACHI,0,0,0,,Huh?
-Dialogue: 0,0:06:02.36,0:06:03.55,Main,SHINPACHI,0,0,0,,What?!
-Dialogue: 0,0:06:06.31,0:06:08.18,Main,GINTOKI,0,0,0,,It just doesn't feel right...
-Dialogue: 0,0:06:08.58,0:06:11.23,Main,GINTOKI,0,0,0,,I get all cranky if I don't have some sugar.
-Dialogue: 0,0:06:12.72,0:06:15.65,Main,SHINPACHI,0,0,0,,How dare you make me take the blame, you bastard!
-Dialogue: 0,0:06:15.65,0:06:18.59,Main,SHINPACHI,0,0,0,,Everything's a mess because of you!
-Dialogue: 0,0:06:18.59,0:06:19.98,Main,GINTOKI,0,0,0,,What an honest kid.
-Dialogue: 0,0:06:19.98,0:06:22.13,Main,GINTOKI,0,0,0,,You came to give me back my wooden sword?
-Dialogue: 0,0:06:22.13,0:06:26.25,Main,GINTOKI,0,0,0,,It's okay. It's just something I bought on a school trip.
-Dialogue: 0,0:06:26.25,0:06:27.28,Main,SHINPACHI,0,0,0,,That's not it!
-Dialogue: 0,0:06:27.28,0:06:29.97,Main,SHINPACHI,0,0,0,,I just barely managed to get away from the cops!
-Dialogue: 0,0:06:29.97,0:06:33.99,Main,SHINPACHI,0,0,0,,I keep telling them they've got it wrong, but they won't listen to a samurai!
-Dialogue: 0,0:06:33.99,0:06:36.91,Main,SHINPACHI,0,0,0,,My manager even said that I was the murderer...
-Dialogue: 0,0:06:36.91,0:06:38.50,Main,GINTOKI,0,0,0,,You got sacked, eh?
-Dialogue: 0,0:06:39.70,0:06:41.92,Main,GINTOKI,0,0,0,,A clerk who can't use a cash register
-Dialogue: 0,0:06:41.92,0:06:44.66,Main,GINTOKI,0,0,0,,is about as useless as a mom who can't make fried rice.
-Dialogue: 0,0:06:44.66,0:06:47.07,Main,SHINPACHI,0,0,0,,Just what did you say about my mother?!
-Dialogue: 0,0:06:47.07,0:06:50.18,Main,GINTOKI,0,0,0,,You're getting all worked up just because you got fired...
-Dialogue: 0,0:06:50.18,0:06:53.44,Main,SHINPACHI,0,0,0,,Nowadays, there isn't anyone who will hire a samurai!
-Dialogue: 0,0:06:53.44,0:06:56.93,Main,SHINPACHI,0,0,0,,How am I supposed to survive from now on?! Damn it!
-Dialogue: 0,0:07:01.77,0:07:05.19,Main,GINTOKI,0,0,0,,Quit your whining, you four-eyed idiot!
-Dialogue: 0,0:07:05.19,0:07:07.44,Main,GINTOKI,0,0,0,,Don't think that you're the only one who's got problems!
-Dialogue: 0,0:07:07.92,0:07:12.44,Main,GINTOKI,0,0,0,,In this world, there are samurai who call cardboard boxes their homes!
-Dialogue: 0,0:07:12.44,0:07:14.95,Main,GINTOKI,0,0,0,,Can't you be more positive like them?
-Dialogue: 0,0:07:15.49,0:07:18.38,Main,SHINPACHI,0,0,0,,Do you even know the meaning of the word "positive"?!
-Dialogue: 0,0:07:18.38,0:07:19.58,Main,OTAE,0,0,0,,Oh. Shin?
-Dialogue: 0,0:07:22.05,0:07:24.00,Main,OTAE,0,0,0,,What are you doing here?
-Dialogue: 0,0:07:24.91,0:07:26.00,Main,OTAE,0,0,0,,Why aren't you at work?
-Dialogue: 0,0:07:26.51,0:07:28.23,Main,SHINPACHI,0,0,0,,Ack! Sis!
-Dialogue: 0,0:07:28.23,0:07:29.22,Main,GINTOKI,0,0,0,,Oh, hi.
-Dialogue: 0,0:07:29.22,0:07:33.89,Main,OTAE,0,0,0,,What are you doing screwing around not working, you little punk!
-Dialogue: 0,0:07:33.89,0:07:36.73,Main,OTAE,0,0,0,,Do you know what kind of trouble we're in this month?!
-Dialogue: 0,0:07:36.73,0:07:40.35,Main,OTAE,0,0,0,,Even your pathetic paycheck is crucial!
-Dialogue: 0,0:07:40.74,0:07:42.89,Main,SHINPACHI,0,0,0,,W-Wait, Sis!
-Dialogue: 0,0:07:42.89,0:07:45.24,Main,SHINPACHI,0,0,0,,This is all his fault.
-Dialogue: 0,0:07:45.24,0:07:47.13,Main,SHINPACHI,0,0,0,,Hey, wait!
-Dialogue: 0,0:07:47.13,0:07:51.29,Main,GINTOKI,0,0,0,,Sorry, gotta catch a rerun of a soap opera this evening.
+Comment: 0,0:00:01.46,0:00:03.27,Main,,0,0,0,,{=822}===============================DIALOGUE============================
+Dialogue: 0,0:00:01.48,0:00:03.45,Narrator,SHINPACHI (mono),0,0,0,,And so outside of certain areas,
+Dialogue: 0,0:00:03.45,0:00:05.81,Narrator,SHINPACHI (mono),0,0,0,,{\q2}we kicked off the Gin Tama anime series with a one \Nhour special full of non-stop laughs and excitement.
+Dialogue: 0,0:00:05.82,0:00:09.99,Narrator,SHINPACHI (mono),0,0,0,,This time, we'll be taking a trip back \Nto when Gin and I first met.
+Dialogue: 0,0:01:54.31,0:01:58.98,Main,SHINPACHI'S FATHER,0,0,0,,A samurai's sword is not something \Nthat is kept in a sheath.
+Dialogue: 0,0:01:58.98,0:02:02.06,Main,SHINPACHI'S FATHER,0,0,0,,It's something that you hold in your soul.
+Dialogue: 0,0:02:02.43,0:02:06.40,Main,SHINPACHI'S FATHER,0,0,0,,These days, samurai aren't needed.
+Dialogue: 0,0:02:06.40,0:02:11.78,Main,SHINPACHI'S FATHER,0,0,0,,But no matter how much times change, \Nthere are things that people mustn't forget.
+Dialogue: 0,0:02:12.47,0:02:15.13,Main,SHINPACHI'S FATHER,0,0,0,,Even if there comes a time \Nwhen you must give up your sword,
+Dialogue: 0,0:02:15.13,0:02:18.83,Main,SHINPACHI'S FATHER,0,0,0,,you must never lose \Nthe unwavering sword kept in your soul.
+Dialogue: 0,0:02:20.46,0:02:21.79,Main,SHINPACHI,0,0,0,,Father!
+Dialogue: 0,0:02:23.71,0:02:26.59,Main,SHINPACHI'S FATHER,0,0,0,,The cloudless Edo sky...
+Dialogue: 0,0:02:26.59,0:02:29.46,Main,SHINPACHI'S FATHER,0,0,0,,I wish I could've seen it one last time.
+Dialogue: 0,0:02:30.43,0:02:32.09,Narrator,SHINPACHI (mono),0,0,0,,The land of the samurai.
+Dialogue: 0,0:02:32.09,0:02:35.82,Narrator,SHINPACHI (mono),0,0,0,,There was a time, long ago, \Nwhen our country was called by that name.
+Dialogue: 0,0:02:36.47,0:02:40.45,Narrator,SHINPACHI (mono),0,0,0,,Those dream-filled blue skies \Nupon which the samurai once gazed,
+Dialogue: 0,0:02:40.45,0:02:42.18,Narrator,SHINPACHI (mono),0,0,0,,are now filled with ships from strange worlds.
+Dialogue: 0,0:02:42.57,0:02:46.40,Narrator,SHINPACHI (mono),0,0,0,,The towns where the samurai \Nonce proudly walked
+Dialogue: 0,0:02:46.68,0:02:49.32,Narrator,SHINPACHI (mono),0,0,0,,are now filled with swaggering, arrogant aliens.
+Dialogue: 0,0:02:49.32,0:02:51.32,Narrator,SHINPACHI (mono),0,0,0,,This is our world today.
+Dialogue: 0,0:02:51.32,0:02:53.81,Narrator,SHINPACHI (mono),0,0,0,,This is our city.
+Dialogue: 0,0:02:54.86,0:02:58.50,Main,MANAGER,0,0,0,,No, you idiot! That's not the one! \NIt's right there, there!
+Dialogue: 0,0:02:58.50,0:03:02.04,Main,MANAGER,0,0,0,,Nowadays even a chimpanzee could do this!
+Dialogue: 0,0:03:02.04,0:03:04.79,Main,MANAGER,0,0,0,,You're human. You've been \Nworking here for more than a year.
+Dialogue: 0,0:03:04.79,0:03:05.83,Main,MANAGER,0,0,0,,Why can't you do this?!
+Dialogue: 0,0:03:06.72,0:03:10.00,Main,SHINPACHI,0,0,0,,I...I'm sorry. Swordsmanship is \Nthe only thing I've ever done...
+Dialogue: 0,0:03:10.25,0:03:12.80,Main,MANAGER,0,0,0,,{\c&HF2F5F4&\3c&HF2F5F4&\4c&HF2F5F4&\t(23,149,1,\c&HFFFFFF&\3c&H000000&\4c&H000000&)}Loser! You're still clinging to your sword?!
+Dialogue: 0,0:03:14.02,0:03:17.59,Main,MANAGER,0,0,0,,Samurai and swords are all ancient history now!
+Dialogue: 0,0:03:17.59,0:03:21.31,Main,MANAGER,0,0,0,,How long are you going to act \Nas if you're a samurai?! Huh?
+Dialogue: 0,0:03:21.31,0:03:21.89,Main,AMANTO A,0,0,0,,Oh, come on now...
+Dialogue: 0,0:03:22.40,0:03:24.35,Main,AMANTO A,0,0,0,,Just leave it at that, boss.
+Dialogue: 0,0:03:24.63,0:03:27.45,Main,AMANTO A,0,0,0,,Hey, kid, don't you bother with the register.
+Dialogue: 0,0:03:27.45,0:03:28.35,Main,AMANTO A,0,0,0,,Just get me some milk.
+Dialogue: 0,0:03:28.35,0:03:30.61,Main,SHINPACHI,0,0,0,,Oh... All right. Right away.
+Dialogue: 0,0:03:30.61,0:03:33.86,Main,MANAGER,0,0,0,,Sir, you mustn't go so easy on him.
+Dialogue: 0,0:03:33.86,0:03:36.31,Main,AMANTO A,0,0,0,,Nah, just that lately whenever I see a samurai,
+Dialogue: 0,0:03:36.31,0:03:38.26,Main,AMANTO A,0,0,0,,I feel kind of sorry for them.
+Dialogue: 0,0:03:39.73,0:03:45.16,Main,AMANTO A,0,0,0,,When we first came here, the samurai \Nwere always spoiling for a fight.
+Dialogue: 0,0:03:45.43,0:03:48.50,Main,AMANTO A,0,0,0,,But, now, it's as if we've lost \Nan irritable friend. It's lonely.
+Dialogue: 0,0:03:50.63,0:03:53.65,Main,AMANTO A,0,0,0,,So I end up wanting to mess with them.
+Dialogue: 0,0:03:55.60,0:03:59.26,Thoughts,SHINPACHI (mono),0,0,0,,Twenty years ago, aliens called \Nthe Amanto suddenly came to Edo.
+Dialogue: 0,0:03:59.75,0:04:02.97,Thoughts,SHINPACHI (mono),0,0,0,,The rise of the Amanto led \Nto the decline of the samurai.
+Dialogue: 0,0:04:01.12,0:04:02.97,Secondary,MANAGER,0,0,0,,What are you doing, Shinpachi?!
+Dialogue: 0,0:04:03.73,0:04:05.39,Thoughts,SHINPACHI (mono),0,0,0,,We were stripped away of our swords and status
+Dialogue: 0,0:04:05.39,0:04:07.98,Thoughts,SHINPACHI (mono),0,0,0,,and we abandoned our honor \Nand everything else.
+Dialogue: 0,0:04:08.35,0:04:10.57,Thoughts,SHINPACHI (mono),0,0,0,,No, it wasn't only the samurai.
+Dialogue: 0,0:04:10.57,0:04:13.48,Thoughts,SHINPACHI (mono),0,0,0,,It was everyone in this country...
+Dialogue: 0,0:04:13.77,0:04:14.61,Main,GINTOKI,0,0,0,,Hey.
+Dialogue: 0,0:04:18.43,0:04:19.54,Thoughts,SHINPACHI (mono),0,0,0,,A samurai?!
+Dialogue: 0,0:04:25.08,0:04:27.13,Main,AMANTO A,0,0,0,,Who the hell are you?!
+Dialogue: 0,0:04:27.13,0:04:30.00,Main,AMANTO A,0,0,0,,Strapping on a wooden sword \Nin the age of the Sword Ban!
+Dialogue: 0,0:04:30.34,0:04:35.77,Main,GINTOKI,0,0,0,,Blah blah blah. \NAre you in heat or something?
+Dialogue: 0,0:04:35.77,0:04:40.09,Main,GINTOKI,0,0,0,,Look at what happened to my chocolate \Nparfait because of your fussing.
+Dialogue: 0,0:04:40.64,0:04:43.01,Main,GINTOKI,0,0,0,,All of it spilled out!
+Dialogue: 0,0:04:44.39,0:04:46.35,Main,AMANTO B,0,0,0,,Wh-What the hell are you doing?
+Dialogue: 0,0:04:46.35,0:04:48.02,Main,AMANTO C,0,0,0,,Who do you think we are?
+Dialogue: 0,0:04:48.29,0:04:52.29,Main,GINTOKI,0,0,0,,My doctor told me my blood \Nsugar level was too high...
+Dialogue: 0,0:04:52.29,0:04:56.81,Main,GINTOKI,0,0,0,,So I just have one parfait a week!
+Dialogue: 0,0:05:01.24,0:05:04.66,Thoughts,SHINPACHI (mono),0,0,0,,He was too fierce to be called a samurai,
+Dialogue: 0,0:05:05.32,0:05:08.54,Thoughts,SHINPACHI (mono),0,0,0,,but too focused...
+Dialogue: 0,0:05:08.54,0:05:10.55,Thoughts,SHINPACHI (mono),0,0,0,,...to be called a thug.
+Dialogue: 0,0:05:10.55,0:05:14.09,Main,GINTOKI,0,0,0,,Tell your manager that it tasted great.
+Dialogue: 0,0:05:25.76,0:05:28.03,Main,YASHICHI,0,0,0,,All right, all right, out of the way.
+Dialogue: 0,0:05:28.03,0:05:29.93,Main,YASHICHI,0,0,0,,Oh! There he is!
+Dialogue: 0,0:05:29.93,0:05:33.19,Main,YASHICHI,0,0,0,,So you're the one who's waving around \Na wooden sword and causing a riot!
+Dialogue: 0,0:05:33.19,0:05:35.95,Main,YASHICHI,0,0,0,,All right, don't move.
+Dialogue: 0,0:05:33.63,0:05:35.95,Main,SHINPACHI,0,0,0,,Hold on... Wait. You're mistaken!
+Dialogue: 0,0:05:35.95,0:05:38.49,Main,OOKA,0,0,0,,Hey, Yashichi! Check inside!
+Dialogue: 0,0:05:38.49,0:05:39.36,Main,YASHICHI,0,0,0,,Yes, sir!
+Dialogue: 0,0:05:39.84,0:05:42.66,Main,YASHICHI,0,0,0,,Uh-oh... It's the ambassador from Chatoran.
+Dialogue: 0,0:05:42.95,0:05:45.37,Main,YASHICHI,0,0,0,,This is an international incident...
+Dialogue: 0,0:05:45.37,0:05:46.95,Main,YASHICHI,0,0,0,,Do you realize what you've done?
+Dialogue: 0,0:05:47.28,0:05:49.55,Main,SHINPACHI,0,0,0,,I told you, it wasn't me!
+Dialogue: 0,0:05:49.55,0:05:51.41,Main,SHINPACHI,0,0,0,,The man who did it already ran off!
+Dialogue: 0,0:05:51.41,0:05:53.96,Main,OOKA,0,0,0,,Yeah, yeah, that's what they always say.
+Dialogue: 0,0:05:53.96,0:05:57.38,Main,OOKA,0,0,0,,Next time make your excuses \Nafter you hide your weapon.
+Dialogue: 0,0:05:57.38,0:05:59.80,Main,OOKA,0,0,0,,I'm going to file a report. \NCome with us to the station.
+Dialogue: 0,0:06:01.02,0:06:01.80,Main,SHINPACHI,0,0,0,,Huh?
+Dialogue: 0,0:06:02.31,0:06:03.55,Main,SHINPACHI,0,0,0,,What?!
+Dialogue: 0,0:06:06.55,0:06:08.18,Main,GINTOKI,0,0,0,,It just doesn't feel right...
+Dialogue: 0,0:06:08.71,0:06:11.23,Main,GINTOKI,0,0,0,,I get all cranky if I don't have some sugar.
+Dialogue: 0,0:06:12.65,0:06:15.44,Main,SHINPACHI,0,0,0,,How dare you make me take \Nthe blame, you bastard!
+Dialogue: 0,0:06:15.44,0:06:18.02,Main,SHINPACHI,0,0,0,,Everything's a mess because of you!
+Dialogue: 0,0:06:18.38,0:06:19.60,Main,GINTOKI,0,0,0,,What an honest kid.
+Dialogue: 0,0:06:19.60,0:06:21.90,Main,GINTOKI,0,0,0,,You came to give me back my wooden sword?
+Dialogue: 0,0:06:21.90,0:06:26.02,Main,GINTOKI,0,0,0,,It's okay. It's just something \NI bought on a school trip.
+Dialogue: 0,0:06:26.02,0:06:27.16,Main,SHINPACHI,0,0,0,,That's not it!
+Dialogue: 0,0:06:27.16,0:06:29.54,Main,SHINPACHI,0,0,0,,I just barely managed to get away from the cops!
+Dialogue: 0,0:06:29.54,0:06:33.87,Main,SHINPACHI,0,0,0,,I keep telling them they've got it wrong, \Nbut they won't listen to a samurai!
+Dialogue: 0,0:06:33.87,0:06:36.50,Main,SHINPACHI,0,0,0,,My manager even said that I was the murderer...
+Dialogue: 0,0:06:36.50,0:06:38.50,Main,GINTOKI,0,0,0,,You got sacked, eh?
+Dialogue: 0,0:06:39.63,0:06:41.67,Main,GINTOKI,0,0,0,,A clerk who can't use a cash register
+Dialogue: 0,0:06:41.67,0:06:44.44,Main,GINTOKI,0,0,0,,is about as useless as a mom \Nwho can't make fried rice.
+Dialogue: 0,0:06:44.44,0:06:46.87,Main,SHINPACHI,0,0,0,,Just what did you say about my mother?!
+Dialogue: 0,0:06:46.87,0:06:49.81,Main,GINTOKI,0,0,0,,You're getting all worked up \Njust because you got fired...
+Dialogue: 0,0:06:49.81,0:06:53.18,Main,SHINPACHI,0,0,0,,Nowadays, there isn't anyone \Nwho will hire a samurai!
+Dialogue: 0,0:06:53.18,0:06:56.65,Main,SHINPACHI,0,0,0,,How am I supposed to survive \Nfrom now on?! Damn it!
+Dialogue: 0,0:07:01.72,0:07:04.74,Main,GINTOKI,0,0,0,,Quit your whining, you four-eyed idiot!
+Dialogue: 0,0:07:05.17,0:07:07.45,Main,GINTOKI,0,0,0,,Don't think that you're \Nthe only one who's got problems!
+Dialogue: 0,0:07:07.85,0:07:12.33,Main,GINTOKI,0,0,0,,In this world, there are samurai \Nwho call cardboard boxes their homes!
+Dialogue: 0,0:07:12.33,0:07:15.50,Main,GINTOKI,0,0,0,,Can't you be more positive like them?
+Dialogue: 0,0:07:15.50,0:07:18.00,Main,SHINPACHI,0,0,0,,Do you even know the meaning \Nof the word "positive"?!
+Dialogue: 0,0:07:18.00,0:07:19.85,Main,OTAE,0,0,0,,Oh. Shin?
+Dialogue: 0,0:07:22.01,0:07:24.05,Main,OTAE,0,0,0,,What are you doing here?
+Dialogue: 0,0:07:24.85,0:07:26.05,Main,OTAE,0,0,0,,Why aren't you at work?
+Dialogue: 0,0:07:26.43,0:07:28.11,Main,SHINPACHI,0,0,0,,Ack! Sis!
+Dialogue: 0,0:07:28.11,0:07:29.22,Main,GINTOKI,0,0,0,,Oh, hi.
+Dialogue: 0,0:07:29.22,0:07:33.22,Main,OTAE,0,0,0,,What are you doing screwing around \Nnot working, you little punk!
+Dialogue: 0,0:07:33.69,0:07:36.45,Main,OTAE,0,0,0,,Do you know what kind of \Ntrouble we're in this month?!
+Dialogue: 0,0:07:36.45,0:07:40.23,Main,OTAE,0,0,0,,Even your pathetic paycheck is crucial!
+Dialogue: 0,0:07:40.52,0:07:42.11,Main,SHINPACHI,0,0,0,,W-Wait, Sis!
+Dialogue: 0,0:07:42.68,0:07:45.09,Main,SHINPACHI,0,0,0,,This is all his fault.
+Dialogue: 0,0:07:45.09,0:07:46.40,Main,SHINPACHI,0,0,0,,Hey, wait!
+Dialogue: 0,0:07:47.09,0:07:51.37,Main,GINTOKI,0,0,0,,Sorry, gotta catch a rerun \Nof a soap opera this evening.
 Dialogue: 0,0:07:58.29,0:08:01.79,Main,GINTOKI,0,0,0,,I'm really sorry.
-Dialogue: 0,0:08:01.79,0:08:08.68,Main,GINTOKI,0,0,0,,That was my big intro scene, so I got a little excited... I kinda went overboard.
-Dialogue: 0,0:08:08.68,0:08:10.16,Main,GINTOKI,0,0,0,,I'm sorry.
-Dialogue: 0,0:08:10.16,0:08:13.38,Main,OTAE,0,0,0,,If "sorry" was enough, we wouldn't have seppuku.
-Dialogue: 0,0:08:13.89,0:08:17.60,Main,OTAE,0,0,0,,Thanks to you, our dojo may not be able continue to exist.
-Dialogue: 0,0:08:18.57,0:08:21.10,Main,OTAE,0,0,0,,It's been twenty years since national isolation was lifted...
-Dialogue: 0,0:08:21.66,0:08:26.77,Main,OTAE,0,0,0,,Amanto began to come here from far-off planets and Edo has grown beyond recognition...
-Dialogue: 0,0:08:27.69,0:08:32.35,Main,OTAE,0,0,0,,But samurai and swords... Those who once held power
-Dialogue: 0,0:08:32.35,0:08:33.93,Main,OTAE,0,0,0,,are now dying out one by one.
-Dialogue: 0,0:08:35.56,0:08:37.39,Main,OTAE,0,0,0,,The same goes for our dojo...
-Dialogue: 0,0:08:37.39,0:08:40.28,Main,OTAE,0,0,0,,Because of the ban on swords, all of our students have left.
-Dialogue: 0,0:08:40.84,0:08:45.50,Main,OTAE,0,0,0,,Right now, the two of us take part-time jobs in order to try to keep it going.
-Dialogue: 0,0:08:46.83,0:08:50.39,Main,OTAE,0,0,0,,Even so, we try to protect the dojo that our father left behind for us.
-Dialogue: 0,0:08:50.39,0:08:52.31,Main,OTAE,0,0,0,,We've been trying so hard until now, but...
-Dialogue: 0,0:08:52.92,0:08:54.41,Main,OTAE,0,0,0,,Because of you...
-Dialogue: 0,0:08:54.41,0:08:57.05,Main,OTAE,0,0,0,,It's all over, you idiot!
-Dialogue: 0,0:08:57.05,0:08:59.29,Main,SHINPACHI,0,0,0,,Calm down, Sis!
-Dialogue: 0,0:08:59.76,0:09:02.24,Main,GINTOKI,0,0,0,,Was your sister raised by gorillas?
-Dialogue: 0,0:09:03.68,0:09:06.21,Main,GINTOKI,0,0,0,,Wait, wait! Calm down...
-Dialogue: 0,0:09:06.21,0:09:09.75,Main,GINTOKI,0,0,0,,I can't commit seppuku, but I do clean up my own messes.
-Dialogue: 0,0:09:09.75,0:09:11.43,Main,OTAE,0,0,0,,What is this? A business card?
-Dialogue: 0,0:09:12.90,0:09:15.39,Main,OTAE,0,0,0,,Odd Jobs, Gintoki Sakata.
-Dialogue: 0,0:09:15.39,0:09:19.15,Main,GINTOKI,0,0,0,,You can't be too picky about jobs these days, right?
-Dialogue: 0,0:09:19.97,0:09:23.07,Main,GINTOKI,0,0,0,,My business is to do whatever I'm asked to do.
-Dialogue: 0,0:09:23.59,0:09:25.86,Main,GINTOKI,0,0,0,,I'm Mr. "Odd Jobs" Gin.
-Dialogue: 0,0:09:25.86,0:09:29.18,Main,GINTOKI,0,0,0,,If you've got problems, I'll solve them, no matter what...
-Dialogue: 0,0:09:29.18,0:09:31.31,Main,OTAE,0,0,0,,You're the one who's causing us problems!
-Dialogue: 0,0:09:31.31,0:09:33.01,Main,SHINPACHI,0,0,0,,Find me a job, damn you!
-Dialogue: 0,0:09:33.01,0:09:34.49,Main,GINTOKI,0,0,0,,Calm down!
-Dialogue: 0,0:09:34.49,0:09:39.63,Main,GINTOKI,0,0,0,,I can't find you a job, but I can teach you a chant so you won't be nervous at interviews...
-Dialogue: 0,0:09:39.63,0:09:40.51,Main,OTAE,0,0,0,,No thank you!
-Dialogue: 0,0:09:43.13,0:09:44.36,Main,SHINPACHI,0,0,0,,Sis...
-Dialogue: 0,0:09:44.92,0:09:49.27,Main,SHINPACHI,0,0,0,,It's just impossible to run a sword dojo in this day and age...
-Dialogue: 0,0:09:50.12,0:09:53.28,Main,SHINPACHI,0,0,0,,Swords won't ever be revived again.
-Dialogue: 0,0:09:53.94,0:09:57.07,Main,SHINPACHI,0,0,0,,We don't have anything to gain by desperately protecting this dojo...
-Dialogue: 0,0:09:57.90,0:09:59.74,Main,OTAE,0,0,0,,This isn't about profit or gain...
-Dialogue: 0,0:10:01.31,0:10:06.91,Main,OTAE,0,0,0,,Does a child really need a reason to protect the things that its parents cherished?
-Dialogue: 0,0:10:06.91,0:10:10.80,Main,SHINPACHI,0,0,0,,But, Sis, what did Father ever do for us?
-Dialogue: 0,0:10:12.48,0:10:16.80,Main,PRESIDENT,0,0,0,,Today I'm definitely going to make you pay me back.
-Dialogue: 0,0:10:16.80,0:10:19.06,Main,PRESIDENT,0,0,0,,I can't take it anymore!
-Dialogue: 0,0:10:19.06,0:10:20.51,Main,PRESIDENT,0,0,0,,Now I'm really getting irritated!
-Dialogue: 0,0:10:21.72,0:10:23.48,Main,GINTOKI,0,0,0,,Hey, are you in debt?
-Dialogue: 0,0:10:24.07,0:10:28.53,Main,GINTOKI,0,0,0,,You're leading pretty dangerous lives, for a couple of kids...
-Dialogue: 0,0:10:28.53,0:10:31.53,Main,SHINPACHI,0,0,0,,We didn't do it. It was Father...
-Dialogue: 0,0:10:31.53,0:10:32.02,Main,OTAE,0,0,0,,Shin!
-Dialogue: 0,0:10:32.02,0:10:34.82,Main,PRESIDENT,0,0,0,,What the hell are you blabbering about?!
-Dialogue: 0,0:10:34.82,0:10:37.12,Main,PRESIDENT,0,0,0,,Hurry up and bring me my money, stupid!
-Dialogue: 0,0:10:37.12,0:10:40.69,Main,PRESIDENT,0,0,0,,I gotta get home, my favorite soap opera is on.
-Dialogue: 0,0:10:40.69,0:10:41.94,Main,SHINPACHI,0,0,0,,Wait a minute, today is...
-Dialogue: 0,0:10:41.94,0:10:42.91,Main,PRESIDENT,0,0,0,,Shut up!
-Dialogue: 0,0:10:43.87,0:10:46.95,Main,PRESIDENT,0,0,0,,I've been waiting ever since your pop was still alive!
-Dialogue: 0,0:10:46.95,0:10:48.29,Main,PRESIDENT,0,0,0,,I'm starting to go bald!
-Dialogue: 0,0:10:49.01,0:10:52.71,Main,PRESIDENT,0,0,0,,You promised that you'd sell the dojo if you couldn't pay!
-Dialogue: 0,0:10:52.71,0:10:55.06,Main,PRESIDENT,0,0,0,,You're going to keep that promise!
-Dialogue: 0,0:10:55.06,0:10:56.61,Main,OTAE,0,0,0,,Wait a moment...
-Dialogue: 0,0:10:56.61,0:10:58.68,Main,PRESIDENT,0,0,0,,Why?! That's good enough, isn't it?
-Dialogue: 0,0:10:58.68,0:11:01.74,Main,PRESIDENT,0,0,0,,You don't need to feel obligated to your stupid father
-Dialogue: 0,0:11:01.74,0:11:04.33,Main,PRESIDENT,0,0,0,,who left you nothing but debt when he died!
-Dialogue: 0,0:11:04.33,0:11:06.10,Main,PRESIDENT,0,0,0,,Get rid of this dojo.
-Dialogue: 0,0:11:07.46,0:11:10.30,Main,SUBORDINATE A,0,0,0,,You little... What the hell are you doing?!
-Dialogue: 0,0:11:10.30,0:11:11.47,Main,SHINPACHI,0,0,0,,Sis!
-Dialogue: 0,0:11:11.47,0:11:12.94,Main,PRESIDENT,0,0,0,,You fool...
-Dialogue: 0,0:11:12.94,0:11:15.61,Main,PRESIDENT,0,0,0,,Do you think that I won't hurt you
-Dialogue: 0,0:11:15.61,0:11:18.36,Main,PRESIDENT,0,0,0,,just because you're a woman?!
-Dialogue: 0,0:11:18.36,0:11:19.07,Main,PRESIDENT,0,0,0,,What?!
-Dialogue: 0,0:11:21.75,0:11:23.44,Main,GINTOKI,0,0,0,,That's enough.
-Dialogue: 0,0:11:23.44,0:11:25.58,Main,GINTOKI,0,0,0,,Even though she was raised by gorillas, she's still a woman.
-Dialogue: 0,0:11:31.62,0:11:33.13,Main,PRESIDENT,0,0,0,,Who the hell are you?!
-Dialogue: 0,0:11:33.13,0:11:36.25,Main,PRESIDENT,0,0,0,,Does this dojo still have students?!
-Dialogue: 0,0:11:36.99,0:11:38.88,Main,PRESIDENT,0,0,0,,Honestly, the lot of you...
-Dialogue: 0,0:11:38.88,0:11:41.22,Main,PRESIDENT,0,0,0,,Forget the dojo!
-Dialogue: 0,0:11:41.22,0:11:46.02,Main,PRESIDENT,0,0,0,,But I'm going to make you work to pay off your debt.
-Dialogue: 0,0:11:47.99,0:11:51.83,Main,PRESIDENT,0,0,0,,I've started a new business.
-Dialogue: 0,0:11:52.30,0:11:54.85,Main,PRESIDENT,0,0,0,,It's called High-Leg Shabu Shabu Heaven.
-Dialogue: 0,0:11:54.85,0:11:56.46,Main,SHINPACHI,0,0,0,,H-High Leg?!
-Dialogue: 0,0:11:57.01,0:11:58.24,Main,SHINPACHI,0,0,0,,Wh-Why?!
-Dialogue: 0,0:11:58.24,0:12:00.99,Main,PRESIDENT,0,0,0,,Because I like girls in high-leg outfits, of course!
-Dialogue: 0,0:12:01.56,0:12:04.76,Main,PRESIDENT,0,0,0,,Well, simply put, it's a flying nightclub.
-Dialogue: 0,0:12:05.53,0:12:07.99,Main,PRESIDENT,0,0,0,,Technically, they're prohibited in Edo now.
-Dialogue: 0,0:12:07.99,0:12:11.14,Main,PRESIDENT,0,0,0,,But if it's in the sky, it'll be out of sight from government officials.
-Dialogue: 0,0:12:11.14,0:12:12.50,Main,PRESIDENT,0,0,0,,I can do whatever I want.
-Dialogue: 0,0:12:12.50,0:12:16.64,Main,PRESIDENT,0,0,0,,It'll be shabu shabu time while I get to stare at girls in high-leg outfits!
-Dialogue: 0,0:12:16.64,0:12:20.38,Main,PRESIDENT,0,0,0,,I'll ensnare my customers with sleaze!
-Dialogue: 0,0:12:21.40,0:12:26.18,Main,PRESIDENT,0,0,0,,I've gathered beauties from many worlds, but you'd be more than welcome.
-Dialogue: 0,0:12:26.18,0:12:30.74,Main,PRESIDENT,0,0,0,,Well, it comes down to either selling this dojo or selling yourself.
-Dialogue: 0,0:12:30.74,0:12:32.33,Main,PRESIDENT,0,0,0,,Which will it be?
-Dialogue: 0,0:12:32.33,0:12:33.43,Main,SHINPACHI,0,0,0,,No way!
-Dialogue: 0,0:12:33.43,0:12:34.61,Main,SHINPACHI,0,0,0,,She'd never do something like that.
-Dialogue: 0,0:12:34.61,0:12:36.35,Main,OTAE,0,0,0,,All right. I'll go.
-Dialogue: 0,0:12:37.79,0:12:40.37,Main,PRESIDENT,0,0,0,,What a dutiful daughter you are.
-Dialogue: 0,0:12:42.35,0:12:43.63,Main,SHINPACHI,0,0,0,,Hold on... Sis!
-Dialogue: 0,0:12:44.57,0:12:46.22,Main,SHINPACHI,0,0,0,,Why would you do this?!
-Dialogue: 0,0:12:46.22,0:12:47.51,Main,SHINPACHI,0,0,0,,We've done enough, haven't we?!
-Dialogue: 0,0:12:48.04,0:12:49.06,Main,SHINPACHI,0,0,0,,Hey!
-Dialogue: 0,0:12:49.06,0:12:50.08,Main,SHINPACHI,0,0,0,,Sis!
-Dialogue: 0,0:12:52.08,0:12:54.77,Main,OTAE,0,0,0,,Shin, it's as you say.
-Dialogue: 0,0:12:55.32,0:12:58.67,Main,OTAE,0,0,0,,Nothing good will come from saving this dojo...
-Dialogue: 0,0:12:59.15,0:13:00.60,Main,OTAE,0,0,0,,...only pain.
-Dialogue: 0,0:13:00.60,0:13:03.34,Main,OTAE,0,0,0,,But it's also painful to let go.
-Dialogue: 0,0:13:04.21,0:13:08.73,Main,OTAE,0,0,0,,It's painful to keep or to discard something that you can never get back...
-Dialogue: 0,0:13:09.52,0:13:11.42,Main,OTAE,0,0,0,,If it's going to be painful either way,
-Dialogue: 0,0:13:12.37,0:13:15.44,Main,OTAE,0,0,0,,I'd rather suffer trying to protect it.
-Dialogue: 0,0:13:35.95,0:13:37.05,Main,SHINPACHI,0,0,0,,What the hell?! Damn it!
-Dialogue: 0,0:13:37.60,0:13:38.96,Main,SHINPACHI,0,0,0,,My stupid sister!
-Dialogue: 0,0:13:38.96,0:13:40.96,Main,SHINPACHI,0,0,0,,She keeps talking about Father.
-Dialogue: 0,0:13:40.96,0:13:43.22,Main,SHINPACHI,0,0,0,,What did baldy ever do for us?!
-Dialogue: 0,0:13:43.22,0:13:45.38,Main,SHINPACHI,0,0,0,,He only played Othello with us once in a while!
-Dialogue: 0,0:13:45.73,0:13:47.30,Main,GINTOKI,0,0,0,,Was your dad bald?
-Dialogue: 0,0:13:47.86,0:13:49.30,Main,SHINPACHI,0,0,0,,Well, he was mentally bald.
-Dialogue: 0,0:13:49.89,0:13:52.54,Main,SHINPACHI,0,0,0,,Hey, you're still here?!
-Dialogue: 0,0:13:52.54,0:13:56.07,Main,SHINPACHI,0,0,0,,And why are you cooking in my house?!
-Dialogue: 0,0:13:56.54,0:14:00.84,Main,GINTOKI,0,0,0,,Well, I can't go on without eating something sweet periodically.
-Dialogue: 0,0:14:00.84,0:14:03.15,Main,SHINPACHI,0,0,0,,Then make something easier!
-Dialogue: 0,0:14:08.44,0:14:10.24,Main,GINTOKI,0,0,0,,Shouldn't you go after your sister?
-Dialogue: 0,0:14:11.84,0:14:13.67,Main,SHINPACHI,0,0,0,,I don't care.
-Dialogue: 0,0:14:13.67,0:14:15.43,Main,SHINPACHI,0,0,0,,It was her decision to leave.
-Dialogue: 0,0:14:16.47,0:14:19.36,Main,SHINPACHI,0,0,0,,She really is my Father's daughter.
-Dialogue: 0,0:14:19.80,0:14:20.90,Main,SHINPACHI,0,0,0,,She's just like him.
-Dialogue: 0,0:14:21.80,0:14:26.71,Main,SHINPACHI,0,0,0,,Father was a good-natured person who always talked about duty and compassion.
-Dialogue: 0,0:14:26.71,0:14:30.18,Main,SHINPACHI,0,0,0,,Because of that, he got taken advantage of and died in debt.
-Dialogue: 0,0:14:31.57,0:14:33.55,Main,SHINPACHI,0,0,0,,Why was he so careless?
-Dialogue: 0,0:14:34.09,0:14:37.28,Main,SHINPACHI,0,0,0,,I don't want to die with only grand principles to my name.
-Dialogue: 0,0:14:37.97,0:14:40.43,Main,SHINPACHI'S FATHER,0,0,0,,But no matter how much times change,
-Dialogue: 0,0:14:40.43,0:14:42.92,Main,SHINPACHI'S FATHER,0,0,0,,there are things that people mustn't forget.
-Dialogue: 0,0:14:43.35,0:14:48.70,Main,OTAE,0,0,0,,Does a child really need a reason to protect the things that its parents cherished?
-Dialogue: 0,0:14:49.40,0:14:52.77,Main,SHINPACHI,0,0,0,,That kind of thinking only gets in the way nowadays.
-Dialogue: 0,0:14:52.77,0:14:55.20,Main,SHINPACHI,0,0,0,,I plan on living smarter and longer.
-Dialogue: 0,0:14:55.20,0:14:56.26,Main,GINTOKI,0,0,0,,Is that so?
-Dialogue: 0,0:14:56.74,0:15:01.71,Main,GINTOKI,0,0,0,,But you don't seem very smart to me.
-Dialogue: 0,0:15:03.54,0:15:06.81,Main,GINTOKI,0,0,0,,Samurai don't need a reason to act.
-Dialogue: 0,0:15:07.71,0:15:11.44,Main,GINTOKI,0,0,0,,If they have something they have to protect, they should draw their sword.
-Dialogue: 0,0:15:12.67,0:15:14.18,Main,GINTOKI,0,0,0,,Do you love your sister?
-Dialogue: 0,0:15:18.42,0:15:20.92,Main,SHINPACHI,0,0,0,,"Watch the beautiful sunset from heaven,"
-Dialogue: 0,0:15:20.92,0:15:23.18,Main,SHINPACHI,0,0,0,,"first boat leaves this afternoon at four."
-Dialogue: 0,0:15:23.18,0:15:23.98,Main,SHINPACHI,0,0,0,,This is bad!
-Dialogue: 0,0:15:23.98,0:15:27.14,Main,SHINPACHI,0,0,0,,The ship's about to leave! Can't you go any faster?!
-Dialogue: 0,0:15:27.14,0:15:29.81,Main,GINTOKI,0,0,0,,Hey, safety first. That's my motto...
-Dialogue: 0,0:15:30.26,0:15:31.65,Main,GINTOKI,0,0,0,,It'll also hurt if we crash.
-Dialogue: 0,0:15:31.65,0:15:33.37,Main,SHINPACHI,0,0,0,,Now's not the time to be saying that!
-Dialogue: 0,0:15:33.37,0:15:35.91,Main,SHINPACHI,0,0,0,,Sis is in high-leg shabu shabu danger!
+Dialogue: 0,0:08:01.79,0:08:08.50,Main,GINTOKI,0,0,0,,That was my big intro scene, so I got \Na little excited... I kinda went overboard.
+Dialogue: 0,0:08:08.50,0:08:09.59,Main,GINTOKI,0,0,0,,I'm sorry.
+Dialogue: 0,0:08:09.95,0:08:13.81,Main,OTAE,0,0,0,,If "sorry" was enough, we wouldn't have seppuku.
+Dialogue: 0,0:08:13.81,0:08:17.60,Main,OTAE,0,0,0,,Thanks to you, our dojo may \Nnot be able continue to exist.
+Dialogue: 0,0:08:18.48,0:08:21.11,Main,OTAE,0,0,0,,It's been twenty years \Nsince national isolation was lifted...
+Dialogue: 0,0:08:21.62,0:08:27.11,Main,OTAE,0,0,0,,Amanto began to come here from far-off \Nplanets and Edo has grown beyond recognition...
+Dialogue: 0,0:08:27.64,0:08:32.16,Main,OTAE,0,0,0,,But samurai and swords... \NThose who once held power
+Dialogue: 0,0:08:32.16,0:08:33.95,Main,OTAE,0,0,0,,are now dying out one by one.
+Dialogue: 0,0:08:35.55,0:08:37.34,Main,OTAE,0,0,0,,The same goes for our dojo...
+Dialogue: 0,0:08:37.34,0:08:40.76,Main,OTAE,0,0,0,,Because of the ban on swords, \Nall of our students have left.
+Dialogue: 0,0:08:40.76,0:08:46.13,Main,OTAE,0,0,0,,Right now, the two of us take part-time \Njobs in order to try to keep it going.
+Dialogue: 0,0:08:46.71,0:08:50.21,Main,OTAE,0,0,0,,Even so, we try to protect the dojo \Nthat our father left behind for us.
+Dialogue: 0,0:08:50.21,0:08:52.76,Main,OTAE,0,0,0,,We've been trying so hard until now, but...
+Dialogue: 0,0:08:52.93,0:08:54.22,Main,OTAE,0,0,0,,Because of you...
+Dialogue: 0,0:08:54.22,0:08:56.27,Main,OTAE,0,0,0,,It's all over, you idiot!
+Dialogue: 0,0:08:56.82,0:08:59.69,Main,SHINPACHI,0,0,0,,Calm down, Sis!
+Dialogue: 0,0:08:59.69,0:09:02.38,Main,GINTOKI,0,0,0,,Was your sister raised by gorillas?
+Dialogue: 0,0:09:03.90,0:09:06.19,Main,GINTOKI,0,0,0,,Wait, wait! Calm down...
+Dialogue: 0,0:09:06.19,0:09:09.28,Main,GINTOKI,0,0,0,,I can't commit seppuku, \Nbut I do clean up my own messes.
+Dialogue: 0,0:09:09.70,0:09:11.71,Main,OTAE,0,0,0,,What is this? A business card?
+Dialogue: 0,0:09:12.83,0:09:14.87,Main,OTAE,0,0,0,,Odd Jobs, Gintoki Sakata.
+Dialogue: 0,0:09:15.33,0:09:19.88,Main,GINTOKI,0,0,0,,You can't be too picky \Nabout jobs these days, right?
+Dialogue: 0,0:09:19.88,0:09:23.17,Main,GINTOKI,0,0,0,,My business is to do whatever I'm asked to do.
+Dialogue: 0,0:09:23.58,0:09:25.63,Main,GINTOKI,0,0,0,,I'm Mr. "Odd Jobs" Gin.
+Dialogue: 0,0:09:25.63,0:09:28.55,Main,GINTOKI,0,0,0,,If you've got problems, \NI'll solve them, no matter what...
+Dialogue: 0,0:09:28.55,0:09:31.19,Main,OTAE,0,0,0,,You're the one who's causing us problems!
+Dialogue: 0,0:09:31.19,0:09:33.01,Main,SHINPACHI,0,0,0,,Find me a job, damn you!
+Dialogue: 0,0:09:33.01,0:09:34.39,Main,GINTOKI,0,0,0,,Calm down!
+Dialogue: 0,0:09:34.39,0:09:39.44,Main,GINTOKI,0,0,0,,I can't find you a job, but I can teach you \Na chant so you won't be nervous at interviews...
+Dialogue: 0,0:09:39.44,0:09:40.76,Main,OTAE,0,0,0,,No thank you!
+Dialogue: 0,0:09:43.07,0:09:44.29,Main,SHINPACHI,0,0,0,,Sis...
+Dialogue: 0,0:09:44.86,0:09:49.24,Main,SHINPACHI,0,0,0,,It's just impossible to run \Na sword dojo in this day and age...
+Dialogue: 0,0:09:50.06,0:09:53.87,Main,SHINPACHI,0,0,0,,Swords won't ever be revived again.
+Dialogue: 0,0:09:53.87,0:09:57.08,Main,SHINPACHI,0,0,0,,We don't have anything to gain \Nby desperately protecting this dojo...
+Dialogue: 0,0:09:57.83,0:09:59.75,Main,OTAE,0,0,0,,This isn't about profit or gain...
+Dialogue: 0,0:10:01.21,0:10:06.50,Main,OTAE,0,0,0,,Does a child really need a reason to protect \Nthe things that its parents cherished?
+Dialogue: 0,0:10:06.84,0:10:11.05,Main,SHINPACHI,0,0,0,,But, Sis, what did Father ever do for us?
+Dialogue: 0,0:10:12.26,0:10:16.26,Main,PRESIDENT,0,0,0,,Today I'm definitely going to \Nmake you pay me back.
+Dialogue: 0,0:10:16.59,0:10:18.98,Main,PRESIDENT,0,0,0,,I can't take it anymore!
+Dialogue: 0,0:10:18.98,0:10:20.51,Main,PRESIDENT,0,0,0,,Now I'm really getting irritated!
+Dialogue: 0,0:10:21.65,0:10:24.09,Main,GINTOKI,0,0,0,,Hey, are you in debt?
+Dialogue: 0,0:10:24.09,0:10:28.37,Main,GINTOKI,0,0,0,,You're leading pretty dangerous lives, \Nfor a couple of kids...
+Dialogue: 0,0:10:28.37,0:10:31.31,Main,SHINPACHI,0,0,0,,We didn't do it. It was Father...
+Dialogue: 0,0:10:31.31,0:10:32.02,Main,OTAE,0,0,0,,Shin!
+Dialogue: 0,0:10:32.03,0:10:34.07,Main,PRESIDENT,0,0,0,,What the hell are you blabbering about?!
+Dialogue: 0,0:10:34.74,0:10:36.87,Main,PRESIDENT,0,0,0,,Hurry up and bring me my money, stupid!
+Dialogue: 0,0:10:36.87,0:10:40.08,Main,PRESIDENT,0,0,0,,I gotta get home, my favorite soap opera is on.
+Dialogue: 0,0:10:40.47,0:10:41.70,Main,SHINPACHI,0,0,0,,Wait a minute, today is...
+Dialogue: 0,0:10:41.70,0:10:43.33,Main,PRESIDENT,0,0,0,,Shut up!
+Dialogue: 0,0:10:43.79,0:10:46.83,Main,PRESIDENT,0,0,0,,I've been waiting ever since \Nyour pop was still alive!
+Dialogue: 0,0:10:46.83,0:10:48.34,Main,PRESIDENT,0,0,0,,I'm starting to go bald!
+Dialogue: 0,0:10:48.95,0:10:52.49,Main,PRESIDENT,0,0,0,,You promised that you'd sell \Nthe dojo if you couldn't pay!
+Dialogue: 0,0:10:52.49,0:10:54.81,Main,PRESIDENT,0,0,0,,You're going to keep that promise!
+Dialogue: 0,0:10:54.81,0:10:56.22,Main,OTAE,0,0,0,,Wait a moment...
+Dialogue: 0,0:10:56.49,0:10:58.47,Main,PRESIDENT,0,0,0,,Why?! That's good enough, isn't it?
+Dialogue: 0,0:10:58.47,0:11:01.31,Main,PRESIDENT,0,0,0,,You don't need to feel obligated \Nto your stupid father
+Dialogue: 0,0:11:01.58,0:11:03.81,Main,PRESIDENT,0,0,0,,who left you nothing but debt when he died!
+Dialogue: 0,0:11:04.21,0:11:05.81,Main,PRESIDENT,0,0,0,,Get rid of this dojo.
+Dialogue: 0,0:11:07.55,0:11:10.30,Main,SUBORDINATE A,0,0,0,,You little... What the hell are you doing?!
+Dialogue: 0,0:11:10.30,0:11:11.07,Main,SHINPACHI,0,0,0,,Sis!
+Dialogue: 0,0:11:11.47,0:11:12.82,Main,PRESIDENT,0,0,0,,You fool...
+Dialogue: 0,0:11:12.82,0:11:15.24,Main,PRESIDENT,0,0,0,,Do you think that I won't hurt you
+Dialogue: 0,0:11:15.61,0:11:17.62,Main,PRESIDENT,0,0,0,,just because you're a woman?!
+Dialogue: 0,0:11:18.10,0:11:19.12,Main,PRESIDENT,0,0,0,,What?!
+Dialogue: 0,0:11:21.71,0:11:23.23,Main,GINTOKI,0,0,0,,That's enough.
+Dialogue: 0,0:11:23.23,0:11:25.62,Main,GINTOKI,0,0,0,,Even though she was raised by \Ngorillas, she's still a woman.
+Dialogue: 0,0:11:31.50,0:11:33.11,Main,PRESIDENT,0,0,0,,Who the hell are you?!
+Dialogue: 0,0:11:33.11,0:11:36.26,Main,PRESIDENT,0,0,0,,Does this dojo still have students?!
+Dialogue: 0,0:11:36.89,0:11:38.65,Main,PRESIDENT,0,0,0,,Honestly, the lot of you...
+Dialogue: 0,0:11:38.65,0:11:40.80,Main,PRESIDENT,0,0,0,,Forget the dojo!
+Dialogue: 0,0:11:41.10,0:11:45.52,Main,PRESIDENT,0,0,0,,But I'm going to make you work \Nto pay off your debt.
+Dialogue: 0,0:11:47.90,0:11:52.15,Main,PRESIDENT,0,0,0,,I've started a new business.
+Dialogue: 0,0:11:52.15,0:11:54.40,Main,PRESIDENT,0,0,0,,It's called High-Leg Shabu Shabu Heaven.
+Dialogue: 0,0:11:54.40,0:11:56.89,Main,SHINPACHI,0,0,0,,H-High Leg?!
+Dialogue: 0,0:11:56.89,0:11:58.06,Main,SHINPACHI,0,0,0,,Wh-Why?!
+Dialogue: 0,0:11:58.06,0:12:00.99,Main,PRESIDENT,0,0,0,,Because I like girls in high-leg outfits, of course!
+Dialogue: 0,0:12:01.44,0:12:05.46,Main,PRESIDENT,0,0,0,,Well, simply put, it's a flying nightclub.
+Dialogue: 0,0:12:05.46,0:12:07.77,Main,PRESIDENT,0,0,0,,Technically, they're prohibited in Edo now.
+Dialogue: 0,0:12:07.77,0:12:10.95,Main,PRESIDENT,0,0,0,,But if it's in the sky, it'll be out of sight \Nfrom government officials.
+Dialogue: 0,0:12:10.95,0:12:12.50,Main,PRESIDENT,0,0,0,,I can do whatever I want.
+Dialogue: 0,0:12:12.50,0:12:16.51,Main,PRESIDENT,0,0,0,,It'll be shabu shabu time while I get to \Nstare at girls in high-leg outfits!
+Dialogue: 0,0:12:16.51,0:12:20.43,Main,PRESIDENT,0,0,0,,I'll ensnare my customers with sleaze!
+Dialogue: 0,0:12:21.34,0:12:26.18,Main,PRESIDENT,0,0,0,,I've gathered beauties from many worlds, \Nbut you'd be more than welcome.
+Dialogue: 0,0:12:26.18,0:12:30.65,Main,PRESIDENT,0,0,0,,Well, it comes down to either \Nselling this dojo or selling yourself.
+Dialogue: 0,0:12:30.65,0:12:31.73,Main,PRESIDENT,0,0,0,,Which will it be?
+Dialogue: 0,0:12:32.08,0:12:33.25,Main,SHINPACHI,0,0,0,,No way!
+Dialogue: 0,0:12:33.25,0:12:34.38,Main,SHINPACHI,0,0,0,,She'd never...
+Dialogue: 0,0:12:34.38,0:12:35.55,Main,OTAE,0,0,0,,All right. I'll go.
+Dialogue: 0,0:12:37.76,0:12:40.65,Main,PRESIDENT,0,0,0,,What a dutiful daughter you are.
+Dialogue: 0,0:12:42.25,0:12:43.91,Main,SHINPACHI,0,0,0,,Hold on... Sis!
+Dialogue: 0,0:12:44.50,0:12:45.74,Main,SHINPACHI,0,0,0,,Why would you do this?!
+Dialogue: 0,0:12:46.13,0:12:47.96,Main,SHINPACHI,0,0,0,,We've done enough, haven't we?!
+Dialogue: 0,0:12:47.96,0:12:48.54,Main,SHINPACHI,0,0,0,,Hey!
+Dialogue: 0,0:12:48.96,0:12:50.08,Main,SHINPACHI,0,0,0,,Sis!
+Dialogue: 0,0:12:51.96,0:12:55.26,Main,OTAE,0,0,0,,Shin, it's as you say.
+Dialogue: 0,0:12:55.26,0:12:59.05,Main,OTAE,0,0,0,,Nothing good will come from saving this dojo...
+Dialogue: 0,0:12:59.05,0:13:00.09,Main,OTAE,0,0,0,,...only pain.
+Dialogue: 0,0:13:00.38,0:13:03.35,Main,OTAE,0,0,0,,But it's also painful to let go.
+Dialogue: 0,0:13:04.18,0:13:08.56,Main,OTAE,0,0,0,,It's painful to keep or to discard \Nsomething that you can never get back...
+Dialogue: 0,0:13:09.51,0:13:11.36,Main,OTAE,0,0,0,,If it's going to be painful either way,
+Dialogue: 0,0:13:12.25,0:13:15.48,Main,OTAE,0,0,0,,I'd rather suffer trying to protect it.
+Dialogue: 0,0:13:35.97,0:13:37.00,Main,SHINPACHI,0,0,0,,What the hell?! Damn it!
+Dialogue: 0,0:13:37.33,0:13:38.96,Main,SHINPACHI,0,0,0,,My stupid sister!
+Dialogue: 0,0:13:38.96,0:13:40.74,Main,SHINPACHI,0,0,0,,She keeps talking about Father.
+Dialogue: 0,0:13:40.74,0:13:43.14,Main,SHINPACHI,0,0,0,,What did baldy ever do for us?!
+Dialogue: 0,0:13:43.14,0:13:45.43,Main,SHINPACHI,0,0,0,,He only played Othello with us once in a while!
+Dialogue: 0,0:13:45.43,0:13:47.77,Main,GINTOKI,0,0,0,,Was your dad bald?
+Dialogue: 0,0:13:47.77,0:13:49.93,Main,SHINPACHI,0,0,0,,Well, he was mentally bald.
+Dialogue: 0,0:13:49.93,0:13:52.36,Main,SHINPACHI,0,0,0,,Hey, you're still here?!
+Dialogue: 0,0:13:52.36,0:13:56.42,Main,SHINPACHI,0,0,0,,And why are you cooking in my house?!
+Dialogue: 0,0:13:56.42,0:14:00.65,Main,GINTOKI,0,0,0,,Well, I can't go on without eating \Nsomething sweet periodically.
+Dialogue: 0,0:14:00.65,0:14:03.16,Main,SHINPACHI,0,0,0,,Then make something easier!
+Dialogue: 0,0:14:08.37,0:14:10.29,Main,GINTOKI,0,0,0,,Shouldn't you go after your sister?
+Dialogue: 0,0:14:11.79,0:14:13.44,Main,SHINPACHI,0,0,0,,I don't care.
+Dialogue: 0,0:14:13.44,0:14:15.29,Main,SHINPACHI,0,0,0,,It was her decision to leave.
+Dialogue: 0,0:14:16.38,0:14:19.76,Main,SHINPACHI,0,0,0,,She really is my Father's daughter.
+Dialogue: 0,0:14:19.76,0:14:20.76,Main,SHINPACHI,0,0,0,,She's just like him.
+Dialogue: 0,0:14:21.72,0:14:26.59,Main,SHINPACHI,0,0,0,,Father was a good-natured person \Nwho always talked about duty and compassion.
+Dialogue: 0,0:14:26.59,0:14:30.72,Main,SHINPACHI,0,0,0,,Because of that, he got taken \Nadvantage of and died in debt.
+Dialogue: 0,0:14:31.51,0:14:33.98,Main,SHINPACHI,0,0,0,,Why was he so careless?
+Dialogue: 0,0:14:33.98,0:14:37.11,Main,SHINPACHI,0,0,0,,I don't want to die with only \Ngrand principles to my name.
+Dialogue: 0,0:14:37.93,0:14:40.36,Flashbacks,SHINPACHI'S FATHER,0,0,0,,But no matter how much times change,
+Dialogue: 0,0:14:40.36,0:14:42.82,Flashbacks,SHINPACHI'S FATHER,0,0,0,,{\t(1855,0,1,\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}there are things that people mustn't forget.
+Dialogue: 0,0:14:42.78,0:14:48.28,Flashbacks,OTAE,0,0,0,,{\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\t(19,561,1,\c&HFFFFFF&\3c&H525252&\4c&H000000&)}Does a child really need a reason to protect \Nthe things that its parents cherished?
+Dialogue: 0,0:14:49.39,0:14:52.64,Main,SHINPACHI,0,0,0,,That kind of thinking only gets \Nin the way nowadays.
+Dialogue: 0,0:14:52.64,0:14:55.21,Main,SHINPACHI,0,0,0,,I plan on living smarter and longer.
+Dialogue: 0,0:14:55.21,0:14:56.67,Main,GINTOKI,0,0,0,,Is that so?
+Dialogue: 0,0:14:56.67,0:15:01.76,Main,GINTOKI,0,0,0,,But you don't seem very smart to me.
+Dialogue: 0,0:15:03.55,0:15:07.34,Main,GINTOKI,0,0,0,,Samurai don't need a reason to act.
+Dialogue: 0,0:15:07.68,0:15:11.60,Main,GINTOKI,0,0,0,,If they have something they have to protect, \Nthey should draw their sword.
+Dialogue: 0,0:15:12.65,0:15:14.18,Main,GINTOKI,0,0,0,,Do you love your sister?
+Dialogue: 0,0:15:18.32,0:15:20.48,Main,SHINPACHI,0,0,0,,"Watch the beautiful sunset from heaven,"
+Dialogue: 0,0:15:20.82,0:15:22.73,Main,SHINPACHI,0,0,0,,"first boat leaves this afternoon at four."
+Dialogue: 0,0:15:23.12,0:15:23.78,Main,SHINPACHI,0,0,0,,This is bad!
+Dialogue: 0,0:15:23.78,0:15:27.12,Main,SHINPACHI,0,0,0,,The ship's about to leave! \NCan't you go any faster?!
+Dialogue: 0,0:15:27.12,0:15:30.22,Main,GINTOKI,0,0,0,,Hey, safety first. That's my motto...
+Dialogue: 0,0:15:30.22,0:15:31.20,Main,GINTOKI,0,0,0,,It'll also hurt if we crash.
+Dialogue: 0,0:15:31.51,0:15:33.22,Main,SHINPACHI,0,0,0,,Now's not the time to be saying that!
+Dialogue: 0,0:15:33.22,0:15:35.91,Main,SHINPACHI,0,0,0,,Sis is in high-leg shabu shabu danger!
 Dialogue: 0,0:15:35.91,0:15:39.08,Main,OFFICER A,0,0,0,,Hey! You, without the helmet, stop!
-Dialogue: 0,0:15:39.65,0:15:41.35,Main,GINTOKI,0,0,0,,What are you saying?
-Dialogue: 0,0:15:41.35,0:15:44.17,Main,GINTOKI,0,0,0,,We don't need road traffic laws in this day and age.
-Dialogue: 0,0:15:44.17,0:15:47.47,Main,OFFICER A,0,0,0,,That's true, but it'll hurt if you crash.
-Dialogue: 0,0:15:47.47,0:15:49.41,Main,OFFICER A,0,0,0,,I'm just telling you because I'm concerned.
-Dialogue: 0,0:15:49.41,0:15:51.88,Main,GINTOKI,0,0,0,,I'm all right. I have a hard head.
-Dialogue: 0,0:15:52.05,0:15:53.41,Main,OFFICER A,0,0,0,,Huh?! What?!
-Dialogue: 0,0:15:53.41,0:15:55.45,Main,OFFICER A,0,0,0,,I'm trying to be considerate!
-Dialogue: 0,0:15:55.45,0:15:58.46,Main,OFFICER A,0,0,0,,It really hurts! It's terrible!
-Dialogue: 0,0:15:58.46,0:15:59.56,Main,GINTOKI,0,0,0,,Shut up.
-Dialogue: 0,0:15:59.56,0:16:00.70,Main,GINTOKI,0,0,0,,I'm telling you that...
-Dialogue: 0,0:16:00.70,0:16:02.07,Main,GINTOKI,0,0,0,,...it's hard!
-Dialogue: 0,0:16:02.86,0:16:05.77,Main,OFFICER A,0,0,0,,I've got a nose bleed! I've got a nose bleed! And at my age!
-Dialogue: 0,0:16:07.54,0:16:09.78,Main,SHINPACHI,0,0,0,,The Shabu Shabu Heaven has taken off!
+Dialogue: 0,0:15:39.59,0:15:41.26,Main,GINTOKI,0,0,0,,What are you saying?
+Dialogue: 0,0:15:41.26,0:15:44.17,Main,GINTOKI,0,0,0,,We don't need road traffic \Nlaws in this day and age.
+Dialogue: 0,0:15:44.17,0:15:47.21,Main,OFFICER A,0,0,0,,That's true, but it'll hurt if you crash.
+Dialogue: 0,0:15:47.21,0:15:48.89,Main,OFFICER A,0,0,0,,I'm just telling you because I'm concerned.
+Dialogue: 0,0:15:49.19,0:15:51.89,Main,GINTOKI,0,0,0,,I'm all right. I have a hard head.
+Dialogue: 0,0:15:51.89,0:15:53.15,Main,OFFICER A,0,0,0,,Huh?! What?!
+Dialogue: 0,0:15:53.15,0:15:55.23,Main,OFFICER A,0,0,0,,I'm trying to be considerate!
+Dialogue: 0,0:15:55.23,0:15:58.30,Main,OFFICER A,0,0,0,,It really hurts! It's terrible!
+Dialogue: 0,0:15:58.30,0:15:59.40,Main,GINTOKI,0,0,0,,Shut up.
+Dialogue: 0,0:15:59.40,0:16:00.65,Main,GINTOKI,0,0,0,,I'm telling you that it's hard!
+Dialogue: 0,0:16:02.52,0:16:05.78,Main,OFFICER A,0,0,0,,I've got a nose bleed! \NI've got a nose bleed! And at my age!
+Dialogue: 0,0:16:07.42,0:16:09.78,Main,SHINPACHI,0,0,0,,The Shabu Shabu Heaven has taken off!
 Dialogue: 0,0:16:09.78,0:16:11.99,Main,SHINPACHI,0,0,0,,What are we going to do?! It's so high up!
-Dialogue: 0,0:16:13.13,0:16:14.91,Main,SHINPACHI,0,0,0,,Sis!
-Dialogue: 0,0:16:14.91,0:16:17.32,Main,OFFICER A,0,0,0,,Damn him... Mocking me like that!
-Dialogue: 0,0:16:17.32,0:16:18.41,Main,OFFICER A,0,0,0,,After him!
-Dialogue: 0,0:16:18.41,0:16:18.87,Main,OFFICER B,0,0,0,,Yes, sir!
-Dialogue: 0,0:16:23.25,0:16:24.99,Main,OFFICER A,0,0,0,,Hey, you!
-Dialogue: 0,0:16:24.99,0:16:27.34,Main,OFFICER A,0,0,0,,Do you think that you can outrun the police?!
-Dialogue: 0,0:16:32.09,0:16:35.99,Main,OTAE,0,0,0,,I'm Otae. Please treat me gently.
-Dialogue: 0,0:16:35.99,0:16:38.58,Main,PRESIDENT,0,0,0,,I told you, that's not how you do it!
-Dialogue: 0,0:16:39.15,0:16:41.57,Main,PRESIDENT,0,0,0,,You're supposed to show more cleavage there! Stupid!
-Dialogue: 0,0:16:42.77,0:16:46.55,Main,OTAE,0,0,0,,I've never had cleavage before in my life!
-Dialogue: 0,0:16:46.55,0:16:49.88,Main,PRESIDENT,0,0,0,,Oh, sorry. You couldn't show any even if you wanted to.
-Dialogue: 0,0:16:51.16,0:16:53.52,Main,PRESIDENT,0,0,0,,Fine! Next we'll work on your technique!
-Dialogue: 0,0:16:54.07,0:16:56.57,Main,PRESIDENT,0,0,0,,It's time to put on your high-leg outfit and give us some shabu shabu heaven!
-Dialogue: 0,0:16:57.15,0:16:59.21,Main,OTAE,0,0,0,,Hold on... That cut is...
-Dialogue: 0,0:16:59.21,0:17:01.83,Main,PRESIDENT,0,0,0,,This cut is what we're going for.
-Dialogue: 0,0:17:02.93,0:17:05.33,Main,PRESIDENT,0,0,0,,What's wrong? Put it on already.
-Dialogue: 0,0:17:07.45,0:17:10.38,Main,PRESIDENT,0,0,0,,If you've lost your nerve now, it's too late!
-Dialogue: 0,0:17:11.02,0:17:15.81,Main,PRESIDENT,0,0,0,,If you think that I'm going to go easy on you just because we're on prime-time, you're mistaken.
-Dialogue: 0,0:17:15.81,0:17:18.14,Main,PRESIDENT,0,0,0,,This is for your dojo. So buck up, little soldier!
-Dialogue: 0,0:17:27.98,0:17:29.79,Main,PRESIDENT,0,0,0,,What's that?!
-Dialogue: 0,0:17:31.79,0:17:33.36,Main,GORILLA MAN,0,0,0,,Hold on. What's going on?!
-Dialogue: 0,0:17:35.36,0:17:38.01,Main,SUBORDINATE B,0,0,0,,Boss! What's going on?!
-Dialogue: 0,0:17:38.01,0:17:40.21,Main,PRESIDENT,0,0,0,,A car crashed into us.
-Dialogue: 0,0:17:40.58,0:17:42.74,Main,PRESIDENT,0,0,0,,This is bad. It's a police car!
-Dialogue: 0,0:17:42.74,0:17:44.62,Main,PRESIDENT,0,0,0,,The cops are onto us!
-Dialogue: 0,0:17:45.66,0:17:48.90,Main,GINTOKI,0,0,0,,Don't worry. It's just a rental.
-Dialogue: 0,0:17:50.46,0:17:53.38,Main,GINTOKI,0,0,0,,Hello. Odd Jobs at your service!
-Dialogue: 0,0:17:53.38,0:17:56.50,Main,SHINPACHI,0,0,0,,Sis! You haven't put on that high-leg outfit yet, right?!
-Dialogue: 0,0:17:56.50,0:17:57.59,Main,OTAE,0,0,0,,Shin?!
-Dialogue: 0,0:17:57.59,0:18:00.44,Main,PRESIDENT,0,0,0,,What the hell are you doing?!
-Dialogue: 0,0:18:00.44,0:18:02.49,Main,SHINPACHI,0,0,0,,We've come to get my sister back!
-Dialogue: 0,0:18:02.49,0:18:03.70,Main,PRESIDENT,0,0,0,,You idiot!
-Dialogue: 0,0:18:03.70,0:18:06.89,Main,PRESIDENT,0,0,0,,Don't any of you understand that it's too late already?!
-Dialogue: 0,0:18:07.42,0:18:11.46,Main,PRESIDENT,0,0,0,,Your dojo won't be any safer after this!
-Dialogue: 0,0:18:11.46,0:18:13.27,Main,SHINPACHI,0,0,0,,I don't care about the dojo.
-Dialogue: 0,0:18:14.37,0:18:18.38,Main,SHINPACHI,0,0,0,,I want a dojo where my sister is always smiling.
-Dialogue: 0,0:18:18.38,0:18:20.75,Main,SHINPACHI,0,0,0,,If I have to see my sister cry...
-Dialogue: 0,0:18:21.03,0:18:22.90,Main,SHINPACHI,0,0,0,,I don't need the dojo!
-Dialogue: 0,0:18:23.83,0:18:25.38,Main,OTAE,0,0,0,,Shin...
-Dialogue: 0,0:18:25.38,0:18:29.33,Main,PRESIDENT,0,0,0,,Fool! What can just the two of you do?
-Dialogue: 0,0:18:29.33,0:18:30.57,Main,PRESIDENT,0,0,0,,Get them!
-Dialogue: 0,0:18:31.72,0:18:34.54,Main,GINTOKI,0,0,0,,Hey, I'll distract 'em.
-Dialogue: 0,0:18:34.54,0:18:36.82,Main,GINTOKI,0,0,0,,Go find an escape pod or something and get outta here.
-Dialogue: 0,0:18:36.82,0:18:37.97,Main,SHINPACHI,0,0,0,,Wh-What about you?
-Dialogue: 0,0:18:38.33,0:18:41.35,Main,GINTOKI,0,0,0,,You just think about protecting your sister.
-Dialogue: 0,0:18:42.12,0:18:44.14,Main,GINTOKI,0,0,0,,I'll protect what I want to protect.
-Dialogue: 0,0:18:44.14,0:18:46.66,Main,PRESIDENT,0,0,0,,What the hell are you going on about?
-Dialogue: 0,0:18:46.66,0:18:47.83,Main,PRESIDENT,0,0,0,,Die!
-Dialogue: 0,0:18:49.85,0:18:51.80,Main,GINTOKI,0,0,0,,All right! Next!
-Dialogue: 0,0:18:52.21,0:18:53.91,Main,SUBORDINATES,0,0,0,,Who is this guy?!
-Dialogue: 0,0:18:53.91,0:18:54.50,Main,SHINPACHI,0,0,0,,What?
-Dialogue: 0,0:18:54.50,0:18:55.90,Main,OTAE,0,0,0,,H-His style is crazy...
-Dialogue: 0,0:18:57.20,0:18:57.53,Main,SHINPACHI,0,0,0,,...but strong!
-Dialogue: 0,0:18:58.90,0:19:00.86,Main,GINTOKI,0,0,0,,Shinichi! Go!
-Dialogue: 0,0:19:01.70,0:19:03.24,Main,SHINPACHI,0,0,0,,It's "Shinpachi," you idiot!
-Dialogue: 0,0:19:04.57,0:19:05.77,Main,OTAE,0,0,0,,Shin!
-Dialogue: 0,0:19:05.77,0:19:07.29,Main,OTAE,0,0,0,,Will he be all right?
-Dialogue: 0,0:19:07.96,0:19:10.18,Main,OTAE,0,0,0,,Why is he doing this for us?
-Dialogue: 0,0:19:10.18,0:19:11.67,Main,SHINPACHI,0,0,0,,I don't know!
-Dialogue: 0,0:19:11.84,0:19:13.67,Main,SHINPACHI,0,0,0,,But he'll come back!
-Dialogue: 0,0:19:13.67,0:19:16.42,Main,SHINPACHI,0,0,0,,Because I sense it in him!
-Dialogue: 0,0:19:16.42,0:19:18.14,Main,SHINPACHI,0,0,0,,The thing that Father talked about.
-Dialogue: 0,0:19:22.56,0:19:24.38,Main,SHINPACHI,0,0,0,,He really came back!
-Dialogue: 0,0:19:24.38,0:19:27.39,Main,GINTOKI,0,0,0,,That was tough! It was far tougher than I thought!
-Dialogue: 0,0:19:27.76,0:19:31.14,Main,SHINPACHI,0,0,0,,Try a little harder! You didn't even last a minute!
-Dialogue: 0,0:19:31.14,0:19:35.25,Main,GINTOKI,0,0,0,,You idiot! It's really tough to make a minute-long anime!
-Dialogue: 0,0:19:35.25,0:19:37.48,Main,GINTOKI,0,0,0,,Just find an escape pod right now!
-Dialogue: 0,0:19:40.37,0:19:41.11,Main,SHINPACHI,0,0,0,,Where are we?
-Dialogue: 0,0:19:41.79,0:19:42.90,Main,SHINPACHI,0,0,0,,The engine room?!
-Dialogue: 0,0:19:45.12,0:19:46.80,Main,PRESIDENT,0,0,0,,It's a dead end.
-Dialogue: 0,0:19:48.00,0:19:49.91,Main,PRESIDENT,0,0,0,,Let's end this game of tag.
-Dialogue: 0,0:19:50.82,0:19:52.83,Main,PRESIDENT,0,0,0,,How pathetic...
-Dialogue: 0,0:19:52.83,0:19:56.08,Main,PRESIDENT,0,0,0,,The samurai who once protected the country with their swords
-Dialogue: 0,0:19:56.08,0:19:59.48,Main,PRESIDENT,0,0,0,,are now good-for-nothings who can't even protect a single girl.
-Dialogue: 0,0:20:00.49,0:20:03.79,Main,PRESIDENT,0,0,0,,There's nothing for you to protect.
-Dialogue: 0,0:20:03.79,0:20:07.43,Main,PRESIDENT,0,0,0,,This country... This sky, they all belong to us, the Amanto.
-Dialogue: 0,0:20:07.81,0:20:10.27,Main,GINTOKI,0,0,0,,The country? The sky?
-Dialogue: 0,0:20:10.27,0:20:11.68,Main,GINTOKI,0,0,0,,You can have 'em.
-Dialogue: 0,0:20:12.29,0:20:14.98,Main,GINTOKI,0,0,0,,I'm busy protecting the things in front of me.
-Dialogue: 0,0:20:15.79,0:20:19.94,Main,GINTOKI,0,0,0,,I don't know how many things I have failed to protect.
-Dialogue: 0,0:20:20.62,0:20:25.40,Main,GINTOKI,0,0,0,,I don't have anything left, but at least if I find something falling before me...
-Dialogue: 0,0:20:26.49,0:20:27.83,Main,GINTOKI,0,0,0,,I want to pick it up!
-Dialogue: 0,0:20:27.83,0:20:32.46,Main,PRESIDENT,0,0,0,,What pathetic warrior spirit... I've had enough of you!
-Dialogue: 0,0:20:32.46,0:20:33.24,Main,PRESIDENT,0,0,0,,Die!
-Dialogue: 0,0:20:33.24,0:20:35.66,Main,STAFF A,0,0,0,,Hold on... Sir, no!
-Dialogue: 0,0:20:35.66,0:20:38.24,Main,STAFF A,0,0,0,,What'll happen if we hit the you-know-what?
-Dialogue: 0,0:20:38.24,0:20:39.81,Main,STAFF A,0,0,0,,We'll die along with the ship.
-Dialogue: 0,0:20:39.81,0:20:41.88,Main,PRESIDENT,0,0,0,,O-Oh no, I forgot...
-Dialogue: 0,0:20:42.60,0:20:45.05,Main,PRESIDENT,0,0,0,,Hey, he's climbing it! Hey!
-Dialogue: 0,0:20:45.68,0:20:47.05,Main,PRESIDENT,0,0,0,,Hey, wait!
-Dialogue: 0,0:20:47.05,0:20:49.39,Main,PRESIDENT,0,0,0,,That's not good! That's the ship's engine core.
-Dialogue: 0,0:20:50.72,0:20:53.87,Main,GINTOKI,0,0,0,,What's precious to my client is precious to me.
-Dialogue: 0,0:20:54.28,0:20:55.97,Main,GINTOKI,0,0,0,,In order to protect them...
-Dialogue: 0,0:20:55.97,0:20:57.18,Main,GINTOKI,0,0,0,,I'll do...
-Dialogue: 0,0:20:57.18,0:20:59.93,Main,GINTOKI,0,0,0,,...anything!
-Dialogue: 0,0:21:04.76,0:21:06.80,Main,PRESIDENT,0,0,0,,No! He really did it!
-Dialogue: 0,0:21:14.87,0:21:17.58,Main,GINTOKI,0,0,0,,What is this floating sensation? I feel sick!
-Dialogue: 0,0:21:17.58,0:21:19.52,Main,SHINPACHI,0,0,0,,Is this thing falling?! Are we falling?!
-Dialogue: 0,0:21:29.89,0:21:32.97,Main,SHINPACHI,0,0,0,,Luckily we were over the ocean, but...
-Dialogue: 0,0:21:33.79,0:21:36.65,Main,SHINPACHI,0,0,0,,...who knows what would have happened if we had fallen on the town.
-Dialogue: 0,0:21:37.20,0:21:39.69,Main,SHINPACHI,0,0,0,,I've never seen such a crazy samurai.
-Dialogue: 0,0:21:40.41,0:21:41.61,Main,OTAE,0,0,0,,But...
-Dialogue: 0,0:21:42.46,0:21:44.11,Main,OTAE,0,0,0,,In the end, he saved us.
-Dialogue: 0,0:21:45.69,0:21:47.14,Main,GINTOKI,0,0,0,,What?!
-Dialogue: 0,0:21:48.09,0:21:52.09,Main,GINTOKI,0,0,0,,I aided in the arrest of ruffians who were disturbing the peace in Edo!
-Dialogue: 0,0:21:52.09,0:21:54.78,Main,GINTOKI,0,0,0,,You can let the fact that I borrowed a police car slide!
-Dialogue: 0,0:21:54.78,0:21:57.84,Main,OFFICER A,0,0,0,,"Borrowed"? My car and I are a complete wreck!
-Dialogue: 0,0:21:57.84,0:22:00.27,Main,GINTOKI,0,0,0,,You've always been a wreck! You actually look even better like that.
-Dialogue: 0,0:22:00.27,0:22:01.67,Main,OFFICER A,0,0,0,,Seriously?! What part?
-Dialogue: 0,0:22:02.46,0:22:04.48,Main,SHINPACHI,0,0,0,,Sis, I...
-Dialogue: 0,0:22:04.48,0:22:05.33,Main,OTAE,0,0,0,,Go.
-Dialogue: 0,0:22:06.75,0:22:09.68,Main,OTAE,0,0,0,,You found something in him, right?
-Dialogue: 0,0:22:10.16,0:22:13.39,Main,OTAE,0,0,0,,Go and find your sword.
-Dialogue: 0,0:22:14.05,0:22:16.12,Main,OTAE,0,0,0,,I'll look for it my own way.
-Dialogue: 0,0:22:16.58,0:22:18.66,Main,OTAE,0,0,0,,It's all right. I won't do anything rash anymore.
-Dialogue: 0,0:22:19.29,0:22:22.94,Main,OTAE,0,0,0,,I don't want to see you cry either.
-Dialogue: 0,0:22:23.89,0:22:24.99,Main,SHINPACHI,0,0,0,,Sis...
-Dialogue: 0,0:22:25.87,0:22:28.69,Main,SHINPACHI'S FATHER,0,0,0,,Even if there comes a time when you must give up your sword,
-Dialogue: 0,0:22:28.69,0:22:32.23,Main,SHINPACHI'S FATHER,0,0,0,,you must never lose the unwavering sword kept in your soul.
-Dialogue: 0,0:22:35.14,0:22:36.07,Main,SHINPACHI (mono),0,0,0,,Father.
-Dialogue: 0,0:22:36.84,0:22:41.17,Main,SHINPACHI (mono),0,0,0,,What sort of soul does this guy have? It's very difficult to tell.
-Dialogue: 0,0:22:41.79,0:22:45.23,Main,SHINPACHI (mono),0,0,0,,I think it's dim but it's definitely shining.
-Dialogue: 0,0:22:46.52,0:22:51.35,Main,SHINPACHI (mono),0,0,0,,Right now, I think I'd like to watch it shine for a while.
-Dialogue: 0,0:24:26.39,0:24:30.65,Main,GINTOKI,0,0,0,,Oh no! I forgot that Jump goes on sale today!
-Dialogue: 0,0:24:30.65,0:24:32.51,Main,GINTOKI,0,0,0,,Should I use this opportunity to grow out of it?
-Dialogue: 0,0:24:32.51,0:24:35.06,Main,GINTOKI,0,0,0,,No! Men are boys at heart until they die!
-Dialogue: 0,0:24:35.06,0:24:35.75,Main,GINTOKI,0,0,0,,The next episode:
-Dialogue: 0,0:24:35.75,0:24:39.95,Main,GINTOKI,0,0,0,,"Watch Out! Weekly Shonen JUMP Sometimes Comes Out on Saturdays!"
-Dialogue: 0,0:24:52.39,0:24:54.67,Main,GINTOKI,0,0,0,,I wish I could shoot something like Getsuga Tensho, too...
-Comment: 0,0:24:35.75,0:24:39.95,Main,,0,0,0,,{=754}===============================DIALOGUE============================ END
+Dialogue: 0,0:16:13.07,0:16:14.91,Main,SHINPACHI,0,0,0,,Sis!
+Dialogue: 0,0:16:14.91,0:16:17.09,Main,OFFICER A,0,0,0,,Damn him... Mocking me like that!
+Dialogue: 0,0:16:17.09,0:16:18.42,Main,OFFICER A,0,0,0,,After him!
+Dialogue: 0,0:16:18.01,0:16:18.42,Main,OFFICER B,0,0,0,,Yes, sir!
+Dialogue: 0,0:16:23.25,0:16:24.76,Main,OFFICER A,0,0,0,,Hey, you!
+Dialogue: 0,0:16:24.76,0:16:27.51,Main,OFFICER A,0,0,0,,Do you think that you can outrun the police?!
+Dialogue: 0,0:16:32.10,0:16:35.43,Main,OTAE,0,0,0,,I'm Otae. Please treat me gently.
+Dialogue: 0,0:16:35.75,0:16:39.03,Main,PRESIDENT,0,0,0,,I told you, that's not how you do it!
+Dialogue: 0,0:16:39.03,0:16:41.40,Main,PRESIDENT,0,0,0,,You're supposed to show \Nmore cleavage there! Stupid!
+Dialogue: 0,0:16:42.69,0:16:46.32,Main,OTAE,0,0,0,,I've never had cleavage before in my life!
+Dialogue: 0,0:16:46.32,0:16:49.70,Main,PRESIDENT,0,0,0,,Oh, sorry. You couldn't show \Nany even if you wanted to.
+Dialogue: 0,0:16:51.20,0:16:53.83,Main,PRESIDENT,0,0,0,,Fine! Next we'll work on your technique!
+Dialogue: 0,0:16:53.91,0:16:56.62,Main,PRESIDENT,0,0,0,,It's time to put on your high-leg outfit \Nand give us some shabu shabu heaven!
+Dialogue: 0,0:16:57.74,0:16:59.05,Main,OTAE,0,0,0,,Hold on... That cut is...
+Dialogue: 0,0:16:59.05,0:17:02.08,Main,PRESIDENT,0,0,0,,This cut is what we're going for.
+Dialogue: 0,0:17:02.87,0:17:04.88,Main,PRESIDENT,0,0,0,,What's wrong? Put it on already.
+Dialogue: 0,0:17:07.34,0:17:10.38,Main,PRESIDENT,0,0,0,,If you've lost your nerve now, it's too late!
+Dialogue: 0,0:17:10.96,0:17:15.22,Main,PRESIDENT,0,0,0,,If you think that I'm going to go easy on you just \Nbecause we're on prime-time, you're mistaken.
+Dialogue: 0,0:17:15.53,0:17:17.93,Main,PRESIDENT,0,0,0,,This is for your dojo. So buck up, little soldier!
+Dialogue: 0,0:17:27.93,0:17:29.61,Main,PRESIDENT,0,0,0,,What's that?!
+Dialogue: 0,0:17:31.81,0:17:33.37,Main,GORILLA MAN,0,0,0,,Hold on. What's going on?!
+Dialogue: 0,0:17:35.37,0:17:37.80,Main,SUBORDINATE B,0,0,0,,Boss! What's going on?!
+Dialogue: 0,0:17:37.80,0:17:40.58,Main,PRESIDENT,0,0,0,,A car crashed into us.
+Dialogue: 0,0:17:40.58,0:17:42.52,Main,PRESIDENT,0,0,0,,This is bad. It's a police car!
+Dialogue: 0,0:17:42.52,0:17:44.63,Main,PRESIDENT,0,0,0,,The cops are onto us!
+Dialogue: 0,0:17:45.54,0:17:49.20,Main,GINTOKI,0,0,0,,Don't worry. It's just a rental.
+Dialogue: 0,0:17:50.39,0:17:53.07,Main,GINTOKI,0,0,0,,Hello. Odd Jobs at your service!
+Dialogue: 0,0:17:53.07,0:17:56.14,Main,SHINPACHI,0,0,0,,Sis! You haven't put \Non that high-leg outfit yet, right?!
+Dialogue: 0,0:17:56.44,0:17:57.38,Main,OTAE,0,0,0,,Shin?!
+Dialogue: 0,0:17:57.38,0:17:59.85,Main,PRESIDENT,0,0,0,,What the hell are you doing?!
+Dialogue: 0,0:18:00.22,0:18:02.30,Main,SHINPACHI,0,0,0,,We've come to get my sister back!
+Dialogue: 0,0:18:02.30,0:18:03.65,Main,PRESIDENT,0,0,0,,You idiot!
+Dialogue: 0,0:18:03.65,0:18:06.90,Main,PRESIDENT,0,0,0,,Don't any of you understand that it's too late already?!
+Dialogue: 0,0:18:07.37,0:18:11.27,Main,PRESIDENT,0,0,0,,Your dojo won't be any safer after this!
+Dialogue: 0,0:18:11.27,0:18:13.78,Main,SHINPACHI,0,0,0,,I don't care about the dojo.
+Dialogue: 0,0:18:14.29,0:18:18.29,Main,SHINPACHI,0,0,0,,I want a dojo where my sister is always smiling.
+Dialogue: 0,0:18:18.29,0:18:20.75,Main,SHINPACHI,0,0,0,,If I have to see my sister cry...
+Dialogue: 0,0:18:21.20,0:18:22.54,Main,SHINPACHI,0,0,0,,I don't need the dojo!
+Dialogue: 0,0:18:23.75,0:18:24.88,Main,OTAE,0,0,0,,Shin...
+Dialogue: 0,0:18:25.33,0:18:29.38,Main,PRESIDENT,0,0,0,,Fool! What can just the two of you do?
+Dialogue: 0,0:18:29.38,0:18:30.71,Main,PRESIDENT,0,0,0,,Get them!
+Dialogue: 0,0:18:31.67,0:18:34.33,Main,GINTOKI,0,0,0,,Hey, I'll distract 'em.
+Dialogue: 0,0:18:34.33,0:18:36.62,Main,GINTOKI,0,0,0,,Go find an escape pod or something \Nand get outta here.
+Dialogue: 0,0:18:36.62,0:18:37.97,Main,SHINPACHI,0,0,0,,Wh-What about you?
+Dialogue: 0,0:18:38.23,0:18:41.35,Main,GINTOKI,0,0,0,,You just think about protecting your sister.
+Dialogue: 0,0:18:41.98,0:18:44.14,Main,GINTOKI,0,0,0,,I'll protect what I want to protect.
+Dialogue: 0,0:18:44.14,0:18:46.52,Main,PRESIDENT,0,0,0,,What the hell are you going on about?
+Dialogue: 0,0:18:46.52,0:18:47.69,Main,PRESIDENT,0,0,0,,Die!
+Dialogue: 0,0:18:50.11,0:18:52.03,Main,GINTOKI,0,0,0,,All right! Next!
+Dialogue: 0,0:18:52.03,0:18:53.49,Main,SUBORDINATES,0,0,0,,Who is this guy?!
+Dialogue: 0,0:18:53.49,0:18:54.87,Main,SHINPACHI,0,0,0,,What?
+Dialogue: 0,0:18:54.87,0:18:55.91,Main,OTAE,0,0,0,,H-His style is crazy...
+Dialogue: 0,0:18:56.96,0:18:57.53,Main,SHINPACHI,0,0,0,,...but strong!
+Dialogue: 0,0:18:59.03,0:19:00.87,Main,GINTOKI,0,0,0,,Shinichi! Go!
+Dialogue: 0,0:19:01.54,0:19:03.12,Main,SHINPACHI,0,0,0,,It's "Shinpachi," you idiot!
+Dialogue: 0,0:19:04.43,0:19:05.25,Main,OTAE,0,0,0,,Shin!
+Dialogue: 0,0:19:05.67,0:19:07.29,Main,OTAE,0,0,0,,Will he be all right?
+Dialogue: 0,0:19:07.94,0:19:10.03,Main,OTAE,0,0,0,,Why is he doing this for us?
+Dialogue: 0,0:19:10.03,0:19:11.67,Main,SHINPACHI,0,0,0,,I don't know!
+Dialogue: 0,0:19:11.67,0:19:13.17,Main,SHINPACHI,0,0,0,,But he'll come back!
+Dialogue: 0,0:19:13.69,0:19:16.18,Main,SHINPACHI,0,0,0,,Because I sense it in him!
+Dialogue: 0,0:19:16.18,0:19:17.68,Main,SHINPACHI,0,0,0,,The thing that Father talked about.
+Dialogue: 0,0:19:22.54,0:19:24.02,Main,SHINPACHI,0,0,0,,He really came back!
+Dialogue: 0,0:19:24.02,0:19:27.55,Main,GINTOKI,0,0,0,,That was tough! \NIt was far tougher than I thought!
+Dialogue: 0,0:19:27.55,0:19:30.90,Main,SHINPACHI,0,0,0,,Try a little harder! \NYou didn't even last a minute!
+Dialogue: 0,0:19:30.90,0:19:34.86,Main,GINTOKI,0,0,0,,You idiot! It's really tough to make a minute-long anime!
+Dialogue: 0,0:19:35.11,0:19:37.11,Main,GINTOKI,0,0,0,,Just find an escape pod right now!
+Dialogue: 0,0:19:40.32,0:19:41.12,Main,SHINPACHI,0,0,0,,Where are we?
+Dialogue: 0,0:19:41.76,0:19:43.07,Main,SHINPACHI,0,0,0,,The engine room?!
+Dialogue: 0,0:19:45.12,0:19:47.17,Main,PRESIDENT,0,0,0,,It's a dead end.
+Dialogue: 0,0:19:47.97,0:19:49.96,Main,PRESIDENT,0,0,0,,Let's end this game of tag.
+Dialogue: 0,0:19:50.76,0:19:52.21,Main,PRESIDENT,0,0,0,,How pathetic...
+Dialogue: 0,0:19:52.64,0:19:55.51,Main,PRESIDENT,0,0,0,,The samurai who once protected \Nthe country with their swords
+Dialogue: 0,0:19:55.91,0:19:59.76,Main,PRESIDENT,0,0,0,,are now good-for-nothings \Nwho can't even protect a single girl.
+Dialogue: 0,0:20:00.44,0:20:03.58,Main,PRESIDENT,0,0,0,,There's nothing for you to protect.
+Dialogue: 0,0:20:03.58,0:20:07.44,Main,PRESIDENT,0,0,0,,This country... This sky, \Nthey all belong to us, the Amanto.
+Dialogue: 0,0:20:07.83,0:20:10.07,Main,GINTOKI,0,0,0,,The country? The sky?
+Dialogue: 0,0:20:10.07,0:20:12.20,Main,GINTOKI,0,0,0,,You can have 'em.
+Dialogue: 0,0:20:12.20,0:20:14.99,Main,GINTOKI,0,0,0,,I'm busy protecting the things in front of me.
+Dialogue: 0,0:20:15.73,0:20:19.95,Main,GINTOKI,0,0,0,,I don't know how many things \NI have failed to protect.
+Dialogue: 0,0:20:20.54,0:20:25.70,Main,GINTOKI,0,0,0,,I don't have anything left, but at least \Nif I find something falling before me...
+Dialogue: 0,0:20:26.38,0:20:27.83,Main,GINTOKI,0,0,0,,I want to pick it up!
+Dialogue: 0,0:20:27.83,0:20:32.50,Main,PRESIDENT,0,0,0,,What pathetic warrior spirit... \NI've had enough of you!
+Dialogue: 0,0:20:32.50,0:20:33.04,Main,PRESIDENT,0,0,0,,Die!
+Dialogue: 0,0:20:33.04,0:20:35.43,Main,STAFF A,0,0,0,,Hold on... Sir, no!
+Dialogue: 0,0:20:35.43,0:20:37.95,Main,STAFF A,0,0,0,,What'll happen if we hit the you-know-what?
+Dialogue: 0,0:20:37.95,0:20:39.63,Main,STAFF A,0,0,0,,We'll die along with the ship.
+Dialogue: 0,0:20:39.63,0:20:41.88,Main,PRESIDENT,0,0,0,,O-Oh no, I forgot...
+Dialogue: 0,0:20:42.48,0:20:44.89,Main,PRESIDENT,0,0,0,,Hey, he's climbing it! Hey!
+Dialogue: 0,0:20:45.39,0:20:46.83,Main,PRESIDENT,0,0,0,,Hey, wait!
+Dialogue: 0,0:20:46.83,0:20:49.39,Main,PRESIDENT,0,0,0,,That's not good! \NThat's the ship's engine core.
+Dialogue: 0,0:20:50.61,0:20:54.20,Main,GINTOKI,0,0,0,,What's precious to my client is precious to me.
+Dialogue: 0,0:20:54.20,0:20:55.40,Main,GINTOKI,0,0,0,,In order to protect them...
+Dialogue: 0,0:20:55.79,0:20:57.03,Main,GINTOKI,0,0,0,,I'll do...
+Dialogue: 0,0:20:57.36,0:20:59.53,Main,GINTOKI,0,0,0,,...anything!
+Dialogue: 0,0:21:04.49,0:21:06.50,Main,PRESIDENT,0,0,0,,No! He really did it!
+Dialogue: 0,0:21:14.88,0:21:17.44,Main,GINTOKI,0,0,0,,What is this floating sensation? I feel sick!
+Dialogue: 0,0:21:17.44,0:21:19.38,Main,SHINPACHI,0,0,0,,Is this thing falling?! Are we falling?!
+Dialogue: 0,0:21:29.82,0:21:32.98,Main,SHINPACHI,0,0,0,,Luckily we were over the ocean, but...
+Dialogue: 0,0:21:33.74,0:21:36.65,Main,SHINPACHI,0,0,0,,...who knows what would have happened if we had fallen on the town.
+Dialogue: 0,0:21:37.08,0:21:40.36,Main,SHINPACHI,0,0,0,,I've never seen such a crazy samurai.
+Dialogue: 0,0:21:40.36,0:21:41.18,Main,OTAE,0,0,0,,But...
+Dialogue: 0,0:21:42.37,0:21:44.11,Main,OTAE,0,0,0,,In the end, he saved us.
+Dialogue: 0,0:21:45.62,0:21:47.20,Main,GINTOKI,0,0,0,,What?!
+Dialogue: 0,0:21:48.00,0:21:52.00,Main,GINTOKI,0,0,0,,I aided in the arrest of ruffians \Nwho were disturbing the peace in Edo!
+Dialogue: 0,0:21:52.00,0:21:54.59,Main,GINTOKI,0,0,0,,You can let the fact \Nthat I borrowed a police car slide!
+Dialogue: 0,0:21:54.59,0:21:57.42,Main,OFFICER A,0,0,0,,"Borrowed"? My car and I are a complete wreck!
+Dialogue: 0,0:21:57.42,0:22:00.06,Main,GINTOKI,0,0,0,,You've always been a wreck! \NYou actually look even better like that.
+Dialogue: 0,0:22:00.06,0:22:01.68,Main,OFFICER A,0,0,0,,Seriously?! What part?
+Dialogue: 0,0:22:02.59,0:22:04.42,Main,SHINPACHI,0,0,0,,Sis, I...
+Dialogue: 0,0:22:04.42,0:22:05.52,Main,OTAE,0,0,0,,Go.
+Dialogue: 0,0:22:06.69,0:22:09.68,Main,OTAE,0,0,0,,You found something in him, right?
+Dialogue: 0,0:22:10.10,0:22:13.40,Main,OTAE,0,0,0,,Go and find your sword.
+Dialogue: 0,0:22:13.98,0:22:16.53,Main,OTAE,0,0,0,,I'll look for it my own way.
+Dialogue: 0,0:22:16.53,0:22:19.20,Main,OTAE,0,0,0,,It's all right. I won't do anything rash anymore.
+Dialogue: 0,0:22:19.20,0:22:22.95,Main,OTAE,0,0,0,,I don't want to see you cry either.
+Dialogue: 0,0:22:23.92,0:22:25.07,Main,SHINPACHI,0,0,0,,Sis...
+Dialogue: 0,0:22:25.85,0:22:28.52,Flashbacks,SHINPACHI'S FATHER,0,0,0,,Even if there comes a time \Nwhen you must give up your sword,
+Dialogue: 0,0:22:28.52,0:22:32.16,Flashbacks,SHINPACHI'S FATHER,0,0,0,,you must never lose \Nthe unwavering sword kept in your soul.
+Dialogue: 0,0:22:35.07,0:22:36.46,Main,SHINPACHI (mono),0,0,0,,Father.
+Dialogue: 0,0:22:36.79,0:22:41.21,Main,SHINPACHI (mono),0,0,0,,What sort of soul does this guy have? \NIt's very difficult to tell.
+Dialogue: 0,0:22:41.68,0:22:45.39,Main,SHINPACHI (mono),0,0,0,,I think it's dim but it's definitely shining.
+Dialogue: 0,0:22:46.47,0:22:51.59,Main,SHINPACHI (mono),0,0,0,,Right now, I think I'd like \Nto watch it shine for a while.
+Dialogue: 0,0:24:26.32,0:24:30.07,Main,GINTOKI,0,0,0,,Oh no! I forgot that Jump goes on sale today!
+Dialogue: 0,0:24:30.40,0:24:32.03,Main,GINTOKI,0,0,0,,Should I use this opportunity to grow out of it?
+Dialogue: 0,0:24:32.29,0:24:34.58,Main,GINTOKI,0,0,0,,No! Men are boys at heart until they die!
+Dialogue: 0,0:24:34.96,0:24:35.60,Main,GINTOKI,0,0,0,,The next episode:
+Dialogue: 0,0:24:35.60,0:24:38.36,Main,GINTOKI,0,0,0,,"Watch Out! Weekly Shonen JUMP Sometimes Comes Out on Saturdays!"
+Dialogue: 0,0:24:52.31,0:24:55.01,Main,GINTOKI,0,0,0,,I wish I could shoot something \Nlike Getsuga Tensho, too...
+Comment: 0,0:24:35.75,0:24:39.95,Main,,0,0,0,,{=823}===============================DIALOGUE============================ END
 Comment: 0,0:01:40.15,0:01:45.04,Captions,,0,0,0,,{=810}============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:40.00,0:01:45.04,Preview Top,,0,0,0,,{\blur0.7}Sorry, we got carried away a little
 Dialogue: 1,0:01:40.00,0:01:45.04,Preview Top,,0,0,0,,{\bord0\4a&HFF&\blur0.7}Sorry, we got carried away a little
@@ -460,7 +458,7 @@ Dialogue: 1,0:01:45.04,0:01:50.01,Preview Top,,0,0,0,,{\bord0\4a&HFF&\blur0.7}Th
 Dialogue: 0,0:01:45.04,0:01:50.01,Preview Bottom,,0,0,0,,{\c&H3B20EB&\blur0.7}when Gin and Shinpachi first meet.
 Dialogue: 1,0:01:45.04,0:01:50.01,Preview Bottom,,0,0,0,,{\bord0\4a&HFF&\blur0.7}when Gin and Shinpachi first meet.
 Comment: 1,0:05:14.09,0:05:20.09,Title,,0,0,0,,{=93}>> TITLE
-Dialogue: 1,0:05:14.09,0:05:20.09,Title,,0,0,0,,{\an5\fscx150\fscy150\blur20\t(0,474,1.5,\fscx60\fscy60\blur0.7)\bord0\c&HFFFFFF&\pos(343,328.67)\p1}m 510 77.33 b 501.63 74.56 497.07 68.33 490 63.63 l 476.67 58.12 475.79 57.62 b 465.37 51.3 456.78 42.59 450.2 32.4 447.68 28.49 444.46 23.66 445.14 18.79 l 445.47 17.86 446 17.03 446.82 16.46 447.77 16.08 b 453.99 14.15 462.02 12.36 468.54 12.69 473.16 12.92 477.72 14.16 482.32 14.63 488.57 15.28 495.14 15.34 500.97 17.95 507.34 20.81 515.31 27.82 516.5 35.03 518.1 44.74 510.39 50.73 507.04 58.79 l 506.89 59.77 b 506.89 65.64 509.64 71.39 510 77.33 m 687.34 40.81 b 700.12 38.93 710.98 47.42 713.46 60 714.15 63.53 713.05 67.02 713.46 70.55 l 713.77 71.53 b 715.17 74.82 717.38 77.18 717.76 80.9 719.03 93.51 711.54 102.66 704.15 111.98 700.29 116.86 696.12 122.15 691.03 125.8 678.22 134.99 664.32 123.78 661.19 110.67 l 660.26 100 660.22 99 b 659.82 91.25 658.66 83.69 660.26 76 l 662.44 66.67 662.6 65.71 b 664.22 52.34 675.18 44.86 687.34 40.81 m 74 133.33 b 69.49 123.71 66.33 113.24 63.37 103.05 61.29 95.89 59.17 87.85 60.53 80.34 l 60.91 79.44 61.63 78.71 62.54 78.25 63.55 78.02 b 67.91 77.7 72.31 79.43 76.59 80.15 83.79 81.36 91.08 82.13 98.37 82.48 112.64 83.18 126.96 81.26 141.11 79.57 152.2 78.24 163.77 77.3 174.57 74.31 185.84 71.19 197.48 66.87 207.28 60.41 217.17 53.91 225.01 44.02 238 46.67 l 237.78 47.71 b 237.3 50.06 236.82 52.39 236.96 54.79 l 237.2 55.77 237.65 56.7 b 239.32 59.42 240.14 62.19 240.67 65.33 l 235.33 62.67 234.94 63.61 b 232.78 69.07 233.3 74.45 231.83 80 227.42 96.67 219.74 111.36 203.33 118.67 l 203.28 119.68 b 201.69 134.4 185.11 140.67 172.33 142.32 166.68 143.05 159.44 142.44 154.8 146.31 l 154.14 147.09 b 152.32 150.21 153.1 153.6 153.6 157 154.69 164.3 155.77 171.6 158 178.67 l 158.87 178.17 b 173.55 169.78 188.78 162.06 202 151.39 217.17 139.13 229.88 123.78 250 120 l 250.07 120.99 b 251.46 135.18 261.34 148.88 259.3 163.39 258.53 168.79 254.16 172.78 250.69 176.67 247.79 179.93 245.38 183.6 242.07 186.48 236.76 191.1 230.32 194.19 224.67 198.35 l 213.63 208.29 203.45 215.36 202.67 216 b 195.57 221.94 189.72 226.7 180.67 229.33 l 182 226.67 181.03 226.98 b 175.29 228.64 167.12 229.67 164.67 236 l 163.91 236.71 b 158.32 242.31 159.99 247.53 160.61 254.67 l 160.61 265.33 160.61 266.34 b 160.53 270.27 160.35 274.38 158.77 278.04 156.57 283.13 152.23 287.31 149.29 292 l 141.48 305.33 140.86 306.11 b 129.12 320.4 112.8 330.93 96.64 339.56 89.1 343.6 81.07 347.94 72.48 349.11 64.93 350.14 57.91 348.1 50.72 346.1 47.65 345.25 43.75 344.64 41.57 342.07 39.14 339.21 40.01 334.68 41.09 331.43 44.71 320.54 57.17 318.67 66 313.71 79.16 306.31 91.84 296.87 102.29 285.95 110.11 277.77 115.88 269 115.33 257.33 l 104.67 259.88 103.71 260.2 b 98.38 261.98 92.84 264.1 87.17 264.24 82.12 264.36 77.21 262.73 72.48 261.17 60.74 257.29 50.49 252.18 44.72 240.74 41.85 235.06 38.84 227.15 41.32 220.83 43.65 214.9 49.85 216.32 54.96 216.41 58.59 216.47 62.13 216.04 65.64 215.11 78.62 211.65 90.46 205.1 103.04 200.54 108.92 198.41 117.5 196.66 121.86 191.9 125.09 188.37 125.39 183.16 126.11 178.67 l 129.88 160 134 146.67 119.33 149.84 92.89 144.63 74 133.33 m 398 141.33 b 391.55 142.23 384.16 142.26 378.01 139.85 374.35 138.4 371.61 135.76 371.99 131.6 l 372.26 130.62 b 374 126.92 377.48 126.05 381.04 124.73 386.95 122.54 396.34 119.99 399.73 114.19 402.31 109.78 401.02 104.14 400.74 99.35 400.32 92.27 400.72 85.3 399.46 78.27 398.57 73.32 395.72 67.78 396.47 62.74 l 396.83 61.83 397.59 61.14 398.53 60.73 399.54 60.51 b 401.97 60.29 404.34 60.62 406.7 61.23 420.49 64.83 423.76 77.01 427.34 89.33 l 440.67 79.95 441.52 79.42 b 451.95 73.35 467.96 67.77 479.93 71.97 492.66 76.44 497.81 93.34 487.32 103.03 479.95 109.84 468.61 111.12 459.34 113.73 l 447.34 117.84 446.39 118.11 b 442.17 119.16 438.01 119.76 434.99 123.19 l 434.5 124.03 b 433.06 127.68 432.54 131.7 432.05 135.57 431.45 140.22 429.96 146.72 431.66 151.23 433.42 155.88 438.63 158.56 442.91 160.43 452.35 164.55 462.81 165.69 471.97 170.46 486.99 178.29 501.02 190.1 512.3 202.67 l 523.71 215.09 523.86 216.07 523.72 217.03 523.32 217.92 522.74 218.71 b 519.78 221.76 515.92 223.77 512.9 226.79 506.98 232.7 501.1 240.76 493.51 244.56 l 492.53 244.76 b 486.33 245.15 478.28 244.9 472.57 242.28 463.09 237.92 456.97 227.83 450.32 220.21 439.82 208.19 430.02 196.54 422 182.67 l 421.71 183.64 b 419.88 189.73 418.11 195.94 415.36 201.69 412.17 208.35 407.84 214.44 404.25 220.89 401.83 225.21 399.19 232.82 394.27 234.85 391.15 236.13 387.74 234.5 384.67 233.84 l 376.95 232.53 376.07 232.08 b 359.33 220.82 369.33 198.86 376.32 185.33 l 389.64 160 398 141.33 m 684.67 61.81 b 681.84 62.67 678.99 63.66 677.11 66.06 l 676.69 66.95 676.49 67.9 676.52 68.88 676.72 69.84 b 678.05 73.57 680.82 76.51 682.63 80 684.28 83.2 685.08 86.84 687.95 89.23 l 688.8 89.72 689.72 90.03 690.68 90.17 b 698.04 90.06 700.56 82.25 699.94 76 699.04 67.07 693.9 61.42 684.67 61.81 m 612.67 69.33 b 630.87 79.92 646.72 96.4 651.32 117.51 652.89 124.69 652.63 131.99 652.92 139.29 653.3 148.91 654.15 158.5 655.71 168 l 666.94 217.33 668.62 241.33 667.34 256 665.6 288 665.73 288.98 b 667.68 300.17 675.09 311.56 665.07 321.26 660.17 326 653.6 324.58 650 330.94 l 649.01 330.99 b 642.69 331.54 636.46 333.36 630.42 330.54 623.42 327.27 620.49 320 617.63 313.33 610.56 296.86 607.71 280.57 608.32 262.67 l 614.38 214.67 614.34 213.67 b 613.05 194.58 604.83 176.69 604.67 157.33 l 604.67 133.33 605.95 114.67 604.79 104 602 70.67 612.67 69.33 m 300.67 74.67 b 305.3 75.33 311.07 76.14 313.08 81.09 314.34 84.22 313.78 87.74 315.01 90.89 l 315.55 91.73 316.3 92.38 317.21 92.79 318.2 92.96 319.16 92.88 b 331.48 89.85 340.99 81.35 354 79.91 357.03 79.57 359.99 78.84 363 79.68 l 363.9 80.14 364.64 80.81 365.11 81.66 365.41 82.59 b 368.35 95.67 366.9 108.32 365.06 121.33 l 360.67 162.67 360.67 163.66 b 360.77 177.86 361.89 192.24 359.27 206.3 357.83 214.03 355.14 221.98 349.5 227.68 342.49 234.76 330.92 237.79 321.29 238.82 317.36 239.24 313.32 238.59 309.46 239.56 303.63 241.03 299.64 246.4 293.65 247.29 289.94 247.85 287.24 246 283.72 245.6 281.32 245.33 278.94 245.98 276.67 246.67 l 275.92 245.99 b 270.13 241.33 262.55 239.63 255.33 238.67 l 255.68 237.74 b 259.21 230.02 266.59 224.19 272.9 218.8 276.31 215.89 280.85 212.98 282.35 208.57 l 282.49 207.56 282.42 206.55 282.12 205.57 281.61 204.72 b 279.68 202.38 277.26 200.53 275.27 198.24 l 266 182.67 270 181.33 266 173.33 266.99 173.33 b 272.56 173.29 278.18 173.08 283.7 174.03 290.54 175.22 297.62 177.79 304.62 177.69 l 305.59 177.47 b 316.69 172.85 315.5 153.49 302.2 153.31 l 301.22 153.47 300.28 153.81 b 297.29 155.47 295.61 158.42 294 161.33 l 276.67 157.33 275.85 157.88 275 158.36 274.11 158.75 273.18 159 272.22 159.07 271.27 158.89 270.42 158.44 269.71 157.78 269.16 156.98 b 267.04 152.75 267.92 147.97 268.41 143.44 269.02 137.99 269.27 132.04 270.82 126.77 271.95 122.96 274.19 119.57 275.88 116 l 290.74 88 300.67 74.67 m 835.34 160 b 813.83 154.88 789.03 161.43 770.74 145.6 767.44 142.74 764.83 139.34 762.5 135.67 760.28 132.16 757.55 128.25 756.84 124.08 l 756.92 123.07 757.28 122.12 757.86 121.29 758.58 120.59 b 764.79 116.01 773.71 116.11 781.02 114.84 788.88 113.47 796.69 110.8 804.25 108.3 811.73 105.82 819.89 103.37 826.33 98.71 835.39 92.14 842.23 83.12 853.13 79.32 868.18 74.08 888.24 76.4 901.27 85.64 908.38 90.69 913.73 97.76 917.89 105.34 921.25 111.49 925.52 118.57 924.76 125.85 923.49 138.11 907.76 148.62 898 154.29 894.35 156.42 889.74 157.33 886.7 160.41 883.52 163.64 881.13 168.04 878.63 171.8 875.76 176.12 872.29 180.57 870.19 185.33 868.4 189.4 868.05 193.84 866.78 198.04 865.4 202.59 862.92 206.7 860.36 210.67 l 840.38 240 839.92 240.85 b 838.23 243.98 836.2 247.2 835.32 250.67 l 835.32 251.64 835.48 252.6 b 836.94 257.29 840.65 260.91 843.48 264.81 849.79 273.54 856.68 281.5 862.43 290.67 864.83 294.5 868.16 297.99 868.64 302.67 l 867.6 309.33 867.49 310.32 b 866.82 317.09 866.84 324.67 861.16 329.4 l 851.34 333.26 850.42 333.66 b 844.88 336.13 841.1 337.33 835.34 334.67 l 834.44 335.11 b 829.78 336.83 825.28 335.03 821.36 332.37 814.46 327.69 809.26 320.95 803.91 314.67 793.98 303.01 785.91 291.04 779.02 277.35 774.35 268.08 770.41 259.36 769.12 248.94 767.97 239.65 769.78 230.52 771.02 221.33 l 771.99 221.53 b 780.29 223.51 787.17 230.97 795.4 232.07 l 796.39 232.01 797.32 231.69 798.16 231.15 b 804.3 225.95 807.57 217.18 811.53 210.34 820.92 194.1 829.99 178.11 835.34 160 m 328.67 106.67 b 323.65 108.04 317.76 109.45 314.28 113.63 311.01 117.55 310.47 123.12 310 128 l 323.33 129.33 328.67 106.67 m 538 118.43 b 543.76 118.32 549.26 117.06 554.94 118.65 584.65 126.96 597.26 158.51 596.3 187 595.99 196.07 590.86 203.07 589.33 211.68 588.73 215.1 589.53 218.52 589.6 221.94 589.72 227.47 589.21 233.32 588.44 238.8 587.95 242.27 587.29 246.2 585.07 249.03 581.47 253.6 575.9 253.08 570.68 253.63 567.19 253.99 563.31 255.07 559.83 254.18 556.65 253.36 553.97 250.98 551.54 248.88 549.23 246.88 546.26 244.96 544.64 242.32 541.12 236.58 539.84 226.63 539.71 220 l 539.71 212 539.71 200 538 118.43 m 928.67 188 l 952.67 168.41 953.46 167.79 b 960.49 162.51 971.63 155.34 980.9 156.82 986.12 157.65 992.85 164.87 993.12 170.2 993.29 173.47 991.97 176.77 991.58 180 991.09 184.03 991.34 187.86 989.35 191.56 985.4 198.93 977.4 197.01 970.36 197.53 958.91 198.37 946.89 202.75 936.56 195.54 933.56 193.44 931.02 190.79 928.67 188 m 775.34 184 b 771.67 190.9 764.14 193.69 758.95 199.25 755.49 202.97 752.03 207.2 749.57 211.66 747.42 215.53 745.88 220.46 742.38 223.36 737.86 227.1 729.73 228.15 724.06 227.62 712.28 226.5 697.92 218.36 690.36 209.31 687.62 206.02 685.92 202.04 684.08 198.22 681.55 192.94 676.88 185.86 680.26 180.01 l 680.95 179.33 681.76 178.79 b 686.86 176.57 692.89 178.91 698 180.01 l 707.34 180.01 748.67 183.95 762 183.12 775.34 184 m 900.67 178.67 b 905.02 189.02 908.11 199.79 910.84 210.67 l 917.68 236 918 236.95 b 920.97 246.7 918.07 254.11 910.95 261.08 906.66 265.29 900.81 268.31 895.64 263.59 890.54 258.91 890.53 251.03 889.73 244.67 887.75 228.99 886.71 210.89 890.48 195.43 892.09 188.85 893.64 181.4 900.67 178.67 m 183.33 225.33 l 182 225.33 183.33 226.67 183.33 225.33 m 935.34 225.33 b 948.65 221.72 960.02 228.79 972.4 232.47 977.4 233.96 983.62 234.15 987.91 237.32 l 988.59 238.08 989.02 238.94 989.28 239.88 b 989.62 242.14 989.46 244.39 989.5 246.67 l 989.5 252 989.36 252.98 b 988.63 256.56 987.14 259.92 985.58 263.21 984.41 265.66 983.19 268.27 981.35 270.29 974.42 277.95 964.79 272.73 958.59 267.03 946.89 256.3 938.96 240.67 935.34 225.33 m 174 230.67 l 179.33 230.67 174 230.67 m 167.33 233.33 l 172.67 233.33 167.33 233.33 m 179.33 240 b 192.36 241.86 198.71 251.73 208.67 258.96 220.58 267.61 234.23 274.38 247.33 281 255.12 284.93 264.76 288.84 270.05 296.12 275.7 303.89 281.63 315.06 280.51 324.98 279.57 333.36 273.76 341 264.67 340 l 264.1 340.85 b 263.05 342.24 262.03 343.35 260.48 344.16 l 259.52 344.41 258.53 344.46 257.54 344.32 b 249.88 342.33 241.33 339.65 234.31 335.95 216.03 326.29 202.38 311.05 190.33 294.67 l 181.31 282.67 180.8 281.8 b 173.77 268.98 173.92 253.38 179.33 240 m 491.34 256 b 497.01 252.32 505.31 247.77 512.34 248.64 516.64 249.16 520.75 251.44 524.67 253.13 l 534 257.23 534.86 257.77 b 538.78 260.5 542.01 264.03 545.38 267.38 552.61 274.57 558.85 281.27 559.18 292 l 559.18 300 558.96 301 b 555.44 314.51 541.87 309.77 533.18 316.94 527.79 321.38 527.16 328.37 520.67 332 l 520.47 331.01 b 518.49 321.38 516.06 311.87 512.59 302.67 l 506.59 288 506.3 287.04 b 503.17 276.37 501.44 265.12 491.34 258.67 l 491.34 256 m 343.34 256 l 364.67 253.29 382 262.92 400.67 273.41 414 282.72 420.67 285.33 420.5 286.33 b 418.6 301.46 430.03 317.08 424.27 331.9 419.28 344.75 407.55 345.85 395.68 343.34 390.5 342.24 386.02 340.96 382.17 337.14 374.26 329.31 371.81 316.59 367.52 306.67 l 355.83 284 349.18 268 348.74 267.06 b 346.89 263.34 344.69 259.96 343.34 256 m 272.67 257.33 l 283.33 255.15 284.34 255.07 b 292.97 254.99 302.88 258.59 309.77 263.72 l 318.06 271.04 318.91 271.57 b 322.73 273.66 326.98 274.71 330.69 277.04 339.79 282.76 348.37 293.75 351.62 304 l 353.35 314.67 353.56 315.64 b 355.94 325.86 354.46 336.23 346.48 344.02 l 345.58 344.36 b 340.05 345.86 332.14 348.35 326.41 347.5 317.67 346.2 310.54 336.65 305.24 330.31 298.25 321.94 291.15 312.83 287.66 302.38 284.25 292.2 284.11 281.11 280.27 271.08 278.39 266.16 274.94 262.05 272.67 257.33 m 420.67 262.67 b 426.85 255.59 436.78 253.31 446 255.6 l 455.34 259.68 456.31 260.01 b 460.66 261.37 464.82 262.31 468.67 264.87 l 482 275.83 482.88 276.37 b 486.8 278.62 490.99 280.13 495.34 281.33 l 494.94 282.27 b 493.62 285.35 492.18 288.57 492.9 292 494.75 300.98 503.63 309.89 500.54 319.65 496.59 332.16 484.87 334.04 473.66 332.51 469.6 331.96 465.74 331.64 462.12 329.54 457.03 326.58 453.29 321.33 450.06 316.54 443.67 307.04 438.17 296.45 434.1 285.74 432.46 281.42 432.36 276.53 430.41 272.38 428.43 268.17 424.36 265.26 420.67 262.67 m 944.67 362.67 l 976.67 358.67 977.67 358.66 b 987.35 358.78 998.17 360.65 1005.32 367.75 1008.86 371.26 1009.54 375.18 1011.24 379.65 1012.2 382.17 1013.69 384.89 1013.09 387.67 1012.5 390.43 1010.31 392.38 1008.43 394.3 1005.4 397.39 1002.89 401.15 998.72 402.78 991.96 405.41 984.55 402.44 978.71 398.93 970.06 393.75 964.31 386.78 957.77 379.34 953.08 374.02 948.13 368.91 944.67 362.67 m 259.33 360 b 259.36 364.36 259.7 368.93 257.58 372.9 254.03 379.54 246.21 382.41 242.75 388.99 239.68 394.82 242.44 400.57 241.08 406.54 l 240.62 407.42 b 237.56 411.78 233.08 416.97 228.31 419.46 217.82 424.92 205.02 422.87 193.72 424.42 188 425.2 183.5 429 178 429.88 170.74 431.04 163.14 428.32 155.91 427.91 150.52 427.6 145.4 429.74 139.95 429.03 123.52 426.89 116.32 412.41 110.73 398.67 l 106.91 389.39 106.76 388.41 106.78 387.42 106.97 386.46 107.37 385.56 107.95 384.77 108.66 384.1 b 113.11 381.09 118.89 381.59 123.99 381.9 129.28 382.22 134.59 382.23 139.88 381.82 149.16 381.1 158.12 378.4 167.36 377.55 183.12 376.09 198.53 376.72 214 372.55 l 231.33 366.24 259.33 360 m 792.67 429.34 b 794.77 438.41 788.43 442.75 785.8 450.67 783.75 456.85 784.85 463.23 782.06 469.34 778.7 476.69 773.04 481.1 766.79 485.9 762.66 489.08 758.8 492.96 754.15 495.37 747.78 498.68 737.75 498.64 731.34 495.4 725.67 492.55 721.63 487.08 717.9 482.14 712.42 474.88 708.01 467 705.39 458.26 701.16 444.14 701.18 429.1 698.52 414.67 696.29 402.5 694.37 389.34 695.98 376.99 696.56 372.56 696.68 367.03 700.35 363.95 l 701.23 363.46 702.19 363.14 b 710.55 361.57 719.27 367.97 724.47 373.94 730.07 380.37 734.36 388.16 738.4 395.62 744.16 406.27 749.8 417.55 752.8 429.34 l 754.99 441.34 755.4 442.26 b 758.22 447.42 763.95 453.57 770.33 453.25 l 771.32 453.02 772.23 452.61 b 780.99 447.3 785.67 436.54 792.67 429.34 m 507.34 416 b 513.53 410.87 520.46 406.94 526.94 402.21 533.46 397.45 539.33 392 545.03 386.31 551.74 379.62 559.72 368.02 569.27 365.58 581.52 362.46 598.86 367.25 607.68 376.31 612.36 381.12 615.1 387.45 617.24 393.72 626.23 419.99 621.57 451.1 613.95 477.34 l 606.58 498.67 602.15 518.67 591.46 557.34 581.62 590.67 581.35 591.61 b 579.93 596.56 577.44 602.78 578.22 608 578.82 612.05 581.76 615.86 583.95 619.19 591 629.9 599.19 636.14 610 642.75 l 623.34 650.51 624.25 650.93 b 634.09 655.23 643.32 656.78 647.34 668 l 639.34 671.95 638.39 672.25 b 635.84 672.89 633.16 672.92 630.68 673.86 625.74 675.73 621.66 679.53 617.72 682.93 612.06 687.8 604.91 695.61 597.01 696.14 583.6 697.05 573.71 687.2 565.34 678.07 561.91 674.33 558.67 669.25 553.95 667.04 l 552.99 666.85 b 548.68 666.74 544.45 668.16 540.29 669.12 534.94 670.37 529.05 671.09 524.1 673.62 521.41 674.99 519.5 677.22 516.67 678.44 l 507.34 680.19 494 685.34 510.02 661.34 518.16 633.34 522 613.34 511.68 594.67 500.84 569.34 494 556 495.01 555.97 b 497.96 555.69 500.62 553.97 503.56 553.92 511.41 553.8 520.86 560.07 527.34 564 l 534.56 534.67 550.56 476 559.34 440 558.46 440.43 b 555.3 442.02 552.12 443.92 548.67 444.79 535.32 448.15 527.55 437.8 518 430.67 l 518.02 431.72 b 518.08 435.68 518.37 439.98 517.41 443.86 516.43 447.81 514.22 451.22 513.41 455.32 511.9 462.97 511.7 471.99 508.28 479.1 l 507.69 479.89 b 501.43 486.87 490.86 491.95 482 494.67 l 482.57 495.46 b 485.85 499.92 489.51 504.09 491.5 509.34 498.68 528.29 491.99 549.4 486.38 568 483.91 576.16 479.34 584.73 478.94 593.34 l 484.3 610.67 498.95 657.34 499.14 658.31 b 499.89 662.87 499.84 667.63 497.55 671.78 492.8 680.41 479.74 684.91 470.69 681.25 460.65 677.18 458 667.91 454.58 658.71 452.67 653.57 449.5 648.67 443.34 649.94 l 431.34 656.14 430.37 656.38 b 424.27 657.7 418.73 655.92 412.67 656.14 407.83 656.31 403.64 658.78 398.73 657.4 392.56 655.68 388.14 650.7 382.31 648.34 376.76 646.1 370.52 646.64 364.67 646.67 l 364.67 644 365.66 643.87 b 374.86 642.55 384.28 640.78 392.51 636.26 404.3 629.8 413.29 617.74 420.8 606.87 425.79 599.66 432.11 590.34 432.6 581.34 l 425.24 557.34 418.86 528 418.54 527.06 b 415.6 518.75 409.59 512.68 405.7 504.93 403.83 501.21 403.67 496.35 400.76 493.24 396.81 489.01 390.68 487.82 386.12 484.43 379.05 479.15 374.41 469.82 372.67 461.34 l 378 457.34 378.92 457.67 b 385.73 460.02 395.89 463.7 402.98 460.88 l 403.81 460.32 404.52 459.6 b 408.03 455.09 409.43 449.06 410.88 443.64 413.56 433.58 415.97 423.05 416.59 412.63 417.09 404.46 416.17 397.14 419.34 389.34 l 420.31 389.4 b 424.62 389.63 428.74 389.78 432.84 391.29 448.5 397.07 459.31 413.87 464.44 429.06 466.51 435.19 465.87 442.45 468.37 448.26 l 468.9 449.06 469.59 449.72 470.42 450.2 471.33 450.47 472.3 450.54 b 488.73 449.6 501.52 434.31 516.67 429.34 l 507.34 416 m 856.67 425.34 b 863.6 425.34 871.63 425.54 877.35 420.97 880.7 418.28 882.26 413.91 883.74 410.02 886.67 402.32 888.77 394.3 891.95 386.7 893.72 382.45 896.19 376.95 900.46 374.74 l 901.42 374.49 902.41 374.5 903.37 374.78 904.24 375.26 b 909.23 379.06 912.28 386.15 914 392 l 927.34 378.67 928.67 386.67 934 385.34 934.38 386.29 b 935.62 389.52 937.28 393.15 937.28 396.67 937.29 398.66 936.24 400.43 935.92 402.38 935.06 407.68 938.43 412.7 936.16 417.77 933.73 423.2 929.01 427.6 924.84 431.71 917.08 439.36 908.2 446.61 902.55 456.06 l 889.86 482.67 882.5 496 882.09 496.9 b 880.44 500.9 879.6 506.3 876.5 509.5 874.67 511.38 871.93 511.81 869.6 512.8 862.83 515.71 852.66 519.28 849.15 509.85 848.45 507.98 848.13 505.96 847.88 503.99 846.6 493.79 846.93 482.88 851.2 473.39 855.03 464.87 862.84 456.08 864.16 446.67 864.69 442.91 862.52 439.62 860.81 436.47 858.9 432.93 857.47 429.29 856.67 425.34 m 799.34 385.34 b 806.73 383.75 812.9 380.3 820.67 381.84 837.23 385.13 845.64 399.4 844.56 415.64 844.34 419.07 844.09 423.11 842.63 426.27 839.98 431.99 833.64 432.38 828.74 435.07 825.52 436.83 823.82 439.61 822 442.67 l 821.16 442.13 b 803.68 430.05 800.94 404.76 799.34 385.34 m 946 422.67 b 953.38 427.25 955.82 433.96 959.63 441.34 965.41 452.55 971.51 463.34 973.43 476 l 975.56 509.28 975.88 510.25 b 979.63 518.35 990.68 518.77 995.08 526.29 997.59 530.59 1000.24 540.86 998.74 545.7 997.2 550.68 989.68 555.24 984.67 555.63 979.2 556.06 973.79 552.11 968.67 550.67 l 968.39 551.64 b 965.74 560.26 960.76 563.39 954 568.71 948.23 573.26 943.01 582.02 935.32 583.43 932.72 583.91 929.91 583.26 927.39 582.61 920.65 580.86 911.69 577.81 906.79 572.6 903.83 569.46 902.79 564.55 899.83 561.11 894.34 554.74 888.56 549.63 886 541.34 l 886.9 540.86 887.8 540.4 888.65 539.85 889.35 539.14 889.92 538.28 890.28 537.37 890.45 536.4 b 890.72 529.24 886.77 521.08 879.34 520 l 879.45 519.01 b 881.3 505.81 889.47 496.13 900.41 489.03 905 486.05 910.43 483.2 916.02 483.07 922.56 482.91 929.33 487.16 935.34 489.34 l 939.91 442.67 946 422.67 m 186 437.34 b 189.21 437.02 192.58 436.75 195.75 437.57 199.47 438.54 201.95 440.5 206 440.27 l 222 436.31 223 436.22 b 227.69 435.87 232.34 436.44 237.02 436.19 251.83 435.39 269.21 433.15 279.87 446.43 283.8 451.32 284.49 458.33 285.86 464.26 288.79 476.95 291.49 495.42 279.31 504.48 275.91 507.01 271.12 506.67 267.19 507.96 262.65 509.46 258.87 510.84 254 510.52 l 243.33 508.44 242.36 508.31 b 235.18 507.65 226.61 506.84 219.53 508.44 l 218.68 508.94 b 213.08 513.7 215.67 523.28 215.19 529.68 214.8 534.95 211.63 538.58 208.67 542.67 l 246 535.36 280.67 526.67 281.18 527.51 b 287.2 535.89 297.99 539.98 299.58 551.3 300.45 557.49 295.86 560.03 292.12 564.02 281.11 575.76 268.54 579.87 252.67 580 l 220.67 582.67 190 582.67 189 582.66 b 176.29 582.39 164.5 576.19 151.99 576.1 146.01 576.05 140.88 579 135.33 580.75 l 116.67 585.23 115.75 585.59 b 106.7 589.14 97.15 593.33 87.19 591.96 66.1 589.07 59.03 566.11 64.67 548 l 78 554.44 98 548.9 132.67 541.34 131.91 540.68 b 126.77 536.73 118.96 533.19 112.33 533.61 108.59 533.85 105.4 536.18 101.73 536.84 89.66 539.02 81.4 535.08 76.21 523.92 74.63 520.54 73.49 516.99 72.77 513.34 l 70.13 497.34 75.33 446.67 76.24 446.2 b 78.65 444.88 80.97 443.41 83.7 442.88 l 84.72 442.88 85.71 443.1 b 99.89 448.59 103.19 464.69 106.89 477.34 l 110.36 486.67 110.59 487.62 b 111.1 490.47 110.94 493.61 112.17 496.28 114.26 500.85 121.36 504.48 126.22 504.33 l 127.18 504.13 128.08 503.71 128.83 503.06 129.39 502.24 129.73 501.3 b 131.4 493.26 129.7 484.04 128.67 476 l 118 476 118.39 475.04 b 120.87 469.34 126.73 465.91 128.84 460.3 131.38 453.56 129.13 443.65 133.95 437.98 l 134.74 437.38 135.65 436.99 136.65 436.86 137.65 437.01 138.59 437.35 b 144.74 440.69 148.82 449.48 156.34 450.16 160.04 450.5 163.83 448.8 167.33 447.86 l 187.33 444 186 437.34 m 244.67 461.34 b 236.34 460.97 223.13 456.88 215.93 462.58 l 215.28 463.35 214.88 464.24 214.65 465.19 b 214.45 467.51 214.9 469.72 215.28 472 l 215.28 489.34 226 485.03 226.92 484.65 b 237.85 480.04 244.22 473.63 244.67 461.34 m 183.33 468 b 177.34 468.47 170.45 468.49 164.92 471.09 l 164.13 471.66 163.56 472.44 163.17 473.36 b 161.1 481.46 164.75 490.67 166 498.67 l 166.99 498.59 b 170.88 498.23 175.23 497.96 178.59 495.79 l 179.26 495.08 179.78 494.24 b 183.45 486.53 183.28 476.37 183.33 468 m 639.34 550.67 b 643.74 546.3 648.17 541.69 653.52 538.47 657.57 536.03 663.53 535.01 666.46 531.05 668.89 527.77 668.02 521.81 665.62 518.69 662.63 514.81 656.48 516.43 652.38 514.69 646.98 512.39 643.98 505.76 640.56 501.34 638.5 498.67 636.19 496.19 635.7 492.73 l 635.74 491.73 635.98 490.76 636.42 489.86 b 642.32 481.42 655.37 483.86 663.89 480.69 668.31 479.05 669.64 474.5 673.52 472.42 676.56 470.79 679.42 472.16 682 473.91 l 691.34 481.43 692.21 481.9 b 695.7 483.53 700.1 484.15 702.28 487.69 707.28 495.82 698.25 505.02 695.43 512.23 693.2 517.93 694.66 526.47 696.87 532 701.33 543.17 716.05 546.44 725.1 552.65 730.42 556.3 733.56 563.53 730.05 569.68 728.3 572.74 724.77 573.42 721.52 573.13 712.13 572.32 708.71 565.25 703.34 558.67 l 703.13 559.64 b 701.19 571.15 705.36 582.75 704.89 594.31 704.6 601.47 702.07 608.26 695.29 611.58 693.2 612.6 690.95 613.23 688.67 613.66 684.23 614.48 679.84 614.66 675.34 614.67 l 674.92 613.77 b 671.09 605.82 664.74 601.65 658.79 595.51 l 643.34 574.67 640.24 582.67 639.99 583.6 b 639.08 587.75 639.47 592.13 636.36 595.46 633.66 598.35 629.61 598.37 626.06 599.4 618.69 601.54 611.2 605.25 607.59 595.62 604.43 587.17 604.98 578.17 604.56 569.34 604.03 558.33 601.87 546.15 606.97 535.84 610.53 528.65 616.05 528.65 622.39 532.63 629.44 537.07 635.51 543.23 639.34 550.67 m 466 500 b 460.69 500.87 453.56 500.68 449.52 504.76 l 449.01 505.63 448.73 506.59 448.61 507.59 b 448.69 513.86 452.19 520.09 455.34 525.34 l 466 500 m 932.59 508.7 b 924.04 510.78 910.85 518.14 909.02 527.64 l 909.01 528.64 b 909.74 534.54 914.54 542.39 921.01 542.95 l 922 542.84 b 933.45 539.97 941.12 522.74 937.55 511.85 l 937.05 510.95 936.37 510.2 935.54 509.61 934.6 509.18 933.62 508.89 932.59 508.7 m 319.33 514.67 b 330.4 515.05 342.2 519.22 348.82 528.57 352.17 533.31 353.7 538.74 355.98 544 357.8 548.21 360.88 551.81 361.66 556.44 363.54 567.58 357.29 583.47 348.53 590.55 338.75 598.46 328.58 589.97 321.65 582.96 318.67 579.93 315.58 576.75 314.04 572.71 312.49 568.68 312.57 564.25 312.79 560 l 314 540 314.02 538.99 b 314.36 530.47 318.49 523.08 319.33 514.67 m 372.67 518.67 b 376.69 518.67 380.8 518.53 384.67 519.8 396.99 523.86 406.91 536.86 411.01 548.75 414.6 559.15 414.32 572.58 402.55 577.14 397.03 579.28 391.58 576.27 386 576 l 380.2 567.78 376.94 553.34 372.67 518.67 m 180.67 530.67 b 173.26 532.46 167.77 535.39 164.67 542.67 l 186 544 180.67 530.67 m 671.02 573.34 l 671.02 556 671.02 555 b 671.19 551.03 671.95 546.8 670.51 542.99 l 669.98 542.14 669.28 541.44 668.46 540.91 667.55 540.56 666.59 540.37 b 654.91 539.8 650.08 551.77 653.97 561.41 656.81 568.47 664.03 571.78 671.02 573.34 m 256.67 609.34 b 260.55 605.35 260.39 601.56 262.26 596.74 l 262.81 595.89 263.52 595.19 b 267.91 592.09 273.84 591.98 279 592.53 292.4 593.99 314.85 603.1 314.01 619.67 313.53 629.28 300.28 636.75 292.1 639.54 289.32 640.48 286.25 641.04 283.33 640.43 276.79 639.06 271.33 632.24 267.39 627.28 263.11 621.9 258.94 615.88 256.67 609.34 m 148.83 602.67 b 153.23 600.32 157 596.5 162 595.4 167.81 594.13 173.56 596.56 179.33 596.84 184.26 597.09 189.11 595.27 193.03 599.24 l 193.58 600.07 b 197.77 608.29 199.27 617.91 202 626.67 l 201.12 627.2 b 198.41 628.83 195.08 630.36 192.96 632.76 190.81 635.18 189.38 638.42 187.57 641.11 l 180.67 649.34 179.69 649.13 b 168.9 646.71 161.72 640.78 153.43 633.87 150.05 631.04 145.99 628.6 143.69 624.73 l 143.35 623.76 143.25 622.75 143.33 621.73 b 144.43 617.38 148.41 614.56 149.49 610.21 150.11 607.69 149.3 605.14 148.83 602.67 m 946 600 b 964.93 603.68 985.78 618.76 993.34 636.81 995.42 641.76 994.98 646.85 996.04 652 l 998.83 661.34 999 662.32 b 999.92 669.79 1000.63 680.22 997.18 687.14 995.12 691.3 991.53 694.42 988.88 698.17 986.18 701.99 983.81 706.71 979.28 708.67 974.28 710.84 967.31 709.36 962 709.34 l 960.67 716 946.64 712.15 942.15 697.34 935.9 668 935.9 652 930.24 626.67 934 606.67 946 605.34 946 600 m 98 602.67 b 102.38 601.87 106.91 600.83 111.33 601.9 116.87 603.22 121.66 607.05 125.67 610.92 134.73 619.66 143.1 631.54 146.92 643.62 149.43 651.54 149.41 664.03 155.73 670.1 162.33 676.42 175.78 674.93 184.08 674.39 195.81 673.61 208.76 671.79 218.98 665.57 230.28 658.69 240.44 645.86 248.03 635.19 251.35 630.52 254.12 625.59 258 621.34 l 258.26 622.33 b 259.8 629.3 258.88 638 263.92 643.69 268.79 649.17 277.21 649.96 281.05 656.61 287.37 667.55 284.58 685.48 281.08 696.94 278.39 705.77 274.48 717.76 267.68 724.3 261.48 730.25 252.88 732.9 245.07 736.01 229.45 742.22 212.26 742.69 195.67 742.67 180.75 742.65 165.52 742.05 151.79 735.56 145.5 732.59 140.17 727.58 135.02 722.98 127.11 715.92 119.1 708.59 112.66 700.12 100.6 684.23 94.61 662.6 95.39 642.67 95.91 629.2 100.28 616.21 98 602.67 m 34 610.67 b 38.22 610.06 42.42 609 46.7 608.98 57.55 608.9 74.08 614.29 81.15 622.91 84.45 626.93 87.43 633.36 86.67 638.67 86.14 642.39 83.83 645.51 83.57 649.34 82.8 660.97 90.36 678.81 77.32 686.43 73.46 688.68 68.83 688.55 64.67 689.9 l 54 694.75 53.04 695.01 b 41.75 697.52 36.42 688.46 33.27 679.06 28.55 664.94 26.67 649.06 28.1 634.28 28.73 627.75 29.9 620.34 35.33 616 l 34 610.67 m 806 610.67 b 818.72 614.75 829.07 626.83 836.62 637.34 841.09 643.57 845.69 651.74 852.72 655.4 858.45 658.39 866.78 657.84 872.96 656.87 889.71 654.26 904.42 644.38 920.67 640 l 912.24 653.34 908.7 662.55 901.52 671.83 899.35 681.35 893.08 693.34 891.18 704 883.34 721.34 882.38 721.64 b 878.27 722.94 875.16 724.32 872.67 728 l 871.66 727.82 b 866.69 727.07 861.44 728.46 856.67 726.67 851.64 724.78 846.94 721.28 842.5 718.3 824.74 706.37 812.32 688.66 807.43 667.81 805.19 658.27 804.78 648.68 804.58 638.94 804.38 629.67 803.66 619.73 806 610.67
+Dialogue: 1,0:05:14.09,0:05:20.09,Title,,0,0,0,,{\an5\blur20\t(0,474,1.5,\fscx60\fscy60\blur0.7)\bord0\c&HFFFFFF&\pos(343,328.67)\p1}m 509.55 77.03 l 501.26 72.27 489.55 63.21 476.49 57.96 466.87 51.32 459.66 44.38 447.18 28.16 444.93 19.22 445.08 17.6 446.37 16.14 457.97 13.41 468.26 12.51 473.52 12.88 482.18 14.65 496.66 16.2 505.06 19.81 509.36 23.6 514.49 30.21 516.22 35.39 516.03 40.67 514.42 45.47 506.96 58.78 507.21 65.38 509.87 77.06 m 686.84 40.68 l 692.18 40.19 697.76 41.29 705.92 46.24 709.73 50.81 713.75 60.05 713.3 70.36 716.16 75.71 717.83 81.01 716.81 90.53 715.51 95.24 710.67 103.61 698.34 119.46 694.66 122.87 691.15 125.65 681.74 129.59 676.67 128.82 668.34 123.73 662.61 114.99 660.76 110.89 659.38 80.21 665.54 55.87 668.86 51.48 673.45 47.5 687.53 40.91 m 74.04 133.22 l 65.98 113.08 60.86 94.36 60.46 84.9 61.24 79.27 62.6 78.18 67.74 77.94 87.6 81.76 108.78 82.89 125.15 81.69 130.41 80.58 135.59 80.68 160.33 77.31 179.46 73.21 189.6 69.69 207.76 60.13 223.69 48.49 232.95 45.87 238.03 46.82 236.95 55.49 238.06 56.93 240.87 65.48 235.7 62.74 235.18 63.76 231.89 79.59 227.23 94.46 221.74 103.28 215.64 110.6 203.41 118.92 203.76 119.53 199.97 129.66 196.23 133.19 182.9 140.28 172.1 142.71 163.7 142.95 158.67 143.96 154.41 145.9 152.85 152.37 155.05 167.9 158.44 178.84 158.92 177.95 180.68 165.87 198.02 154.61 218.44 138.03 226.2 130.75 239.69 123.25 250.08 119.8 250.68 126.1 256.77 144.14 259.97 158.08 257.91 168.37 250.26 176.45 245.31 183.73 241.71 186.94 233.74 192.91 224.3 198.47 213.63 208.54 202.91 215.55 198.94 219.8 194.86 222.56 190.62 225.25 180.62 229.27 182.37 226.19 171.38 230.1 167.9 232.05 163.76 236.5 160.6 240.56 159.72 249.54 160.94 259.88 160.71 271.87 158.59 278.52 152.46 287.01 141.62 305.29 122.84 323.84 117.83 326.4 105.93 334.59 82.74 346.76 72.33 349 61.39 349.06 46.09 344.84 42.04 342.43 40.17 336.53 40.73 331.46 47.22 323.21 56.56 317.65 65.82 313.89 83.06 302.68 86.8 299.11 90.99 296.58 105.99 282.16 109.45 277.78 113.87 268.28 115.76 257.09 104.84 259.41 98.69 262.16 87.19 264.05 82.05 264.09 77.4 263.12 62.68 257.45 54.78 252.71 47.01 244.95 40.76 231.32 41.33 220.66 45.14 217.07 60.18 216.09 70.7 213.88 97.88 201.95 108.04 199.28 117.85 194.76 122.1 191.75 125.36 183.13 127.54 169.2 134.07 146.76 124.38 148.5 119.43 150.26 113.85 148.35 108.38 148.05 103.83 146.34 92.76 144.63 73.93 132.9 m 398.35 141.65 l 388.16 141.52 378.4 140.35 373.22 136.79 371.97 131.3 375.58 126.32 386.17 123.36 396.19 117.75 400.08 113.81 400.95 109.62 400.89 94.16 399.8 78.56 396.95 67.85 396.74 62.41 398.39 60.78 407.03 61.44 412.04 63.39 415.66 66.28 422.35 74.24 427.3 89.42 441.08 79.11 454.98 73.19 470 70.17 479.66 71.77 485.23 74.63 488.23 77.84 491.41 83.37 492.77 88.48 492.52 94.15 490.8 98.43 487.21 103.12 479.18 108.35 452.94 115.4 440.35 119.63 434.97 123.06 431.73 135.83 430.66 145.74 432.16 151.07 434.53 155.75 438.62 158.39 457.12 165.33 472.31 170.04 489.21 181.38 505.23 195.13 523.36 214.8 523.63 217.85 513.27 226.94 498.13 241.92 493.12 244.62 482.61 245.12 472.76 242.27 464.03 235.98 453.59 224.54 450.48 219.99 436.57 204.68 421.87 182.9 417.42 197 415.31 201.23 407.52 215.72 403.92 220.41 401.75 225.66 394.47 235.08 389.83 235.1 380.62 232.83 377.19 232.88 372.46 229.18 368.77 224.94 366.66 215.03 369.53 199.28 376.12 185.34 383.42 173.16 396.3 146.42 397.86 141.15 m 684.7 62.03 l 680.81 63.22 677.15 66.51 676.67 68.97 679.17 75.3 683.01 79.7 684.93 85.37 687.99 89.67 691.06 90.33 694.83 89.03 698.46 84.8 699.9 80.37 699.43 71.53 697.44 67.6 693.87 63.6 689.81 61.76 685.08 62.26 m 612.88 69.63 l 621.89 74.68 633.67 85.12 643.75 98.3 648.54 107.29 651.58 117.52 654.24 158.38 660.88 192.33 667.02 217.13 667.74 222.17 668.29 246.43 667.31 250.64 667.62 255.7 666.63 260.85 666.67 272.15 665.73 277.69 665.49 287.7 668.66 298.11 669.68 313 668.27 317.75 661.5 323.63 656.72 325.24 653.32 327.43 650.45 331.42 634.61 332.18 630.3 330.66 626.38 327.67 622.39 323.17 619.79 318.76 615.39 308.4 610.77 293.28 608.23 272.72 608.71 262.4 612.6 225.76 614.79 214.66 604.44 162.59 604.5 138.04 605.66 114.89 601.97 70.93 612.34 68.98 m 300.63 74.82 l 305.16 75.16 310.32 77.38 312.98 81.29 314.9 91.25 316.18 92.86 317.96 93.1 319.54 93.2 324.05 90.83 329.41 89.72 343.76 82.14 353.7 79.94 358.59 79.65 363.29 80.03 365.47 82.21 367.27 101.61 364.87 126.49 363.09 136.41 362.73 147.37 361.39 152.3 361.17 163.15 360.35 163.62 361.2 180.1 360.32 200.8 357.2 215.66 355.24 220.26 349.71 227.42 341.28 233.49 326.25 238.56 321.3 239.24 315.54 238.68 309.44 239.68 293.42 247.64 283.72 245.4 276.37 246.8 275.85 245.76 271.57 243.34 266.58 241.32 255.01 238.56 261.18 229.33 268.49 222.23 273 219.14 282.72 208.42 282.39 205.43 275.11 197.94 266.03 182.27 269.88 181.58 265.71 172.86 267.07 173.82 283.88 173.69 299.64 177.45 304.6 177.82 312.54 170.95 313.34 166.49 313.08 161.57 310.49 157.53 306.58 154.24 301.88 153.34 300.16 154.03 296.18 157.06 293.6 161.12 275.42 157.55 272.35 159.42 270.3 158.31 269.03 156.55 267.66 152.12 268.72 143.91 268.59 137.49 270.79 126.73 280.56 106.42 285.57 96.93 288.52 93 290.65 87.98 297.8 79.58 300.95 74.63 m 835.14 159.84 l 830.47 158.67 814.77 157.99 789.44 155.31 774.59 149.15 764.53 139.42 759.89 132.13 756.55 124.4 758.06 120.8 762.46 118.42 767.55 116.98 776.53 115.01 785.73 114.28 818.25 103.19 830.3 96.15 837.64 89.13 841.29 86.92 844.31 83.44 852.8 79.11 867.44 76.89 878.42 77.21 887.36 78.96 892.18 80.82 904.95 88.45 918.05 105.24 924.47 120.37 925.05 126.15 920.63 134.76 914.33 142.41 902.48 151.84 890.57 157.53 883.36 163.66 881.63 167.38 872.35 180.55 865.11 202.85 851.91 223.63 839.43 241.33 835.17 250.4 840 260.49 849.52 273.3 856.73 281.36 867.43 298.6 869.04 302.4 864.54 325.38 861.3 329.27 845.38 336.01 840.13 336.53 835.74 335.04 829.69 335.26 825.75 334.14 821.7 332.58 817.32 329.68 807.08 318.91 794.77 303.26 781.08 282.09 776.31 272.44 769.97 254.38 768.66 238.15 771.86 221.07 781.75 225.33 785.74 228.86 795.23 232.26 797.79 231.78 801.81 227.6 823.73 188.52 831.81 169.41 834.86 159.68 m 328.23 106.4 l 318.43 109.93 314.57 113.55 311.7 118.11 310.24 128.39 318.85 129.32 323.62 129.04 328.74 107.02 m 537.92 118.69 l 554.83 118.39 559.92 119.76 573.21 127.6 580.16 134.47 586.32 143.67 594.01 161.61 595.13 166.38 596.66 187.44 588.91 212.16 589.39 227.32 587.42 244.46 585.49 249.4 576.01 253.58 570.34 253.38 564.85 254.18 560.01 253.92 555.15 252.46 544.6 242.53 541.41 233.66 540.38 229.12 539.63 205.92 539.99 190.05 538.63 169.73 538.47 158.79 539.13 154.61 537.85 134.07 538.48 128.75 537.67 123.54 538.13 118.63 m 928.71 188.48 l 932.51 184.52 944.75 175.34 952.79 168.14 966.41 159.44 980.9 156.57 988.89 161.66 991.65 166.12 993.12 170.27 992.97 175.24 989.27 191.21 985.94 195.51 970.07 197.9 945.95 198.92 940.92 198.22 936.86 195.67 932.45 192.15 928.83 187.64 m 775.24 184.36 l 772.34 188.76 758.79 198.8 751.98 207.51 745.63 219.83 737.89 225.91 733.16 227.37 728.68 227.61 719.18 227.05 714.54 225.7 705.55 221.69 693.42 213.33 689.94 209.55 681.67 193.63 678.72 185.13 680.6 179.6 687.62 177.96 698.31 180.46 707.23 179.75 727.86 181.53 738.46 183.28 752.62 183.99 762.47 182.8 771.12 183.39 774.88 184.41 m 901.17 178.99 l 902.93 182.91 912.14 215.93 914.03 220.33 918.93 242.69 918.82 247.75 917.37 253.03 910.53 261.37 906.55 264.36 900.71 266.45 895.98 263.22 892.39 259.27 890.88 254.63 888.73 239.59 889.11 234.48 887.75 225.12 888.44 205.19 891.7 190.82 893.61 185.24 896.68 181.34 900.47 178.5 m 183.24 225.29 l 181.84 224.84 182.89 226.57 183.23 225.75 m 935.23 225.11 l 939.77 224.31 949.9 224.55 967.35 230.77 982.81 234.52 988.39 237.54 989.08 238.42 989.89 246.9 989.22 253.39 985.81 263.06 981.18 269.94 977.27 273.42 972.14 274.36 967.49 273.12 958.2 266.64 955.21 263.72 947.83 254.83 939.91 240.61 936.34 230.63 935.55 225.27 m 174.46 231.09 l 178.89 231.12 173.58 230.87 m 167.75 233 l 172.46 233.67 167.15 233.08 m 178.88 240.2 l 184.59 241.57 193.39 245.83 208.64 259.33 213.17 261.31 216.99 264.84 233.85 274.55 261.96 288.52 270.39 295.67 275.8 304.91 279.78 315.12 280.37 320.03 279.74 329.32 276.78 334.35 273.69 337.82 269.09 340.08 265 339.69 260.03 344.59 243.17 340.27 225.58 330.88 217.41 324.78 205.97 313.86 192.98 299.02 187.48 290.48 181.31 282.79 178.14 277.06 175.76 266.35 175.63 255.2 176.27 250.1 179.35 240.1 m 491.25 256.25 l 501.24 250.16 507.03 248.53 512.04 248.41 520.8 251.05 534.94 257.46 538.81 260.24 541.9 264.14 549.22 270.74 557.51 282.75 558.77 286.7 558.78 300.08 559.45 300.59 556.5 306 552.44 309.63 548.28 311.72 543.09 312.35 537.98 314.28 533.38 317.14 529.43 320.99 524.04 329.15 521.08 331.92 516.14 312.38 511.08 297.51 506.69 287.62 501.89 271.32 499.41 266.57 491.5 258.4 491.62 255.9 m 343.27 256.28 l 354.25 254.28 365.11 253.76 396.04 270.79 409.77 279.9 420.74 285.62 420.43 297.03 422.35 301.88 425.67 317.16 425.9 326.79 422.21 336.11 418.38 339.84 414.69 342.57 405.53 344.83 390.85 342.57 386.48 340.45 382.65 337.36 379.34 333.63 374.38 324.66 370.5 315.41 369.49 310.89 364.73 302.04 363.29 297.48 357.78 288.95 349.29 267.55 343.13 256.2 m 272.98 257.06 l 284.76 255.06 294.77 256.44 300.42 258.32 310.26 264.17 318.83 271.66 330.88 276.95 338.74 283.39 350.26 299.01 354.06 315.38 354.3 331.09 352.06 335.98 346.08 344.45 341.34 346.07 335.67 346.45 331.63 347.73 326.18 347.38 321.37 345.63 316.87 342.36 308.33 334.38 305.38 329.86 297.89 321.4 287.48 302.34 285.87 296.73 285.49 291.71 283.76 287.04 282.13 276.05 278.39 266.53 274.96 262.05 272.59 257.3 m 420.76 262.57 l 425.19 258.88 429.24 256.71 434.93 255.04 440.84 254.3 446.12 255.51 468.69 264.68 482.79 276.62 495.25 281.29 492.87 286.58 492.72 292.25 500.59 310.14 501.35 314.47 500.92 319.34 494.75 328.47 490.27 331.11 484.28 332.95 474.11 332.87 467.25 331.83 462.3 329.77 457.68 325.89 453.7 321.8 447.32 312.39 440.14 299.84 434.39 285.66 430.25 272.78 428.08 268.85 421.11 262.46 m 944.53 362.76 l 976.31 359 977.88 358.28 988.05 359.63 997.5 362.19 1005.76 368.1 1008.37 370.87 1010.74 379.92 1013.08 383.06 1013.2 387.78 1011.54 391.31 1008.74 394.75 998.88 402.68 993.5 404.12 987.88 403.57 982.99 401.63 971.38 393.68 960.57 382.63 944.24 362.42 m 258.88 359.97 l 259.29 364.46 257.66 372.73 254.28 377.43 250.17 380.59 242.56 389.11 240.82 394.96 241.59 400.49 240.5 407.82 233.33 416.01 224.11 421.55 213.78 423.07 194.18 424.26 178.47 429.74 171.95 430.36 161.61 428.28 150.66 428.1 139.68 429.23 135.59 428.24 126.48 423.7 119.96 416.26 112.36 403.4 106.98 388.59 106.95 386.43 108.05 384.66 113.1 382.28 118.84 381.63 124.33 382.37 129.12 381.65 139.65 381.88 150.92 380.57 161.57 377.82 167.82 377.9 183.19 376.24 188.7 376.66 203.66 375.06 214.41 372.67 222.55 368.99 236.41 365.01 259.29 360.3 m 793.09 429.51 l 790.74 440.86 787.77 445.25 784.64 455.38 784.56 460.09 782.39 469 779.45 474.25 771.39 482.82 754.2 495.47 749.8 496.62 744.67 497.57 735.74 497.05 727.77 492.86 717.64 482.48 708.88 467.85 703.66 453.66 701.36 433.66 696.6 404.4 695.3 387.62 696.86 372.64 698.02 367.95 700.19 364.22 702.35 362.96 707.54 363.49 717.19 366.62 728.16 377.57 743.59 405.32 747.22 414.66 750.1 419.62 755.25 441.69 761.56 449.96 770.79 453.51 776.34 449.32 779.95 445.34 792.97 429.04 m 507.32 415.94 l 534.68 396.69 541.76 390 555.59 374.55 564.35 367.9 569.01 365.62 579.56 364.21 589.86 365.95 599.52 370.14 608.05 376.28 613.5 384.41 617.64 393.73 621.14 408.47 621.45 418.05 622.43 423.29 620.87 448.54 619.22 453.22 614.35 477.11 606.42 498.86 601.31 523.43 592.47 552.05 589.13 566.95 586.99 571.84 583.41 585.9 579.26 597.25 577.98 608 583.85 619.42 593.7 631.27 609.72 643.09 619.39 647.69 623 650.48 637.9 656.55 645.25 663.37 647.09 668.39 639.55 672.28 634.71 672.46 626.38 675.88 621.3 679.42 610.66 689.53 602.33 695.03 591.85 696.36 581.44 692.74 576.63 689.58 572.9 685.38 568.76 682.33 558.49 669.78 552.93 666.75 534.36 670.06 528.98 671.71 524.05 673.47 516.27 678.79 507.4 680.67 493.81 684.99 509.91 661.82 514.55 646.9 522.37 613.03 511.29 594.42 501.17 569.44 498.17 565.34 496.4 560.17 493.88 556.03 494.9 556.37 503.25 553.78 509.04 554.53 518.37 558.23 527.84 564.37 528.17 558.82 532.51 544.74 533.08 539.73 539.42 515.21 545.61 495.17 546.16 490.5 553.97 460.08 555.96 455.18 556.42 450.22 559.01 440.39 548.72 444.39 543.26 445.65 539.08 444.91 533.64 442.9 525.68 437.53 518.26 430.43 517.54 443.36 512.25 459.75 512.12 464.93 508.1 480.09 504.47 483.78 491.64 490.72 481.8 494.45 482.11 495.75 486.23 499.78 491.27 508.85 494.32 518.76 495.01 528.84 492.29 549.11 488.82 558.86 486.79 568.04 484.49 573.03 481.54 583.43 479.24 588 479.07 593.53 495.69 647.53 497.97 652.29 499.84 663.14 497.21 672.26 490.64 679.35 475.47 682.76 470.94 681.49 463.16 675.65 457.59 667.42 452.7 654.43 448.2 650.13 443.81 650.09 434.96 653.65 430.35 656.65 424.66 657.18 413.16 656.6 403.13 658.03 393.97 655.86 390.51 652.84 382.38 648.18 370.92 646.47 365 646.91 365.11 643.88 371.44 643.3 392.59 636.58 397.04 633.84 405.21 626.43 417.91 611.33 428.11 595.3 430.23 590.68 432.87 581.19 430.64 576.62 427.05 562.08 424.87 557.3 419.12 527.56 418.11 527.17 414.12 517.58 405.45 504.8 400.86 493.41 396.66 489.91 385.72 484.43 376.21 472.07 372.78 461.21 377.91 457.34 383.9 459.71 388.71 460.18 393.63 461.71 403.55 460.5 407.03 454.31 410.92 444.03 416.63 412.17 416.68 398.33 419.09 389.5 419.91 389.16 426.48 389.69 432.58 391.16 446.12 399.37 452.25 406.51 455.64 410.7 460.59 419.63 466.05 434.15 466.92 443.64 469.49 450.17 472.58 451.01 482.12 448.41 491.24 444.21 495.06 441.04 503.79 436.5 507.51 432.98 516.87 429.78 513.99 424.43 507.28 416.31 m 856.38 424.93 l 867.7 425.15 877.56 420.96 880.42 417.43 884.06 409.86 889.73 390.86 893.67 382.16 900.18 374.85 901.75 374.43 903.24 375.15 908.19 378.99 910.51 382.59 913.92 391.79 927.78 379.07 928.26 386.47 933.76 385.37 934.19 386.18 936.25 391.22 936.99 396.84 935.65 407.76 937.29 412.99 934.25 421.65 928.21 428.64 909.26 446.84 905.34 451.76 882.33 496.54 879.04 505.84 876.22 509.64 873.35 511.88 860.4 516.01 852.12 514.25 849.24 509.96 847.7 503.93 848.06 482.93 850.76 473.85 861.34 456.47 864.52 446.65 863.26 440.91 860.51 436.19 856.68 425.46 m 798.98 385.25 l 814.93 381.59 825.16 383.04 834.55 388.04 841.02 396.04 844.41 405.17 844.98 415.81 842.66 426.29 838.86 430.85 833.92 432.59 824.34 437.97 822.08 442.97 813.64 435.04 807.79 425.68 802.57 411.1 798.9 384.93 m 946.28 423.11 l 950.16 425.96 955.13 432.5 971.32 465.23 973.84 475.97 973.63 485.82 975.45 499.46 975.94 510.68 982.59 517.58 987.66 519.41 995.08 525.88 997.25 530.45 999.25 540.48 998.54 545.22 996.78 549.31 992.99 552.54 984.98 555.51 979.31 554.97 968.7 550.91 963.1 561.84 953.86 568.22 947.4 575.6 943.3 579.08 934.95 583.18 926.99 583.02 910.09 576 904.2 569.08 899.66 560.84 892.88 553.43 888.1 546.19 885.91 541.23 889.08 539.77 890.63 536.96 889.99 530.97 887.93 526.01 883.85 522.22 879.27 520.01 880.27 514.02 888.19 499.83 896.2 492.16 905.51 485.98 915.95 482.86 921.34 483.34 935.52 489.39 936.5 473.64 937.71 469 938.26 457.81 939.71 448.08 939.57 442.78 946.27 422.35 m 185.87 437.61 l 196.2 437.58 200.3 439.46 206.42 440.35 211.22 438.48 221.85 436.81 222.96 435.73 232.42 436.4 247.16 435.35 257.7 435.56 262.3 436.01 267.16 437.63 276.46 443.18 282.72 450.29 285.33 459.37 285.54 464.28 288.07 475.1 288.46 485.92 286.23 496.17 279.02 504.26 267.41 508.11 258.4 509.95 253.71 510.46 248.51 509.94 243.82 507.99 230.75 507.14 219.51 508.43 215.36 513.49 214.9 529.27 213.59 534.62 211.61 539.05 208.48 542.49 219.2 541.03 234.93 537.31 240.89 536.83 246.01 534.89 266.13 530.77 280.56 526.6 288.17 535.16 292.4 538.51 298.57 546.7 299.72 551.47 299.31 556.06 288.73 567.36 281.12 573.55 271.9 577.29 262.6 579.29 252.26 579.6 247.68 580.86 220.68 582.91 189.09 583.01 152.26 576.06 145.92 576.81 135.63 580.8 116.99 585.34 101.71 591.03 91.98 592.63 81.82 590.58 72.86 585.91 69.42 582.49 63.27 568.22 62.77 557.66 64.29 547.57 78.05 554.48 92.96 549.85 103.08 548.28 132.4 541.29 127.72 537.33 123.03 535.09 112.78 533.85 101.52 536.42 91.48 537.2 82.54 532.64 78.43 528.11 73.72 518.29 70.29 497.22 72.92 466.76 74.63 456.99 74.41 452.07 75.71 446.75 85.17 442.67 93.99 448.45 100.02 457.06 110.2 486.33 111.72 496.32 115.46 500.54 120.56 503.74 126.89 504.31 129.18 503 129.76 501.61 130.24 496.12 130.15 486.54 128.45 476.12 118.31 475.93 118.06 475.11 126.51 464.38 128.59 460.15 129.99 455.43 130.41 446.12 134.35 437.53 138.23 436.96 143.19 440.29 146.63 445.04 150.76 448.51 156.12 450.22 162.15 449.9 172.63 446.65 187.52 443.87 185.72 437.23 m 244.97 461.23 l 235.25 459.87 224.75 459.73 220.07 460.21 214.57 463.78 215.56 471.93 214.95 489.68 221.11 487.58 231.19 482.47 240.07 476.03 242.28 471.82 245.11 461.51 m 183.06 468.03 l 178.93 468.1 165.06 471.07 162.99 473.42 162.58 483.79 165.9 498.6 172.75 498.27 179.67 495.14 182.84 484.08 183.31 468.04 m 639.27 550.44 l 649.65 540.73 662.45 533.98 665.97 531.34 668.03 527.18 667.35 522.92 665.26 518.55 661.96 516.12 652.4 514.7 645.39 508.77 640.42 501.82 635.26 492.14 636.34 489.96 644.04 484.26 663.96 481.17 667.85 478.27 673.04 472.52 678.41 471.45 692.67 482.17 697.2 483.89 701.82 487.39 703.81 492.79 702.4 498.24 697.73 507 694.08 517.15 695.21 527.33 697.32 532.47 702.59 539.66 707.37 543.22 725.38 552.19 731.14 560.15 731.77 565.01 729.73 570.01 726.02 572.8 721.07 573.3 712.96 569.95 708.77 566.72 703.41 558.9 702.3 569.17 705.26 593.95 703.99 599.94 702.47 604.73 699.78 609.01 695.52 611.52 688.29 613.88 679.93 615.04 675.5 614.33 669.18 605.51 659.18 596 643.02 574.47 639.9 582.62 639.21 589.6 635.88 595.59 631.1 598.02 621.14 600.74 615.61 601.6 610.6 600.59 607.77 595.9 604.59 579.67 604.8 568.94 603.28 555.29 603.88 544.83 607.06 535.59 609.83 531.75 613.42 530.47 618.71 530.23 626.75 535.74 634 542.17 639.17 550.52 m 466.15 499.58 l 454.5 502.26 449.84 504.27 448.94 505.5 448.38 507.87 448.78 512.43 450.39 517.23 454.94 525.68 457.94 520.58 459.11 515.14 462.01 510.4 465.73 500.19 m 933.07 508.22 l 923.19 512.42 917.98 515.71 914.26 518.66 911.06 522.71 908.64 529.04 912.49 538.19 916.34 540.81 921.4 542.92 926.84 540.97 931.09 537.05 933.69 532.71 938.12 522.65 938.16 517.6 937.3 510.46 932.99 508.38 m 318.88 514.86 l 323.97 514.65 328.67 515.93 342.16 521.9 348.95 528.79 360.38 551.7 362.46 562.27 361.78 567.61 358.06 578.01 355.44 582.72 348.84 590.93 343.5 592.92 339.25 593.72 329.62 589.95 318.32 579.59 314.4 572.74 312.49 563.81 314.09 545.3 313.67 539.21 315.35 529.2 318.7 519.52 319.11 514.17 m 372.42 518.85 l 384.58 519.32 393.7 524.67 397.78 527.51 400.81 531.16 409.17 544.3 412.26 554.39 412.7 565.08 410.98 570.09 402.95 577.44 397.25 577.95 391.75 576.47 385.77 576.13 380.47 567.92 379.53 562.68 377.71 558.34 376.78 548.69 375.34 543.63 374.86 533.81 372.77 518.57 m 180.55 530.68 l 175.6 532.15 171.54 534.55 167.35 538.07 164.67 542.7 180.28 543.89 186.3 543.51 181.99 534.94 181.12 530.43 m 670.71 573.1 l 671 548.5 669.97 542.41 666.55 539.99 661.46 541.22 657.89 543.22 654.63 546.76 652.98 551.9 653.16 556.49 654.33 561.36 657.09 565.89 661.16 569.59 670.61 572.92 m 256.3 609.19 l 259.71 606 262.33 596.56 263.74 595.23 268.27 592.71 279.25 592.77 284.11 593.53 299.17 598.72 308.16 605.11 311.2 609.51 313.1 614.12 314.12 619.51 312.65 624.46 309.39 629.24 305.93 632.21 296.59 637.58 287.95 640.58 283.31 640.87 274.58 634.94 267.25 627.21 258.27 614.59 257.16 609.58 m 148.77 602.42 l 161.52 595.02 168.13 594.74 179.21 597.15 188.78 596.96 192.58 599.14 196.21 604.87 201.74 626.54 189.65 636.4 187.95 641.45 180.55 649.19 165.39 643.63 150.39 631.29 143.2 623.97 144.89 618.12 147.99 614.49 149 610.23 149.21 602.23 m 946.34 599.87 l 956.18 602.5 965.7 606.91 977.82 616.3 988.49 627.34 993.04 636.37 996.02 652.35 999.23 660.9 998.62 662.48 999.91 667.36 999.97 672.32 998.58 682.18 994.57 691.23 986.35 702.35 979.24 708.98 973.35 709.65 962.35 709.23 960.43 715.96 955.65 715.11 951.74 713.01 946.15 712.48 945.26 707.14 940.9 692.87 938.78 683.08 938.48 677.83 935.53 667.86 936.36 662.29 936.04 651.69 930 626.76 934.11 607.1 945.54 605.29 946.23 600.15 m 98.5 602.55 l 102.18 601.51 111.48 601.69 116.4 603.66 121.58 607.22 132.56 618.15 141.31 630.5 147.35 643.7 150.65 662.43 152.56 666.74 155.55 670.22 164.79 674.63 184.54 674.65 188.8 673.48 199.69 672.43 209.96 669.46 219.11 665.56 223.59 662.79 231.11 655.96 251.65 630.68 257.52 621.11 258.68 622.26 259.81 632.94 263.47 643.48 268.48 647.57 277.89 652.37 281.27 656.71 284.4 666.75 284.73 682.23 278.08 706.39 270.96 720.81 258.81 730.31 244.95 736.36 231.12 739.94 220.6 741.73 195.68 743.14 170.67 741.04 156.09 737.97 147.22 733.14 134.59 723.33 131.38 719.38 122.96 711.81 112.64 699.97 107.02 691.43 100.58 678.04 99.63 672.86 97.59 668.28 95.88 658.31 95.18 647.97 95.4 637.19 99.06 612.73 98.18 602.56 m 34.16 610.34 l 46.47 608.67 51.77 608.87 62.47 611.32 72.97 615.69 77.1 618.73 84.51 627.68 86.21 632.57 86.76 638.76 83.69 649.45 85.12 674.03 84.09 679.35 77.02 686.32 72.93 687.94 64.65 689.56 54.42 694.53 48.22 695.66 43.35 693.96 39.65 691.24 36.81 687.91 33.1 679.12 29.17 664.72 27.83 644.47 28.04 634.77 29.89 624.13 31.96 619.97 35.77 615.62 34.2 610.38 m 806.13 610.24 l 815.72 615.33 823.32 621.34 829.98 628.68 841.84 645.59 848.46 652.81 852.36 655.1 857.6 656.63 867.7 657.71 882.52 654.76 906.12 644.94 921.12 639.96 914.67 648.64 908.33 662.42 901.75 671.53 899.23 681.46 897.01 685.01 893.58 693.78 891.45 704.18 883.1 721.64 882.27 721.19 877.14 724.13 873.17 727.67 857.17 726.61 846.61 721.6 830.15 708.73 822.94 700.9 816.93 691.9 811.99 682.47 806.71 662.62 804.75 648.13 804.28 634.67 804.71 619.58 805.83 610.28
 Dialogue: 0,0:05:14.09,0:05:20.09,Title,,0,0,0,,{\an2\pos(410.04,474)\fscx100\fscy100\frz0\p1\c&H000000&}m -30.04 102 l 729.96 102 729.96 678 -30.04 678
 Dialogue: 0,0:05:14.09,0:05:20.09,Title,,0,0,0,,{\an5\q2\fax0.1\fscx325\fscy350\bord0\blur20\t(0,474,1.5,\fscx130\fscy140\blur0.6)\move(340.2,-600.39,340.2,64.22,15,474)}Nobody With Naturally \NWavy Hair Can Be That Bad
 Comment: 0,0:05:14.09,0:05:20.09,Title,,0,0,0,,{=94}>> TITLE END
@@ -1792,10 +1790,12 @@ Dialogue: 1,0:24:47.01,0:24:50.01,Preview Top,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Co
 Dialogue: 0,0:24:47.01,0:24:50.01,Preview Bottom,,0,0,0,,{\blur0.6\c&H3B20EB&}Next time, let's go to that store.
 Dialogue: 1,0:24:47.01,0:24:50.01,Preview Bottom,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Next time, let's go to that store.
 Comment: 0,0:24:36.25,0:24:47.16,Captions,,0,0,0,,{=811}============================SIGNS AND TITLE========================= END
-Comment: 0,0:24:47.16,0:24:50.01,Captions,,0,0,0,,{=751}==============================REFERENCES===========================
+Comment: 0,0:24:47.16,0:24:50.01,Captions,,0,0,0,,{=824}==============================REFERENCES===========================
+Dialogue: 2,0:17:10.96,0:17:15.22,Notes,,0,0,0,,{\bord0\1c&H000000&\blur0.4}TV prime time in Japan is generally 7:00 PM to 10:00 PM \Nwhere sexual content and nudity is not allowed.
+Dialogue: 1,0:17:10.96,0:17:15.22,Notes,,0,0,0,,{\an7\pos(0,0)\1c&HFFFFFF&\1a&H70&\blur0.5\p1}m 169 10 l 592 10 b 596.477 10 602 15.523 602 20 l 602 58 b 602 62.477 596.477 68 592 68 l 169 68 b 164.523 68 159 62.477 159 58 l 159 20 b 159 15.523 164.523 10 169 10
 Dialogue: 1,0:24:51.72,0:24:55.01,Notes,,0,0,0,,{\bord0\1c&H000000&\blur0.4}Getsuga Tensho is a Zanpakuto technique of Ichigo Kurosaki from the series Bleach.
 Dialogue: 0,0:24:51.72,0:24:55.01,Notes,,0,0,0,,{\an7\pos(0,0)\1c&HFFFFFF&\1a&H70&\blur0.5\p1}m 63 9 l 696 9 b 700.477 9 706 14.523 706 19 l 706 38 b 706 42.477 700.477 48 696 48 l 63 48 b 58.523 48 53 42.477 53 38 l 53 19 b 53 14.523 58.523 9 63 9
-Comment: 0,0:24:47.16,0:24:50.01,Captions,,0,0,0,,{=752}==============================REFERENCES=========================== END
+Comment: 0,0:24:47.16,0:24:50.01,Captions,,0,0,0,,{=825}==============================REFERENCES=========================== END
 
 [Aegisub Extradata]
 Data: 6,_aegi_perspective_ambient_plane,e194.01;109.81#7C454.33;75.22#7C457.79;299.54#7C194.01;323.76
@@ -1975,10 +1975,6 @@ Data: 725,_aegi_folddata,e0;1;17
 Data: 726,_aegi_folddata,e1;1;17
 Data: 739,_aegi_folddata,e0;1;11
 Data: 740,_aegi_folddata,e1;1;11
-Data: 751,_aegi_folddata,e0;1;18
-Data: 752,_aegi_folddata,e1;1;18
-Data: 753,_aegi_folddata,e0;1;2
-Data: 754,_aegi_folddata,e1;1;2
 Data: 759,a-mo,e{"originalText"#3A"{\\pos(414.76#2C405.05)\\fscx142\\fscy182\\fnDFGKanTeiRyu-XB-CP\\b0\\bord0\\c&H8F1BEC&\\blur1\\4a&HFF&\\frz12.89}Heaven"#2C"uuid"#3A"8355d70d-077e-4889-a224-98800368bc9c"}
 Data: 760,a-mo,e{"originalText"#3A"{\\pos(414.76#2C405.05)\\fscx142\\fscy182\\fnDFGKanTeiRyu-XB-CP\\b0\\bord2.5\\blur1\\3c&HFFFFFF&\\c&HFFFFFF&\\frz12.89}Heaven"#2C"uuid"#3A"baf6e582-889c-49d1-8cff-9c29e116e3d4"}
 Data: 761,a-mo,e{"originalText"#3A"{\\fscx142\\fscy182\\frz22.88\\fnDFTFLeiSho-W5 Strp\\b0\\bord0\\c&H8F1BEC&\\blur1\\pos(159.67#2C383.6)\\4a&HFF&}High-Leg\\N{\\fnbrush-tipTerrence}Shabu Shabu"#2C"uuid"#3A"b531c2fd-f742-4401-b578-6c1af6f228e9"}
@@ -1987,23 +1983,17 @@ Data: 763,_aegi_folddata,e0;1;10
 Data: 764,_aegi_folddata,e1;1;10
 Data: 771,_aegi_folddata,e0;1;1
 Data: 772,_aegi_folddata,e1;1;1
-Data: 773,_aegi_folddata,e0;0;3
-Data: 774,_aegi_folddata,e1;0;3
 Data: 785,a-mo,e{"originalText"#3A"{\\pos(329.28#2C150.51)\\org(326.48#2C126.57)\\fscx136.02\\fscy159.56\\frz7.196\\fry-3.479\\frx1.029\\fax-0.137\\fnT3\\bord0\\xshad1\\yshad0.5\\c&H474A4B&\\4c&H161617&\\1a&H1A&\\blur1.2}Kodokan Dojo"#2C"uuid"#3A"43fb70a9-593c-4e66-8945-b28b775121c8"}
 Data: 786,a-mo,e{"originalText"#3A"{\\pos(329.28#2C150.51)\\org(326.48#2C126.57)\\fscx136.02\\fscy159.56\\frz7.196\\fry-3.479\\frx1.029\\fax-0.137\\fnT3\\bord0\\xshad0\\yshad1.5\\1c&H48463E&\\4c&HBEBEBE&\\3a&HFF&\\blur1.8}Kodokan Dojo"#2C"uuid"#3A"91d9b29f-2325-4621-8b0f-7731431f5873"}
 Data: 787,_aegi_folddata,e0;1;8
 Data: 788,_aegi_folddata,e1;1;8
-Data: 789,_aegi_folddata,e0;0;10
-Data: 790,_aegi_folddata,e1;0;10
 Data: 797,a-mo,e{"originalText"#3A"{\\fscx113.6\\fscy145.6\\frz14.88\\fnDFTFLeiSho-W5 Strp\\bord0\\c&H871DDB&\\4a&HFF&\\blur1.1\\pos(141.78#2C389.25)}High-Leg\\N{\\fnbrush-tipTerrence}Shabu Shabu"#2C"uuid"#3A"6587976d-e52b-4a50-84cf-09a9f9c898de"}
 Data: 798,a-mo,e{"originalText"#3A"{\\fscx113.6\\fscy145.6\\frz14.88\\fnDFTFLeiSho-W5 Strp\\bord2.5\\3c&HFFFFFF&\\blur1.1\\pos(141.78#2C389.25)}High-Leg\\N{\\fnbrush-tipTerrence}Shabu Shabu"#2C"uuid"#3A"2dedacdb-ab0c-4459-b6a3-08d5a497bb53"}
 Data: 804,_aegi_folddata,e0;1;19
 Data: 805,_aegi_folddata,e1;1;19
-Data: 806,_aegi_folddata,e0;0;19
-Data: 807,_aegi_folddata,e1;0;19
-Data: 808,_aegi_folddata,e0;0;18
-Data: 809,_aegi_folddata,e1;0;18
 Data: 810,_aegi_folddata,e0;1;3
 Data: 811,_aegi_folddata,e1;1;3
-Data: 812,_aegi_folddata,e0;0;1
-Data: 813,_aegi_folddata,e1;0;1
+Data: 822,_aegi_folddata,e0;1;2
+Data: 823,_aegi_folddata,e1;1;2
+Data: 824,_aegi_folddata,e0;1;18
+Data: 825,_aegi_folddata,e1;1;18
