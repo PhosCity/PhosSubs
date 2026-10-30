@@ -29,3 +29,5 @@
 !Gintama/01 Gintama/Endings/**/*.py
 ### Miscellaneous
 !Gintama/01 Gintama/misc/phos.Gintama.moon
+### References.md
+!Gintama/*/references.md
