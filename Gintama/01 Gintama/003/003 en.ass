@@ -17,9 +17,9 @@ Video File: ../video/003.mkv
 Keyframes File: ../video/003_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.319444
-Video Zoom Percent: 1.500000
-Active Line: 408
-Video Position: 35780
+Video Zoom Percent: 1.375000
+Active Line: 410
+Video Position: 2402
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1790,12 +1790,14 @@ Dialogue: 1,0:24:47.01,0:24:50.01,Preview Top,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Co
 Dialogue: 0,0:24:47.01,0:24:50.01,Preview Bottom,,0,0,0,,{\blur0.6\c&H3B20EB&}Next time, let's go to that store.
 Dialogue: 1,0:24:47.01,0:24:50.01,Preview Bottom,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Next time, let's go to that store.
 Comment: 0,0:24:36.25,0:24:47.16,Captions,,0,0,0,,{=811}============================SIGNS AND TITLE========================= END
-Comment: 0,0:24:47.16,0:24:50.01,Captions,,0,0,0,,{=824}==============================REFERENCES===========================
+Comment: 0,0:24:47.16,0:24:50.01,Captions,,0,0,0,,{=832}==============================REFERENCES===========================
+Dialogue: 1,0:02:58.50,0:03:02.04,Notes,,0,0,0,,{\bord0\1c&H000000&\blur0.4}Shinpachi rhymes with chimpanzee, get it?
+Dialogue: 0,0:02:58.50,0:03:02.04,Notes,,0,0,0,,{\an7\pos(0,0)\1c&HFFFFFF&\1a&H70&\blur0.5\p1}m 217 10 l 544 10 b 548.477 10 554 15.523 554 20 l 554 38 b 554 42.477 548.477 48 544 48 l 217 48 b 212.523 48 207 42.477 207 38 l 207 20 b 207 15.523 212.523 10 217 10
 Dialogue: 2,0:17:10.96,0:17:15.22,Notes,,0,0,0,,{\bord0\1c&H000000&\blur0.4}TV prime time in Japan is generally 7:00 PM to 10:00 PM \Nwhere sexual content and nudity is not allowed.
 Dialogue: 1,0:17:10.96,0:17:15.22,Notes,,0,0,0,,{\an7\pos(0,0)\1c&HFFFFFF&\1a&H70&\blur0.5\p1}m 169 10 l 592 10 b 596.477 10 602 15.523 602 20 l 602 58 b 602 62.477 596.477 68 592 68 l 169 68 b 164.523 68 159 62.477 159 58 l 159 20 b 159 15.523 164.523 10 169 10
 Dialogue: 1,0:24:51.72,0:24:55.01,Notes,,0,0,0,,{\bord0\1c&H000000&\blur0.4}Getsuga Tensho is a Zanpakuto technique of Ichigo Kurosaki from the series Bleach.
 Dialogue: 0,0:24:51.72,0:24:55.01,Notes,,0,0,0,,{\an7\pos(0,0)\1c&HFFFFFF&\1a&H70&\blur0.5\p1}m 63 9 l 696 9 b 700.477 9 706 14.523 706 19 l 706 38 b 706 42.477 700.477 48 696 48 l 63 48 b 58.523 48 53 42.477 53 38 l 53 19 b 53 14.523 58.523 9 63 9
-Comment: 0,0:24:47.16,0:24:50.01,Captions,,0,0,0,,{=825}==============================REFERENCES=========================== END
+Comment: 0,0:24:47.16,0:24:50.01,Captions,,0,0,0,,{=833}==============================REFERENCES=========================== END
 
 [Aegisub Extradata]
 Data: 6,_aegi_perspective_ambient_plane,e194.01;109.81#7C454.33;75.22#7C457.79;299.54#7C194.01;323.76
@@ -1995,5 +1997,11 @@ Data: 810,_aegi_folddata,e0;1;3
 Data: 811,_aegi_folddata,e1;1;3
 Data: 822,_aegi_folddata,e0;1;2
 Data: 823,_aegi_folddata,e1;1;2
-Data: 824,_aegi_folddata,e0;1;18
-Data: 825,_aegi_folddata,e1;1;18
+Data: 826,_aegi_folddata,e0;0;2
+Data: 827,_aegi_folddata,e1;0;2
+Data: 828,_aegi_folddata,e0;0;3
+Data: 829,_aegi_folddata,e1;0;3
+Data: 830,_aegi_folddata,e0;0;18
+Data: 831,_aegi_folddata,e1;0;18
+Data: 832,_aegi_folddata,e0;1;18
+Data: 833,_aegi_folddata,e1;1;18
