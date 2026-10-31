@@ -17,9 +17,9 @@ Video File: ../video/003.mkv
 Keyframes File: ../video/003_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.319444
-Video Zoom Percent: 1.375000
-Active Line: 410
-Video Position: 2402
+Video Zoom Percent: 1.875000
+Active Line: 1757
+Video Position: 35766
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +34,7 @@ Style: Warning,Montara-Gothic,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0
 Style: Preview Bottom,BurbankSmall-Black,32,&H00FFFFFF,&H000000FF,&H003B20EB,&H00000000,-1,0,0,0,104,100,1,0,1,3,0,2,15,15,7,0
 Style: Preview Top,BurbankSmall-Black,32,&H00FFFFFF,&H000000FF,&H003B20EB,&H00000000,-1,0,0,0,104,100,1,0,1,3,0,8,15,15,10,0
 Style: Preview,DFHSMincho StdN W7 Strp,50,&H00FFFFFF,&H000000FF,&H00131313,&H00000000,0,0,0,0,100,100,0.5,0,1,1.2,0,9,15,90,0,0
-Style: Notes,Fontin Sans CR,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3,0,8,10,10,18,1
+Style: Notes,RodinProN-DB,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,35,35,18,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -1790,14 +1790,14 @@ Dialogue: 1,0:24:47.01,0:24:50.01,Preview Top,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Co
 Dialogue: 0,0:24:47.01,0:24:50.01,Preview Bottom,,0,0,0,,{\blur0.6\c&H3B20EB&}Next time, let's go to that store.
 Dialogue: 1,0:24:47.01,0:24:50.01,Preview Bottom,,0,0,0,,{\bord0\blur0.6\4a&HFF&}Next time, let's go to that store.
 Comment: 0,0:24:36.25,0:24:47.16,Captions,,0,0,0,,{=811}============================SIGNS AND TITLE========================= END
-Comment: 0,0:24:47.16,0:24:50.01,Captions,,0,0,0,,{=832}==============================REFERENCES===========================
-Dialogue: 1,0:02:58.50,0:03:02.04,Notes,,0,0,0,,{\bord0\1c&H000000&\blur0.4}Shinpachi rhymes with chimpanzee, get it?
-Dialogue: 0,0:02:58.50,0:03:02.04,Notes,,0,0,0,,{\an7\pos(0,0)\1c&HFFFFFF&\1a&H70&\blur0.5\p1}m 217 10 l 544 10 b 548.477 10 554 15.523 554 20 l 554 38 b 554 42.477 548.477 48 544 48 l 217 48 b 212.523 48 207 42.477 207 38 l 207 20 b 207 15.523 212.523 10 217 10
-Dialogue: 2,0:17:10.96,0:17:15.22,Notes,,0,0,0,,{\bord0\1c&H000000&\blur0.4}TV prime time in Japan is generally 7:00 PM to 10:00 PM \Nwhere sexual content and nudity is not allowed.
-Dialogue: 1,0:17:10.96,0:17:15.22,Notes,,0,0,0,,{\an7\pos(0,0)\1c&HFFFFFF&\1a&H70&\blur0.5\p1}m 169 10 l 592 10 b 596.477 10 602 15.523 602 20 l 602 58 b 602 62.477 596.477 68 592 68 l 169 68 b 164.523 68 159 62.477 159 58 l 159 20 b 159 15.523 164.523 10 169 10
-Dialogue: 1,0:24:51.72,0:24:55.01,Notes,,0,0,0,,{\bord0\1c&H000000&\blur0.4}Getsuga Tensho is a Zanpakuto technique of Ichigo Kurosaki from the series Bleach.
-Dialogue: 0,0:24:51.72,0:24:55.01,Notes,,0,0,0,,{\an7\pos(0,0)\1c&HFFFFFF&\1a&H70&\blur0.5\p1}m 63 9 l 696 9 b 700.477 9 706 14.523 706 19 l 706 38 b 706 42.477 700.477 48 696 48 l 63 48 b 58.523 48 53 42.477 53 38 l 53 19 b 53 14.523 58.523 9 63 9
-Comment: 0,0:24:47.16,0:24:50.01,Captions,,0,0,0,,{=833}==============================REFERENCES=========================== END
+Comment: 0,0:24:47.16,0:24:50.01,Captions,,0,0,0,,{=834}==============================REFERENCES===========================
+Dialogue: 2,0:02:58.50,0:03:02.04,Notes,,0,0,0,,{\bord0\1c&H000000&\blur0.4}Shinpachi rhymes with chimpanzee, get it?
+Dialogue: 1,0:02:58.50,0:03:02.04,Notes,,0,0,0,,{\an7\pos(0,0)\1c&HFFFFFF&\1a&H70&\blur0.5\p1}m 208 11 l 552 11 b 556.477 11 562 16.523 562 21 l 562 38 b 562 42.477 556.477 48 552 48 l 208 48 b 203.523 48 198 42.477 198 38 l 198 21 b 198 16.523 203.523 11 208 11
+Dialogue: 3,0:17:10.96,0:17:15.22,Notes,,0,0,0,,{\bord0\1c&H000000&\blur0.4}TV prime time in Japan is generally 7:00 PM to 10:00 PM \Nwhere sexual content and nudity is not allowed.
+Dialogue: 2,0:17:10.96,0:17:15.22,Notes,,0,0,0,,{\an7\pos(0,0)\1c&HFFFFFF&\1a&H70&\blur0.5\p1}m 147 11 l 612 11 b 616.477 11 622 16.523 622 21 l 622 58 b 622 62.477 616.477 68 612 68 l 147 68 b 142.523 68 137 62.477 137 58 l 137 21 b 137 16.523 142.523 11 147 11
+Dialogue: 2,0:24:51.72,0:24:55.01,Notes,,0,0,0,,{\bord0\1c&H000000&\blur0.4}Getsuga Tensho is a technique of Ichigo Kurosaki, protagonist of the series Bleach. The Jump magazine Gintoki is reading also features Ichigo in the front page.
+Dialogue: 1,0:24:51.72,0:24:55.01,Notes,,0,0,0,,{\an7\pos(0,0)\1c&HFFFFFF&\1a&H70&\blur0.5\p1}m 44 11 l 715 11 b 719.477 11 725 16.523 725 21 l 725 58 b 725 62.477 719.477 68 715 68 l 44 68 b 39.523 68 34 62.477 34 58 l 34 21 b 34 16.523 39.523 11 44 11
+Comment: 0,0:24:47.16,0:24:50.01,Captions,,0,0,0,,{=835}==============================REFERENCES=========================== END
 
 [Aegisub Extradata]
 Data: 6,_aegi_perspective_ambient_plane,e194.01;109.81#7C454.33;75.22#7C457.79;299.54#7C194.01;323.76
@@ -1997,11 +1997,7 @@ Data: 810,_aegi_folddata,e0;1;3
 Data: 811,_aegi_folddata,e1;1;3
 Data: 822,_aegi_folddata,e0;1;2
 Data: 823,_aegi_folddata,e1;1;2
-Data: 826,_aegi_folddata,e0;0;2
-Data: 827,_aegi_folddata,e1;0;2
-Data: 828,_aegi_folddata,e0;0;3
-Data: 829,_aegi_folddata,e1;0;3
 Data: 830,_aegi_folddata,e0;0;18
 Data: 831,_aegi_folddata,e1;0;18
-Data: 832,_aegi_folddata,e0;1;18
-Data: 833,_aegi_folddata,e1;1;18
+Data: 834,_aegi_folddata,e0;1;18
+Data: 835,_aegi_folddata,e1;1;18
