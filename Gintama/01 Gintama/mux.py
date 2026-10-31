@@ -2,7 +2,7 @@ import argparse
 import shutil
 from pathlib import Path
 
-from muxtools import Chapters, Premux, Setup, SubFile, mux
+from muxtools import Chapters, Premux, Setup, SubFile, mux, subset_fonts
 
 terminal_width = shutil.get_terminal_size().columns
 current_dir = Path(__file__).parent
@@ -172,11 +172,12 @@ def mux_file(ep):
     # │ Font Collection                                                              │
     # ╰──────────────────────────────────────────────────────────────────────────────╯
     print_header("Collecting fonts for English subs...")
-    fonts = subtitle_file.collect_fonts(
+    subtitle_file.collect_fonts(
         use_system_fonts=False,
         search_current_dir=False,
         additional_fonts=font_folder,
     )
+    fonts = subset_fonts([subtitle_file], min_file_size_to_subset=600 * 1024)
 
     # ╭──────────────────────────────────────────────────────────────────────────────╮
     # │ Muxing                                                                       │
