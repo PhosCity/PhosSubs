@@ -30,7 +30,7 @@ notes = (sub, sel) ->
 
     toDelete, toAdd = {}, {}
 
-    lines\runCallback (lines, line, i) ->
+    lines\runCallback ((lines, line, i) ->
         if line.style != "Notes"
             aegisub.log "The style must be \"Note\". Got \"#{line.style}\""
             aegisub.cancel!
@@ -78,6 +78,7 @@ notes = (sub, sel) ->
         }
 
         table.insert toAdd, ASS\createLine { line }
+    ), true
 
     for ln in *toAdd
       lines\addLine ln
