@@ -21,7 +21,7 @@ def extract_notes(ass_file):
                 continue
 
             # ASS format:
-            # Dialogue: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+            # Dialogue: Layer,Start,End,Style,Actor,MarginL,MarginR,MarginV,Effect,Text
 
             fields = line.strip().split(",", 9)
 
@@ -30,6 +30,7 @@ def extract_notes(ass_file):
 
             timestamp = fields[1].strip()
             style = fields[3].strip()
+            actor = fields[4].strip()
             text = fields[9].strip()
 
             # Only extract Notes style
@@ -56,7 +57,7 @@ def extract_notes(ass_file):
             # Escape Markdown table separators
             text = text.replace("|", r"\|")
 
-            notes.append((timestamp, text))
+            notes.append((timestamp, text, actor))
 
     return notes
 
@@ -94,11 +95,11 @@ def main():
 
             output.append(f"## {episode_dir.name}")
             output.append("")
-            output.append("| Timestamp | Reference |")
-            output.append("|---|---|")
+            output.append("| Timestamp | Reference | Type |")
+            output.append("|---|---|---|")
 
-            for timestamp, reference in episode_notes:
-                output.append(f"| {timestamp} | {reference} |")
+            for timestamp, reference, reference_type in episode_notes:
+                output.append(f"| {timestamp} | {reference} | {reference_type} |")
 
             output.append("")
 
