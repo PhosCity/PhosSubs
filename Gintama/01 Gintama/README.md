@@ -13,7 +13,7 @@
 
 ## Video Source
 
-The source is [CBT](https://nyaa.si/view/1332962) which is just Yousei-raws + Crunchyroll
+The source is CBT which is just Yousei-raws + Crunchyroll
 since [SeaDex](https://seadex.moe/) suggested this is the best release.
 
 ## How To Use
@@ -55,4 +55,3 @@ since [SeaDex](https://seadex.moe/) suggested this is the best release.
 | Double Episodes | Episode Number Used In This Project |
 | ------------- | ------------- |
 | 1 and 2 | 1 |
-
