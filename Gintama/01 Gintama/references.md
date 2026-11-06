@@ -1,5 +1,35 @@
 # References
 
+## 001
+
+| Timestamp | Reference | Type |
+|---|---|---|
+| 0:00:00.00 | The name Gintama combines "Gin" (silver) and "Tama" ( soul), translating to "Silver Soul". However it is also a word play in that "Gintama" sounds awfully similar to "Kintama" which means testicles. | Pun/Wordplay |
+| 0:00:18.04 | Lake Toya is a real lake in Japan where wooden swords engraved with "Lake Toya" are sold as souvenirs. | Places |
+| 0:00:33.51 | Sakata Gintoki's name is based on Sakata Kintoki (also known as Kintaro), a legendary figure from Japanese folklore renowned for his incredible strength, who eventually became a samurai during the Heian Period. | Names/Folktales |
+| 0:00:52.94 | Shinpachi's first name is based on Shinsengumi captain Nagakura Shinpachi, who later went by Sugimura Yoshie (with Sugimura sounding similar to Shimura). His surname also references comedian Shimura Ken, reflecting his role as the series' straight man who delivers punchlines. | Names/Comedians |
+| 0:01:36.70 | Kagura is based on Kaguya-hime from the Japanese folktale "The Tale of the Bamboo Cutter", in which the Moon-born princess eventually accepts her fate and returns to the Moon, leaving behind her loved ones on Earth. This connection is further reflected in Kagura's heritage as a member of the Yato (夜兎) clan, meaning "Moon Rabbit." | Names/FolkTales |
+| 0:02:04.27 | Ladies 4 was a long-running Japanese daytime television program also broadcast in TV Tokyo featuring lifestyle topics with Toshio Shiba as one of the presenters. | TV Shows |
+| 0:06:35.29 | The names are based on members of "The Drifters", <br>Japanese comedy group and band:<br>- Kariya – Ikariya Chosuke (bass)<br>- Shishimura – Shimura Ken (keyboards)<br>- Shimomoto – Nakamoto Koji (guitar)<br>- Puu – Takagi Buu (guitar) | Names/Bands |
+| 0:07:23.96 | The Shinsengumi was a special police force made up of samurai who served the Tokugawa shogunate, tasked with maintaining order and suppressing anti-shogunate forces in Kyoto during Japan's late Edo Period. | Names/History |
+| 0:07:27.89 | Hijikata Toshizou was the vice-commander of the Shinsengumi, known as its strict disciplinarian and skilled swordsman, earning him the nickname "Demon Vice-Commander." | Names/History |
+| 0:07:31.39 | Okita Souji was the captain of the Shinsengumi's First Division and one of its most skilled swordsmen, renowned for his exceptional swordsmanship despite his young age. | Names/History |
+| 0:07:34.89 | Yamazaki Susumu who was a spy for the Shinsengumi responsible for investigating enemy activities and gathering information. | Names/History |
+| 0:09:06.95 | Weekly Shounen Jump is a popular Japanese manga magazine published by Shueisha, known for serializing some of Japan's most successful shounen manga series. | Companies |
+| 0:10:45.09 | The Nikkei is one of Japan’s major newspaper company. <br>The reason they act good towards Nikkei is because it is also affiliated with TV Tokyo,<br> the TV channel where Gintama was first broadcasted. | Companies |
+| 0:10:49.80 | 「朝日のように爽やかに」(Asahi no you ni sawayaka ni) is a poetic Japanese expression meaning "as refreshing as the morning sun." but it also refers to "Asahi", a competing newspaper company. | Wordplay/Companies |
+| 0:11:48.35 | The name Kato Ken is based on combination of an actor and musician, <br>Matsudaira Ken (also known as Matsuken) and member of band The Drifters, Cha Kato. | Names/Bands |
+| 0:12:45.83 | The hand motion Gintoki makes is the motion you make to operate a pachinko machine, a japanese arcade-style gambling machine. | Others |
+| 0:14:12.71 | Otose was a Japanese innkeeper who operated the Teradaya Inn in Fushimi, Kyoto, which became a significant meeting place for anti-shogunate samurai, including the influential revolutionary Sakamoto Ryoma, during the final years of the Tokugawa shogunate. | Names/History |
+| 0:15:14.06 | The surname Sarutobi is famously associated with Sasuke Sarutobi, the legendary Japanese ninja whose name, meaning “monkey jump,” symbolizes extraordinary agility, speed and acrobatic prowess. | Names/History |
+| 0:18:20.12 | Kondō Isami was the commander of the Shinsengumi, known for his leadership, unwavering loyalty to the Tokugawa shogunate and dedication to the samurai code of honor during Japan's Bakumatsu period. | Names/History |
+| 0:19:21.34 | Katsura means "wig" in Japanese, while Zura is a slang for "wig". | Others |
+| 0:19:24.77 | Katsura Kogorō was a prominent leader of the Chōshū domain and <br>a key figure in the anti-shogunate movement, known for his efforts to overthrow the Tokugawa shogunate and restore imperial rule in Japan. | Names/History |
+| 0:19:33.15 | What the hell is this? | Others |
+| 0:20:55.25 | Antonio Inoki was a famous Japanese professional wrestler and politician, known for his distinctive facial appearance among other things. Kagura is equating being strong to looking like Inoki. | Names |
+| 0:22:16.80 | The explanation of how to jab references the popular anime/manga series <br>Ashita no Joe (Tomorrow's Joe), where each lesson begins with the phrase 「明日のために」 (Ashita no tame ni, "For tomorrow"). Shinpachi also uses this phrase here, implying that Kato Ken's training is part of preparing for tomorrow. | Anime/Manga |
+| 0:22:31.37 | Kagura's disguise references Tange Danpei, Joe's boxing mentor from Ashita no Joe. She also quotes his famous line, "Namidabashi wo gyaku ni watare" ("Cross Bridge of Tears in the opposite direction"). | Anime/Manga |
+
 ## 003
 
 | Timestamp | Reference | Type |
