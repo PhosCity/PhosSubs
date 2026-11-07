@@ -23,12 +23,19 @@
 | 0:14:12.71 | Otose was a Japanese innkeeper who operated the Teradaya Inn in Fushimi, Kyoto, which became a significant meeting place for anti-shogunate samurai, including the influential revolutionary Sakamoto Ryoma, during the final years of the Tokugawa shogunate. | Names/History |
 | 0:15:14.06 | The surname Sarutobi is famously associated with Sasuke Sarutobi, the legendary Japanese ninja whose name, meaning “monkey jump,” symbolizes extraordinary agility, speed and acrobatic prowess. | Names/History |
 | 0:18:20.12 | Kondō Isami was the commander of the Shinsengumi, known for his leadership, unwavering loyalty to the Tokugawa shogunate and dedication to the samurai code of honor during Japan's Bakumatsu period. | Names/History |
-| 0:19:21.34 | Katsura means "wig" in Japanese, while Zura is a slang for "wig". | Others |
+| 0:19:21.34 | Katsura means wig in Japanese while Zura is a slang for wig too. So when Katsura insists his name is Katsura and not Zura by saying, <br>"It's not Zura. It's Katsura", he is essentially saying, "It's not wig. It's wig" | Others |
 | 0:19:24.77 | Katsura Kogorō was a prominent leader of the Chōshū domain and <br>a key figure in the anti-shogunate movement, known for his efforts to overthrow the Tokugawa shogunate and restore imperial rule in Japan. | Names/History |
 | 0:19:33.15 | What the hell is this? | Others |
 | 0:20:55.25 | Antonio Inoki was a famous Japanese professional wrestler and politician, known for his distinctive facial appearance among other things. Kagura is equating being strong to looking like Inoki. | Names |
 | 0:22:16.80 | The explanation of how to jab references the popular anime/manga series <br>Ashita no Joe (Tomorrow's Joe), where each lesson begins with the phrase 「明日のために」 (Ashita no tame ni, "For tomorrow"). Shinpachi also uses this phrase here, implying that Kato Ken's training is part of preparing for tomorrow. | Anime/Manga |
 | 0:22:31.37 | Kagura's disguise references Tange Danpei, Joe's boxing mentor from Ashita no Joe. She also quotes his famous line, "Namidabashi wo gyaku ni watare" ("Cross Bridge of Tears in the opposite direction"). | Anime/Manga |
+| 0:25:54.47 | Totsugeki! Tonari no Bangohan (突撃!隣の晩ごはん; "Breaking into neighbor's dinner") is a Japanese TV reality show where its host walks door-to-door and, without much introduction, invites himself into unsuspecting residents' dinner. | TV Shows |
+| 0:31:29.60 | Bunta Sugawara was a Japanese actor best known for portraying tough, intimidating gangsters and ruthless antiheroes in classic Japanese crime and yakuza films. | Names/Actors |
+| 0:33:32.03 | The background music is the iconic theme song of Darth Vader from Star Wars called ‘Imperial March’. | Movies |
+| 0:38:56.33 | Ikkyū was a famous Japanese Zen Buddhist monk, popularly portrayed in Japanese stories as an extremely clever person who solves problems through witty, unconventional thinking. | Names/History |
+| 0:41:12.77 | Continuing the Star Wars reference from earlier, Kariya is now wielding a lightsaber, the iconic weapon from the franchise. | Movies |
+| 0:44:52.35 | Bankai is the final and most powerful form of a Zanpakutō, the weapon wielded by Soul Reapers in the series Bleach. | Anime/Manga |
+| 0:44:59.13 | Katoken Samba is a parody of Matsuken Samba, a popular song performed by Matsudaira Ken. Kato Ken's character is partly based on Matsudaira Ken. | Anime/Manga |
 
 ## 003
 
