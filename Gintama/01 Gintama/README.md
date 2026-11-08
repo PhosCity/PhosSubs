@@ -4,10 +4,13 @@
 
 [Anilist Link](https://anilist.co/anime/918/Gintama/)
 
+STATUS: 2/201
+
 ## Changes Made
 
-- The major changes made is just Gintama DVD subs with typesetting and dialogue
-    styling.
+- The major changes made is just Crunchyroll subs with typesetting, improved
+    timing and dialogue styling.
+- Some attempt has been made to make dialogue more natural.
 - References were added but better research could be done on them and added.
 - Openings and Endings have simple karaoke made for them.
 
@@ -18,7 +21,7 @@ since [SeaDex](https://seadex.moe/) suggested this is the best release.
 
 ## How To Use
 
-- Download the video.
+- Download the video from CBT group.
 - Batch rename the videos to episode number only. There are many software to do
     this easily. For example, episode 3 becomes `003.mkv`. All episodes are padded
     with 0 upto 3 digits. There are cases of double episodes like episode 1 and
@@ -48,7 +51,7 @@ since [SeaDex](https://seadex.moe/) suggested this is the best release.
     python mux.py -b 1 201
     ```
 
-- The muxed files will be present in the folder named `Release`.
+- The muxed mkv files will be present in the folder named `Release`.
 
 ## Double Episodes
 
