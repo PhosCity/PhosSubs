@@ -169,6 +169,12 @@ def mux_file(ep):
     subtitle_file.clean_styles().clean_garbage().clean_extradata().clean_comments()
 
     # ╭──────────────────────────────────────────────────────────────────────────────╮
+    # │ Remove References                                                            │
+    # ╰──────────────────────────────────────────────────────────────────────────────╯
+    print_header("Create subtitle without references...")
+    sub_wo_references = subtitle_file.copy().separate_signs(["Notes"])
+
+    # ╭──────────────────────────────────────────────────────────────────────────────╮
     # │ Font Collection                                                              │
     # ╰──────────────────────────────────────────────────────────────────────────────╯
     print_header("Collecting fonts for English subs...")
@@ -183,7 +189,13 @@ def mux_file(ep):
     # │ Muxing                                                                       │
     # ╰──────────────────────────────────────────────────────────────────────────────╯
     print_header("Muxing...", dash_type="=")
-    mux(video, subtitle_file.to_track("English", "en"), *fonts, chapters)
+    mux(
+        video,
+        subtitle_file.to_track("English", "en"),
+        sub_wo_references.to_track("English (No References)", "enm"),
+        *fonts,
+        chapters,
+    )
 
 
 def main():
