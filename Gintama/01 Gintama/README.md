@@ -4,7 +4,7 @@
 
 [Anilist Link](https://anilist.co/anime/918/Gintama/)
 
-STATUS: 2/201
+STATUS: 3/201
 
 ## Changes Made
 
