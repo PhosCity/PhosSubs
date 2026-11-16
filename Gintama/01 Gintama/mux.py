@@ -74,6 +74,7 @@ double_episodes[1:2] = 1
 all_title = {
     1: "You Guys!! Do You Even Have Gintama?!",
     3: "Nobody with Naturally Wavy Hair Can be That Bad!",
+    4: "Watch Out! Weekly Shonen JUMP Sometimes Comes Out on Saturdays!",
 }
 
 
