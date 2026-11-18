@@ -17,10 +17,10 @@
 ### Subtitles
 !Gintama/01 Gintama/**/* en.ass
 ### Fonts
-!Gintama/01 Gintama/fonts/*otf
-!Gintama/01 Gintama/fonts/*OTF
-!Gintama/01 Gintama/fonts/*ttf
-!Gintama/01 Gintama/fonts/*TTF
+!Gintama/01 Gintama/fonts/**/*otf
+!Gintama/01 Gintama/fonts/**/*OTF
+!Gintama/01 Gintama/fonts/**/*ttf
+!Gintama/01 Gintama/fonts/**/*TTF
 ### Openings
 !Gintama/01 Gintama/Openings/**/*.ass
 !Gintama/01 Gintama/Openings/**/*.py
