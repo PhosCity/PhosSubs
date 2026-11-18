@@ -14,9 +14,12 @@ depctrl = DependencyControl{
             feed: "https: //raw.githubusercontent.com/TypesettingTools/ASSFoundation/master/DependencyControl.json"},
         {"phos.AssfPlus", version: "1.0.5", url: "https://github.com/PhosCity/Aegisub-Scripts",
             feed: "https://raw.githubusercontent.com/PhosCity/Aegisub-Scripts/main/DependencyControl.json"},
+        {"phos.AegiGui", version: "1.0.0", url: "https://github.com/PhosCity/Aegisub-Scripts",
+            feed: "https://raw.githubusercontent.com/PhosCity/Aegisub-Scripts/main/DependencyControl.json"},
     },
 }
-LineCollection, ASS, AssfPlus = depctrl\requireModules!
+LineCollection, ASS, AssfPlus, AegiGUI = depctrl\requireModules!
+
 
 notes = (sub, sel) ->
     AssfPlus._util.windowAssertError AssfPlus._util.checkVideoIsOpen!, "You must have video open to use this script."
@@ -85,6 +88,52 @@ notes = (sub, sel) ->
 
     lines\insertLines!
     lines\deleteLines toDelete
+
+
+lineToNote = (sub, sel) ->
+
+    startTime, endTime = math.huge, 0
+    local line
+    for i in *sel
+        line = sub[i]
+        startTime = math.min(startTime, sub[i].start_time)
+        endTime = math.max(endTime, sub[i].end_time)
+
+    if startTime == math.huge or endTime == 0
+        aegisub.log "Could not determine time."
+        aegisub.cancel!
+
+    dialog_str = "
+    | label, Note Type:  | edit, note_type |          |
+    | label, Enter Note: |                 | pad, 100 |
+    | text, note, 5      |                 |          |
+    "
+
+    btn, res = AegiGUI.open dialog_str
+    aegisub.cancel! if btn == "Cancel"
+    note = res.note
+
+    if res.note == "" or res.note_type == ""
+        aegisub.log "You need to enter both note and note type."
+        aegisub.cancel!
+
+    line.text = res.note
+    line.start_time = startTime
+    line.end_time = endTime
+    line.comment = false
+    line.actor = res.note_type
+    line.effect = ""
+    line.margin_l = 0
+    line.margin_b = 0
+    line.margin_r = 0
+    line.margin_t = 0
+    line.style = "Notes"
+    line.layer = 50
+
+    sub.insert(#sub, line)
+
+    sel = {#sub - 1}
+    notes sub, sel
 
 
 preprocessing = (subs, sel) ->
@@ -245,6 +294,7 @@ preprocessing = (subs, sel) ->
 
 
 depctrl\registerMacros{
-    { "Preprocessing", "Preprocess the subtitle file before doing anything", preprocessing }
-    { "Notes",         "Add reference notes",                                notes }
+    { "Preprocessing",      "Preprocess the subtitle file before doing anything", preprocessing }
+    { "Notes",              "Add reference notes",                                notes }
+    { "Dialogue to Notes",  "Add a note that spans selected dialgoues",           lineToNote }
 }
