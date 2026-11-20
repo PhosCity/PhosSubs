@@ -47,3 +47,15 @@
 | 0:08:09.95 | Seppuku is a form of ritual suicide by disembowelment, historically practiced by samurai to preserve their honor or avoid dishonor. | History |
 | 0:17:10.96 | TV prime time in Japan is generally 7:00 PM to 10:00 PM <br>where sexual content and nudity is not allowed. | Japan TV Laws |
 | 0:24:51.72 | Getsuga Tensho is a technique of Ichigo Kurosaki, protagonist of the series Bleach. The Jump magazine Gintoki is reading also features Ichigo in the front page. | Anime/Manga |
+
+## 004
+
+| Timestamp | Reference | Type |
+|---|---|---|
+| 0:02:36.28 | This is most likely referencing Onihei Hankachō, a Japanese historical crime drama following Heizo Hasegawa fighting crime in Edo-era Japan. | TV Show |
+| 0:06:03.30 | This is a reference to Doraemon where a time machine is often found in enclosed spaces like a desk drawer. | Anime/Manga |
+| 0:06:11.68 | Mezamashi Terebi, meaning “Wake-Up TV,” is a popular Japanese morning TV program featuring news, weather, entertainment, lifestyle and pop culture. | TV Show |
+| 0:08:51.06 | Sake chazuke is a Japanese dish of rice topped with salmon and seaweed, then covered with hot tea or broth. | Food |
+| 0:12:31.23 | Akamaru Jump (1996-2010) was a seasonal spin-off magazine from Weekly Shonen Jump featuring one-shot manga by aspiring manga artists. | Manga |
+| 0:18:08.94 | Hideaki Sorachi is the mangaka of the series Gintama. | People |
+| 0:24:52.64 | Weekly Shōnen Sunday is a Japanese weekly manga magazine published by Shogakukan while Weekly Shōnen Jump is published by Shueisha. | Manga |
